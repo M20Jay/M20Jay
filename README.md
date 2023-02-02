@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-As a data scientist, I have expertise in collecting, analyzing, and interpreting large datasets. I have experience in using statistical techniques, machine learning algorithms, and data visualization tools to turn data into actionable insights. I am proficient in programming languages such as Python and R and am familiar with various data analysis libraries and frameworks. I am currently seeking open opportunities in data science to utilize my skills and contribute to the growth of organizations. <img align="center" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+As a data scientist, I have expertise in collecting, analyzing, and interpreting large datasets. I have experience in using statistical techniques, machine learning algorithms, and data visualization tools to turn data into actionable insights. I am proficient in programming languages such as Python and R and am familiar with various data analysis libraries and frameworks. I am currently seeking open opportunities in data science to utilize my skills and contribute to the growth of organizations. <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [ngangam93@gmail.com](mailto:ngangam93@gmail.com)
