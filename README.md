@@ -8,8 +8,8 @@ As a data scientist, I have expertise in collecting, analyzing, and interpreting
 
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [ngangam93@gmail.com](mailto:ngangam93@gmail.com)
-*🛠️ Expert in: Python • R • SQL • Tableau • Power BI • TensorFlow • ProjectLibre • Microsoft 365
-📊 Specializing in healthcare AI, digital transformation, and sustainable development solutions
+* 🛠️ Expert in: Python • R • SQL • Tableau • Power BI • TensorFlow • ProjectLibre • Microsoft 365
+* 📊 Specializing in healthcare AI, digital transformation, and sustainable development solutions
 * 🤝  I'm open to collaborating on I'm open to collaborating on any kind of project
 * 🎯 Specializing in healthcare AI, digital transformation, and sustainable development solutions
 * 🌍 10+ years delivering measurable impact across East Africa and international markets
