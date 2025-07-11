@@ -1,15 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martin James
 ====================================================================================================================================
 
-Data Scientist
+Senior Data Scientist & Digital Transformation Leader
 --------------
 
 As a data scientist, I have expertise in collecting, analyzing, and interpreting large datasets. I have experience in using statistical techniques, machine learning algorithms, and data visualization tools to turn data into actionable insights. I am proficient in programming languages such as Python and R and am familiar with various data analysis libraries and frameworks. I am currently seeking open opportunities in data science to utilize my skills and contribute to the growth of organizations. <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 * 🌍  I'm based in Nairobi,Kenya
 * ✉️  You can contact me at [ngangam93@gmail.com](mailto:ngangam93@gmail.com)
-* 🧠  I'm learning Numpy .Pandas .Matplotlib
+*🛠️ Expert in: Python • R • SQL • Tableau • Power BI • TensorFlow • ProjectLibre • Microsoft 365
+📊 Specializing in healthcare AI, digital transformation, and sustainable development solutions
 * 🤝  I'm open to collaborating on I'm open to collaborating on any kind of project
+* 🎯 Specializing in healthcare AI, digital transformation, and sustainable development solutions
+* 🌍 10+ years delivering measurable impact across East Africa and international markets
+* 🔗 LinkedIn: https://www.linkedin.com/in/martin-james-nganga
 * ⚡  "Data is like garbage. You'd better know how to handle it."
 
 ### Skills
