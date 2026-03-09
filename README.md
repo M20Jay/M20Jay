@@ -112,34 +112,3 @@ AI chatbot that answers questions from custom documents.
 <img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="48%" />
 </p>
-```
-
----
-
-## What Was Fixed
-```
-✅ R icon         → cdn.simpleicons.org/r          (was broken)
-✅ Matplotlib     → cdn.simpleicons.org/matplotlib  (was broken)
-✅ All icons now  → simpleicons.org — most reliable
-                    icon CDN on the internet,
-                    never goes down
-
-✅ Added:  scikit-learn icon  (new — relevant to your work)
-✅ Added:  Pandas icon        (new — you use this daily)
-✅ Added:  Jupyter icon       (new — your notebook tool)
-✅ Added:  Google Colab icon  (new — where you work)
-✅ Fixed:  &nbsp; spacing between icons (looks cleaner)
-✅ Fixed:  GitHub stats URLs  (cleaned up parameters)
-```
-
----
-
-## How To Update
-```
-1. Go to github.com/M20Jay/M20Jay
-2. Click pencil icon ✏️
-3. Select all → delete everything
-4. Paste the code above
-5. Commit message: "Fix broken icons + add new skill icons"
-6. Commit directly to main ✅
-7. Go to github.com/M20Jay to see the result
