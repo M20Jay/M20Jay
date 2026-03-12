@@ -63,16 +63,18 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
 
 ### 📚 ML Learning Journey — Building In Public
 
-| # | Notebook | Status |
-|---|----------|--------|
-| 01 | EDA and Data Exploration | ✅ Completed and pushed |
-| 06 | ROC Curve and Evaluation Metrics | ✅ Completed and pushed |
-| 02 | Classification Models | ⏳ Coming Soon |
-| 03 | Regression Models | ⏳ Coming Soon |
-| 04 | Clustering | ⏳ Coming Soon |
-| 07 | Neural Networks | ⏳ Coming Soon |
-| 08 | TensorFlow and Keras | ⏳ Coming Soon |
-| 10 | Generative AI and RAG | ⏳ Coming Soon |
+| # | Notebook | Dataset | Status |
+|---|----------|---------|--------|
+| 01 | EDA and Data Exploration | Titanic | ✅ Complete |
+| 02 | Data Preprocessing and Cleaning | Titanic | ⏳ Coming Soon |
+| 03 | Classification Models | Titanic | ⏳ Coming Soon |
+| 04 | Regression Models | House Prices | ⏳ Coming Soon |
+| 05 | Model Evaluation and ROC Curves | Titanic | ✅ Complete |
+| 06 | Clustering and Unsupervised Learning | Mall Customers | ⏳ Coming Soon |
+| 07 | Neural Networks | MNIST | ⏳ Coming Soon |
+| 08 | TensorFlow and Keras | MNIST | ⏳ Coming Soon |
+| 09 | NLP Fundamentals | Twitter Sentiment | ⏳ Coming Soon |
+| 10 | Generative AI and RAG | Custom Documents | ⏳ Coming Soon |
 
 ---
 
@@ -102,7 +104,7 @@ AI chatbot that answers questions from custom documents.
 <p align="left">
 <a href="https://www.github.com/M20Jay" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/martin-james-nganga" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.twitter.com/ngangam93" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X / Twitter" /></a>
+<a href="https://www.twitter.com/jeymartins2" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X / Twitter" /></a>
 </p>
 
 ---
@@ -112,3 +114,14 @@ AI chatbot that answers questions from custom documents.
 <img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="48%" />
 </p>
+```
+
+---
+
+**What changed:**
+```
+✅ Notebook table — correct pipeline order
+✅ Dataset column added — shows planning
+✅ 10 notebooks — complete list
+✅ Twitter fixed — @jeymartins2
+✅ Everything else — kept exactly as is
