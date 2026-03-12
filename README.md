@@ -65,7 +65,7 @@ src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/As
 
 | # | Notebook | Status |
 |---|----------|--------|
-| 01 | EDA and Data Exploration | 🔄 In Progress |
+| 01 | EDA and Data Exploration | ✅ Completed and pushed |
 | 06 | ROC Curve and Evaluation Metrics | ✅ Completed and pushed |
 | 02 | Classification Models | ⏳ Coming Soon |
 | 03 | Regression Models | ⏳ Coming Soon |
