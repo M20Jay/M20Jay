@@ -1,12 +1,12 @@
 # Hi 👋 My name is Martin James
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="ML Engineer coding" />
+<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="ML Engineer" />
 
-## Senior ML Engineer · MLOps · Telecom Analytics · Fraud Detection | Nairobi, Kenya 🇰🇪
+## Senior ML Engineer · MLOps · Predictive Analytics · Production APIs | Nairobi, Kenya 🇰🇪
 
 > *"Data is only as powerful as the institution willing to act on it. I have spent 10 years building both."*
 
-I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is telecom analytics, fraud detection, and MLOps infrastructure built to enterprise scale.
+I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is fraud detection, telecom analytics, healthcare AI, and MLOps infrastructure built to enterprise scale.
 
 Currently executing an **11-week intensive MLOps crush programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 
@@ -17,7 +17,7 @@ Currently executing an **11-week intensive MLOps crush programme** — one compl
 - 🟢 Live: [**Real-Time Fraud Detection API**](https://lnkd.in/dUxZgGWS)
 - 🔭 Currently building: **11-Week MLOps Crush Programme · Churn Pipeline · Kafka Streaming**
 - 🌱 Deepening: **Docker · Kafka · MLflow · DVC · Grafana · AWS EC2**
-- 🤝 Open to collaborating on **African AI and telecom analytics projects**
+- 🤝 Open to collaborating on **African AI · telecom · healthcare · environmental analytics projects**
 - 🔗 LinkedIn: [martin-james-nganga](https://www.linkedin.com/in/martin-james-nganga)
 - 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries
 - ⚡ *"Data is like garbage. You'd better know what to do with it before it piles up."*
@@ -32,6 +32,7 @@ Currently executing an **11-week intensive MLOps crush programme** — one compl
 | 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
+| 🏥 **Healthcare AI — malignant vs benign prediction** | Clinical ML classification model |
 | 🚀 **20+ production ML projects** | Deployed, monitored and documented |
 
 ---
@@ -145,16 +146,17 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 
 ### ☁️ Cloud and MLOps Automation
 <p align="left">
-<img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="36" height="36" alt="AWS" />&nbsp;
+<img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="36" height="36" alt="AWS" />&nbsp;
 <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />&nbsp;
 <img src="https://cdn.simpleicons.org/grafana/F46800" width="36" height="36" alt="Grafana" />&nbsp;
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="36" height="36" alt="MLflow" />
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="36" height="36" alt="MLflow" />&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />
 </p>
 
 ### 📊 Visualisation and BI
 <p align="left">
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="36" height="36" alt="Power BI" />&nbsp;
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="36" height="36" alt="Tableau" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
 ---
@@ -163,8 +165,9 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 
 | Area | Skills |
 |------|--------|
-| **Machine Learning** | Fraud detection · churn prediction · ensemble methods · feature engineering · SHAP explainability |
+| **Machine Learning** | Fraud detection · churn prediction · healthcare AI · ensemble methods · feature engineering · SHAP |
 | **MLOps** | End-to-end pipelines · Docker · Grafana monitoring · MLflow · DVC · auto-retraining workflows |
+| **Sector Experience** | Telecom · Banking · Healthcare · Environmental Analytics · Digital Transformation |
 | **Telecom Analytics** | Churn · ARPU · CLV · propensity modelling · anomaly detection · customer segmentation |
 | **Data Versioning** | DVC · experiment tracking · model registry · reproducible training pipelines |
 | **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-200ms latency |
@@ -174,18 +177,18 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 ---
 
 ## 🌐 Socials
-<p align="left">
-<a href="https://www.github.com/M20Jay" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/martin-james-nganga" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.twitter.com/jeymartins2" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X / Twitter" /></a>
-</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-M20Jay-181717?style=flat&logo=github&logoColor=white)](https://github.com/M20Jay)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--james--nganga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-james-nganga)&nbsp;
+[![X](https://img.shields.io/badge/X-jeymartins2-000000?style=flat&logo=x&logoColor=white)](https://www.twitter.com/jeymartins2)
 
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -194,6 +197,3 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 
 - 🎓 **MSc Computer Science — Georgia Tech OMSCS** — January 2027 · Specialisation in Machine Learning
 - 🌍 **African Language NLP** — Building Kiswahili AI models for low-resource African languages — language preservation through AI · making technology accessible across Africa
-
-
-
