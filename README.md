@@ -1,6 +1,8 @@
 # Hi 👋 My name is Martin James
 
-<img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="ML Engineer" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Senior+ML+Engineer+%7C+MLOps+Engineer;Fraud+Detection+%7C+Telecom+Analytics;Healthcare+AI+%7C+Predictive+Analytics;Building+in+public+%E2%80%94+no+shortcuts" alt="Typing SVG" />
+</div>
 
 ## Senior ML Engineer · MLOps · Predictive Analytics · Production APIs | Nairobi, Kenya 🇰🇪
 
@@ -197,3 +199,12 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 
 - 🎓 **MSc Computer Science — Georgia Tech OMSCS** — January 2027 · Specialisation in Machine Learning
 - 🌍 **African Language NLP** — Building Kiswahili AI models for low-resource African languages — language preservation through AI · making technology accessible across Africa
+
+---
+
+*11 weeks. 11 production projects. One complete MLOps engineer. Building in public — no shortcuts.*
+```
+
+---
+
+
