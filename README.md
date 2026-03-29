@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0891B2&center=false&vCenter=true&width=500&lines=Senior+ML+Engineer+%7C+MLOps+Engineer;Fraud+Detection+%7C+Telecom+Analytics;Healthcare+AI+%7C+Predictive+Analytics;Building+in+public+%E2%80%94+no+shortcuts" alt="Typing SVG" />
 </div>
 
-## Senior ML Engineer · MLOps · Predictive Analytics · Production APIs | Nairobi, Kenya 🇰🇪
 
 > *"Data is only as powerful as the institution willing to act on it. I have spent 10 years building both."*
 
