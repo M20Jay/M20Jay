@@ -61,7 +61,7 @@ Body:     { "transaction_amount": 450.0, "time": 3600 }
 Response: { "fraud_probability": 0.923, "decision": "BLOCK" }
 ```
 
-🌐 [Live API Endpoint](https://lnkd.in/dUxZgGWS) · 📁 [View Repository](https://github.com/M20Jay/Data-Science-Portfolio)
+🌐 [Live API](https://fraud-detection-api-3ebk.onrender.com) · 📖 [Interactive Docs](https://fraud-detection-api-3ebk.onrender.com/docs) · 📁 [View Repository](https://github.com/M20Jay/Data-Science-Portfolio)
 
 > ⚙️ **Week 2 upgrade in progress:** Kafka streaming · Redis caching · Docker · PostgreSQL · Grafana monitoring
 
