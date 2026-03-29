@@ -1,9 +1,10 @@
 # Hi 👋 My name is Martin James
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="ML Engineer coding" />
+
 ## Senior ML Engineer · MLOps · Telecom Analytics · Fraud Detection | Nairobi, Kenya 🇰🇪
 
-<div align="right">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340" alt="ML Engineer at work" />
-</div>
+> *"Data is only as powerful as the institution willing to act on it. I have spent 10 years building both."*
 
 I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is telecom analytics, fraud detection, and MLOps infrastructure built to enterprise scale.
 
@@ -194,6 +195,5 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 - 🎓 **MSc Computer Science — Georgia Tech OMSCS** — January 2027 · Specialisation in Machine Learning
 - 🌍 **African Language NLP** — Building Kiswahili AI models for low-resource African languages — language preservation through AI · making technology accessible across Africa
 
----
 
-*11 weeks. 11 production projects. One complete MLOps engineer. Building in public — no shortcuts.*
+
