@@ -1,156 +1,99 @@
-# Hi 👋 My name is Martin James
-### Senior Data Scientist | ML Engineer | Nairobi, Kenya 🇰🇪
+Martin James — ML Engineer · MLOps · Telecom Analytics
+Nairobi, Kenya 🇰🇪 · LinkedIn · Email · @jeymartins2
 
-I build end-to-end ML solutions — from raw data through feature engineering, model development, deployment and monitoring. 10+ years delivering measurable impact across fraud detection, churn prediction, financial analytics and business intelligence.
+Who I Am
+I build end-to-end ML systems — from raw data to live production APIs with automated monitoring and retraining. My focus is telecom analytics, fraud detection, and MLOps pipelines built to survive in production.
+Currently executing a 10-week self-directed MLOps project series covering churn prediction, real-time fraud detection, customer segmentation, revenue forecasting, propensity modelling, anomaly detection, customer lifetime value, pipeline automation, and cloud deployment — all built with industry-standard tools and pushed live to AWS.
+🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+"Data is like garbage. You'd better know what to do with it before it piles up."
 
-- 📍 Based in Nairobi, Kenya
-- ✉️ Contact: ngangam93@gmail.com
-- 🔭 Currently building: African Language NLP · Kiswahili AI models · Production ML APIs
-- 🟢 Live: [Real-time Fraud Detection API](https://fraud-detection-api-3ebk.onrender.com/docs) — 99.72% accuracy · 284,807 transactions
-- 🌱 Learning: FastAPI · MLflow · GenAI · RAG Systems
-- 💼 Background: Fraud Detection · Financial Analytics · Healthcare AI · Digital Transformation
-- 🤝 Open to collaborating on African AI and ML projects
-- 🔗 LinkedIn: [martin-james-nganga](https://www.linkedin.com/in/martin-james-nganga)
-- 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries
-- ⚡ "Data is like garbage. You'd better know what to do with it before it piles up."
 
----
+Proven Results
+AchievementDetail🎯99.72% fraud detection accuracy284,807 transactions · live API💰KES 29.6M revenue turnaroundData-driven business transformation📈95.25% accuracy — mobile price predictionProduction ML classification model📊87.55% R² — insurance premium predictionProduction regression model🚀20+ production ML projectsDeployed and documented
 
-## 🔥 Key Achievements
+🟢 Live Now — Real-Time Fraud Detection API
+XGBoost · scikit-learn · REST API · Render
+Real-time transaction scoring — 99.72% accuracy on 284,807 transactions.
+jsonPOST /predict
+{ "transaction_amount": 450.0, "time": 3600 }
 
-- ✅ 99.72% fraud detection accuracy — 284,807 transactions
-- ✅ 95.25% ML model accuracy — mobile price prediction
-- ✅ 87.55% R² — insurance premium prediction
-- ✅ KES 29.6M revenue turnaround
-- ✅ 20+ production ML projects
+Response:
+{ "fraud_probability": 0.923, "decision": "BLOCK" }
+🌐 Live API Endpoint · 📁 View Repository
 
----
+🔨 Week 2 upgrade in progress: Kafka streaming · Redis caching · Docker · PostgreSQL · Grafana monitoring
 
-## 🟢 Live Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| 🔍 Fraud Detection API | Real-time transaction scoring — 99.72% accuracy on 284,807 transactions | [View Live API](https://fraud-detection-api-3ebk.onrender.com/docs) |
+📅 10-Week MLOps Project Series
+WeekProjectStackStatus01Churn Prediction PipelineXGBoost · Flask · Docker · PostgreSQL · Grafana🔨 In Progress02Real-Time Fraud Detection v2XGBoost · Kafka · Redis · Flask · Docker⏳ Week 203Customer SegmentationKMeans · PCA · PostgreSQL · Power BI⏳ Week 304Revenue and ARPU ForecastingProphet · ARIMA · PostgreSQL · Grafana⏳ Week 405Propensity ModellingXGBoost Multi-class · Flask · Docker⏳ Week 506Anomaly DetectionIsolation Forest · DBSCAN · Kafka⏳ Week 607Customer Lifetime ValueBG/NBD · RFM · Power BI⏳ Week 708MLOps Pipeline AutomationMLflow · Prefect · Evidently AI · GitHub Actions⏳ Week 809Cloud Deployment on AWSEC2 · RDS · ECR · Docker · HTTPS⏳ Week 910Portfolio CapstoneEverything · Unitel Telecom Use Case⏳ Week 10
+Updated every Sunday. Each completed week: ✅ Complete · live link added.
 
----
+🔨 Week 1 — Churn Prediction Pipeline
+Goal: Predict which telecom customers will churn and rank them by revenue at risk so the retention team calls the right customers first.
+Pipeline
+StageDetail🏢 Business UnderstandingWho is churning? Cost of missing one churner? What action on a high score?🔍 EDA7,043 customers · 26% churn rate · class imbalance identified⚙️ Feature Engineeringtenure_group · charges_per_month · is_high_value🔧 PreprocessingLabelEncoder · SMOTE · train_test_split(stratify=y) 80/20🤖 Model TrainingLogistic Regression (baseline) → Random Forest (bagging) → XGBoost (winner)✅ Cross ValidationStratifiedKFold(5) · scoring=roc_auc · mean AUC + std📊 EvaluationAUC · Precision · Recall · F1 · Confusion Matrix · SHAP values🚀 DeploymentFlask API → Docker → PostgreSQL → Grafana monitoring💰 Business Outputpriority_score = churn_probability × ARPU
+Feature Engineering
+pythontenure_group      = pd.cut(tenure, bins=[0,12,24,72])   # new vs loyal customer
+charges_per_month = TotalCharges / tenure                 # spending rate
+is_high_value     = (MonthlyCharges > 80).astype(int)    # high revenue flag
+priority_score    = churn_probability × ARPU              # who to call first
 
-## 🛠️ Skills
+🔨 AUC, Precision and Recall scores will be updated on completion
 
-### 💻 Programming & Data Science
-<p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" /></a>&nbsp;
-<a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/r/276DC3" width="36" height="36" alt="R" /></a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36" alt="SQL" /></a>&nbsp;
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" alt="TensorFlow" /></a>&nbsp;
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="scikit-learn" /></a>
+📁 View Repository · 🌐 Live API · 📊 Grafana Dashboard
+
+🛠️ Skills
+💻 Programming and Data Science
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+</p>
+🚀 Deployment and Infrastructure
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/>
+</p>
+☁️ Cloud and Automation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana"/>
+</p>
+📊 Visualisation and BI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
 </p>
 
-### 📊 Data Visualization & BI
-<p align="left">
-<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.simpleicons.org/tableau/E97627" width="36" height="36" alt="Tableau" /></a>&nbsp;
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="36" height="36" alt="Power BI" /></a>&nbsp;
-<a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="36" height="36" alt="Matplotlib" /></a>&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas" /></a>
-</p>
+🎯 Core Competencies
+AreaDetailMachine LearningFraud detection · churn prediction · ensemble methods · feature engineering · SHAPMLOpsEnd-to-end pipelines · Docker · Grafana monitoring · MLflow · auto-retrainingTelecom AnalyticsChurn · ARPU · CLV · propensity modelling · anomaly detection · segmentationData VisualisationExecutive dashboards · Power BI · Tableau · interactive analyticsStreamingReal-time scoring · Apache Kafka · Redis caching · sub-200ms latencyCloudAWS EC2 · RDS · ECR · HTTPS deployment · production-grade infrastructure
 
-### 🔧 Platforms & Tools
-<p align="left">
-<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" /></a>&nbsp;
-<a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="36" height="36" alt="Google Cloud" /></a>&nbsp;
-<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"><img src="https://cdn.simpleicons.org/microsoft/737373" width="36" height="36" alt="Microsoft 365" /></a>&nbsp;
-<a href="https://jupyter.org/" target="_blank"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="36" height="36" alt="Jupyter" /></a>&nbsp;
-<a href="https://colab.research.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="36" height="36" alt="Google Colab" /></a>
-</p>
+📊 GitHub Stats
+Show Image
+Show Image
+Show Image
 
----
+📁 Other Repositories
+RepositoryDescriptionData-Science-PortfolioClassification · regression · fraud detection · churn · Python · scikit-learnml-learning-journeyStructured ML notebooks — EDA through model deploymentR-Studio-ProjectsStatistical analysis · ggplot2 · R Markdown
 
-## 🎯 Core Competencies
+🎯 Goals
+🎓 MSc Computer Science — Georgia Tech OMSCS — January 2027
+Specialisation in Machine Learning · One of the world's top ranked online CS programmes
+🌍 African Language NLP
+Building Kiswahili AI models for low-resource African languages — one of my most important long-term projects · language preservation through AI · making technology accessible across Africa
 
-- **Machine Learning:** Fraud detection, churn prediction, ensemble methods, feature engineering
-- **NLP & GenAI:** African language models, Kiswahili AI, RAG systems
-- **Data Visualization:** Executive dashboards, interactive analytics
-- **MLOps:** FastAPI deployment, MLflow, production ML APIs
-- **Healthcare AI:** Mental health applications, patient flow analysis
+🤝 Connect
+Open to collaborating on African AI, telecom analytics, MLOps pipelines, and fraud detection systems.
+📧 ngangam93@gmail.com · 🔗 LinkedIn · 🐦 @jeymartins2
 
----
-
-## 📚 ML Learning Journey — Building In Public
-
-| # | Notebook | Dataset | Status |
-|---|----------|---------|--------|
-| 01 | EDA and Data Exploration | Titanic | ✅ Complete |
-| 02 | Data Preprocessing and Cleaning | Titanic | ✅ Complete |
-| 03 | Classification Models | Titanic | ⏳ Coming Soon |
-| 04 | Regression Models | House Prices | ⏳ Coming Soon |
-| 05 | Model Evaluation and ROC Curves | Titanic | ✅ Complete |
-| 06 | Clustering and Unsupervised Learning | Mall Customers | ⏳ Coming Soon |
-| 07 | Neural Networks | MNIST | ⏳ Coming Soon |
-| 08 | TensorFlow and Keras | MNIST | ⏳ Coming Soon |
-| 09 | NLP Fundamentals | Twitter Sentiment | ⏳ Coming Soon |
-| 10 | Generative AI and RAG | Custom Documents | ⏳ Coming Soon |
-
----
-
-## 🚀 Portfolio Projects
-
-### 🔮 Project 1 — Customer Churn Prediction
-> Classification · Imbalanced Data · FastAPI Deployment
-
-Predict which telecom customers will leave using ML.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SMOTE](https://img.shields.io/badge/SMOTE-imbalanced-red)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-⏳ In Progress
-
----
-
-### 📊 Project 2 — Full Stack Analytics Dashboard
-> SQL · Python · Power BI · Business Insights
-
-End-to-end analysis: Python cleaning → SQL queries → Power BI dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-⏳ Coming Soon
-
----
-
-### 🤖 Project 3 — RAG Chatbot (Generative AI)
-> LLMs · Embeddings · FAISS · Deployed on HuggingFace
-
-AI chatbot that answers questions from custom documents.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-blue)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-⏳ Coming Soon
-
----
-
-## 🌐 Socials
-<p align="left">
-<a href="https://www.github.com/M20Jay" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/martin-james-nganga" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.twitter.com/jeymartins2" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X / Twitter" /></a>
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="48%" />
-</p>
-
----
-
-> *"Data is like garbage. You'd better know what to do with it before it piles up."*
+Building in public · one complete project per week · no shortcuts
