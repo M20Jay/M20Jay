@@ -202,9 +202,9 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=M20Jay&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&langs_count=6&theme=dark&hide_border=true&layout=compact&custom_title=Top%20Languages" alt="Top Languages" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=M20Jay&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="60%" />
 </p>
+
 ---
 
 ## 🏆 Goals
