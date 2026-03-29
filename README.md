@@ -160,7 +160,7 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 
 ### ☁️ Cloud and MLOps Automation
 <p align="left">
-<img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="36" height="36" alt="AWS" />&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />&nbsp;
 <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />&nbsp;
 <img src="https://cdn.simpleicons.org/grafana/F46800" width="36" height="36" alt="Grafana" />&nbsp;
 <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="36" height="36" alt="MLflow" />&nbsp;
