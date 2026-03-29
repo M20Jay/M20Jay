@@ -137,42 +137,7 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 
 ## 🛠️ Skills
 
-### 💻 Programming and Data Science
-<p align="left">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" />&nbsp;
-<img src="https://cdn.simpleicons.org/r/276DC3" width="36" height="36" alt="R" />&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="SQL" />&nbsp;
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" alt="TensorFlow" />&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="scikit-learn" />&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas" />&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" />
-</p>
 
-### 🚀 Deployment and Infrastructure
-<p align="left">
-<img src="https://cdn.simpleicons.org/flask/000000" width="36" height="36" alt="Flask" />&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI" />&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" />&nbsp;
-<img src="https://cdn.simpleicons.org/redis/DC382D" width="36" height="36" alt="Redis" />&nbsp;
-<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="36" height="36" alt="Kafka" />
-</p>
-
-### ☁️ Cloud and MLOps Automation
-<p align="left">
-<img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="36" height="36" alt="AWS" />&nbsp;
-<img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />&nbsp;
-<img src="https://cdn.simpleicons.org/grafana/F46800" width="36" height="36" alt="Grafana" />&nbsp;
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="36" height="36" alt="MLflow" />&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />
-</p>
-
-### 📊 Visualisation and BI
-<p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
-<img width="468" height="639" alt="image" src="https://github.com/user-attachments/assets/3bc8c127-4b99-4ed3-80b6-01d2bc3e37c5" />
 
 
 ---
