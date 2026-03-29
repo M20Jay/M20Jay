@@ -26,15 +26,14 @@ Currently executing an **11-week intensive MLOps crush programme** — one compl
 
 ---
 
-- 📍 Based in **Nairobi, Kenya**
-- ✉️ Contact: **ngangam93@gmail.com**
-- 🟢 Live: [**Real-Time Fraud Detection API**](https://lnkd.in/dUxZgGWS)
-- 🔭 Currently building: **11-Week MLOps Crush Programme · Churn Pipeline · Kafka Streaming**
-- 🌱 Deepening: **Docker · Kafka · MLflow · DVC · Grafana · AWS EC2**
-- 🤝 Open to collaborating on **African AI · telecom · healthcare · environmental analytics projects**
-- 🔗 LinkedIn: [martin-james-nganga](https://www.linkedin.com/in/martin-james-nganga)
-- 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries
-- ⚡ *"Data is like garbage. You'd better know what to do with it before it piles up."*
+📍 Based in **Nairobi, Kenya**
+✉️ Contact: **ngangam93@gmail.com**
+🟢 Live: [**Real-Time Fraud Detection API**](https://lnkd.in/dUxZgGWS)
+🔭 Currently building: **11-Week MLOps Crush Programme · Churn Pipeline · Kafka Streaming**
+🌱 Deepening: **Docker · Kafka · MLflow · DVC · Grafana · AWS EC2**
+🤝 Open to collaborating on **African AI · telecom · healthcare · environmental analytics projects**
+🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries
+⚡ *"Data is like garbage. You'd better know what to do with it before it piles up."*
 
 ---
 
