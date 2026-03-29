@@ -202,10 +202,9 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages&cache_seconds=1800" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&count_private=true&title_color=FFD700&text_color=ffffff&icon_color=FFD700&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&langs_count=6&title_color=FFD700&text_color=ffffff&icon_color=FFD700&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
-
 ---
 
 ## 🏆 Goals
