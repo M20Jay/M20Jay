@@ -1,15 +1,28 @@
 
 # Hi 👋 My name is Martin James
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="ML Engineer at work" />
+<table>
+<tr>
+<td width="55%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=000000&center=false&vCenter=true&width=750&lines=Data+is+only+as+powerful+as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=D4A017&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
+
+<br/>
 
 **Senior ML Engineer · MLOps · Predictive Analytics · Production APIs | Nairobi, Kenya 🇰🇪**
+
+<br/>
 
 I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is fraud detection, telecom analytics, healthcare AI, and MLOps infrastructure built to enterprise scale.
 
 Currently executing an **11-week intensive MLOps crush programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
+
+</td>
+<td width="45%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="ML Engineer" />
+</td>
+</tr>
+</table>.
 
 ---
 
