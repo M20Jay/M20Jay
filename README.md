@@ -138,39 +138,35 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 ## 🛠️ Skills
 
 ### 💻 Programming and Data Science
+
 <p align="left">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" />&nbsp;
-<img src="https://cdn.simpleicons.org/r/276DC3" width="36" height="36" alt="R" />&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="SQL" />&nbsp;
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" alt="TensorFlow" />&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="scikit-learn" />&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas" />&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" />
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
+<a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/r-colored.svg" width="36" height="36" alt="R"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow"/></a>
 </p>
 
 ### 🚀 Deployment and Infrastructure
+
 <p align="left">
-<img src="https://cdn.simpleicons.org/flask/000000" width="36" height="36" alt="Flask" />&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI" />&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" />&nbsp;
-<img src="https://cdn.simpleicons.org/redis/DC382D" width="36" height="36" alt="Redis" />&nbsp;
-<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="36" height="36" alt="Kafka" />
+<a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/></a>
 </p>
 
 ### ☁️ Cloud and MLOps Automation
+
 <p align="left">
-<img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="36" height="36" alt="AWS" />&nbsp;
-<img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />&nbsp;
-<img src="https://cdn.simpleicons.org/grafana/F46800" width="36" height="36" alt="Grafana" />&nbsp;
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="36" height="36" alt="MLflow" />&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS"/></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/></a>
+<a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/grafana-colored.svg" width="36" height="36" alt="Grafana"/></a>
 </p>
 
 ### 📊 Visualisation and BI
+
 <p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+<a href="https://powerbi.microsoft.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powerbi-colored.svg" width="36" height="36" alt="Power BI"/></a>
+<a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tableau-colored.svg" width="36" height="36" alt="Tableau"/></a>
 </p>
 
 ---
