@@ -206,7 +206,7 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 
 ## 🏆 Goals
 
-- 🎓 **MSc Computer Science — Georgia Tech OMSCS** — January 2027 · Specialisation in Machine Learning
+- 🎓 **MSc Computer Science — Georgia Tech OMSCS** — January 2027 · Specialisation in Artificial intelligence (AI)
 - 🌍 **African Language NLP** — Building Kiswahili AI models for low-resource African languages — language preservation through AI · making technology accessible across Africa
 
 ---
