@@ -1,4 +1,4 @@
-
+<img width="689" height="629" alt="image" src="https://github.com/user-attachments/assets/8ec9795e-a484-4d15-9205-207bf37eaaac" />
 # Hi 👋 My name is Martin James
 
 <table>
@@ -29,7 +29,7 @@ Currently executing an **11-week intensive MLOps crush programme** — one compl
 📍 Based in **Nairobi, Kenya**<br/>
 ✉️ Contact: **ngangam93@gmail.com**<br/>
 🟢 Live: [**Real-Time Fraud Detection API**](https://lnkd.in/dUxZgGWS)<br/>
-🔭 Currently building: **11-Week MLOps Crush Programme · Churn Pipeline · Kafka Streaming**<br/>
+🔭 Currently building: **11-Week MLOps Crush Programme · Week 2: Real-Time Fraud Detection · Kafka Streaming**<br/>
 🌱 Deepening: **Docker · Kafka · MLflow · DVC · Grafana · AWS EC2**<br/>
 🤝 Open to: **African AI · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
@@ -71,7 +71,7 @@ Response: { "fraud_probability": 0.923, "decision": "BLOCK" }
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · Flask · Docker · PostgreSQL · Grafana | 🔨 In Progress |
+| **01** | Churn Prediction Pipeline | XGBoost · Flask · Docker · PostgreSQL · Grafana | ✅ Complete· [Live API](https://churn-prediction-pipeline-1zue.onrender.com/health) |
 | **02** | Real-Time Fraud Detection | XGBoost · Kafka · Redis · Flask · Docker | ⏳ Week 2 |
 | **03** | Customer Segmentation | KMeans · PCA · PostgreSQL · Power BI | ⏳ Week 3 |
 | **04** | Revenue and ARPU Forecasting | Prophet · ARIMA · PostgreSQL · Grafana | ⏳ Week 4 |
