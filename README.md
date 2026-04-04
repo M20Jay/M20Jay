@@ -1,4 +1,4 @@
-<img width="689" height="629" alt="image" src="https://github.com/user-attachments/assets/8ec9795e-a484-4d15-9205-207bf37eaaac" />
+
 # Hi 👋 My name is Martin James
 
 <table>
@@ -85,6 +85,8 @@ Response: { "fraud_probability": 0.923, "decision": "BLOCK" }
 
 *Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
 
+### Week 1 — Live Monitoring Dashboard
+![Grafana Dashboard](https://github.com/user-attachments/assets/8ec9795e-a484-4d15-9205-207bf37eaaac)
 ---
 
 ## 🚀 Portfolio Projects
