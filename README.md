@@ -103,7 +103,7 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-> 🔨 In Progress · Week 1
+> ✅ Complete · Week 1 · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs)
 
 ---
 
