@@ -71,7 +71,7 @@ Response: { "fraud_probability": 0.923, "decision": "BLOCK" }
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · Flask · Docker · PostgreSQL · Grafana | ✅ Complete· [Live API](https://churn-prediction-pipeline-1zue.onrender.com/health) |
+| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) |
 | **02** | Real-Time Fraud Detection | XGBoost · Kafka · Redis · Flask · Docker | ⏳ Week 2 |
 | **03** | Customer Segmentation | KMeans · PCA · PostgreSQL · Power BI | ⏳ Week 3 |
 | **04** | Revenue and ARPU Forecasting | Prophet · ARIMA · PostgreSQL · Grafana | ⏳ Week 4 |
@@ -99,7 +99,7 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 ![SMOTE](https://img.shields.io/badge/SMOTE-imbalanced-red)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
