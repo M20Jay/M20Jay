@@ -92,7 +92,7 @@ Response: { "fraud_probability": 0.923, "decision": "BLOCK" }
 ## 🚀 Portfolio Projects
 
 ### 🔮 Project 1 — Customer Churn Prediction
-**XGBoost · SMOTE · Flask · Docker · PostgreSQL · Grafana**
+**XGBoost · SMOTE · FastAPI · Docker · PostgreSQL · Grafana**
 
 End-to-end telecom churn pipeline — feature engineering, class balancing, model training, containerised API deployment with live monitoring dashboard.
 
