@@ -72,7 +72,7 @@ Response: { "fraud_probability": 0.923, "decision": "BLOCK" }
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) |
-| **02** | Real-Time Fraud Detection | XGBoost · Kafka · Redis · Flask · Docker | ⏳ Week 2 |
+| **02** | Real-Time Fraud Detection | XGBoost · Kafka · Redis · Flask · Docker |🔨 In Progress |
 | **03** | Customer Segmentation | KMeans · PCA · PostgreSQL · Power BI | ⏳ Week 3 |
 | **04** | Revenue and ARPU Forecasting | Prophet · ARIMA · PostgreSQL · Grafana | ⏳ Week 4 |
 | **05** | Propensity Modelling | XGBoost Multi-class · Flask · Docker | ⏳ Week 5 |
