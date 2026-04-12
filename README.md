@@ -7,6 +7,7 @@
 **Senior ML Engineer · MLOps · Predictive Analytics · Production APIs | Nairobi, Kenya 🇰🇪**
 <br/>
 I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is fraud detection, telecom analytics, healthcare AI, and MLOps infrastructure built to enterprise scale.
+
 Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 </td>
 <td width="45%" align="center">
