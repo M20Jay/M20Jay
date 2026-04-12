@@ -4,9 +4,6 @@
 <td width="55%">
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=D4A017&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
 <br/>
-
-**MLOps Engineer · Data Scientist · Building Production ML Systems | Nairobi, Kenya 🇰🇪**
-<br/>
 I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is fraud detection, telecom analytics, healthcare AI, and MLOps infrastructure built to enterprise scale.
 
 Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
