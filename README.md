@@ -69,7 +69,7 @@ Customer churn prediction — production ML pipeline with live monitoring dashbo
 |------|---------|-------|--------|
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) |
 | **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) |
-| **03** | Customer Segmentation | KMeans · PCA · PostgreSQL | ⏳ Week 3 |
+| **03** | Customer Segmentation | KMeans · PCA · PostgreSQL · MLflow | ⏳ Week 3 |
 | **04** | Climate Trend Forecasting 🌍 | ARIMA · Prophet · CO2 data · Docker | ⏳ Week 4 |
 | **05** | Propensity Modelling + SHAP | XGBoost · SHAP · FastAPI · Docker | ⏳ Week 5 |
 | **06** | Air Quality Anomaly Detection 🌍 | Isolation Forest · OpenAQ · Docker | ⏳ Week 6 |
