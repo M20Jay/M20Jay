@@ -39,7 +39,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
-| 🚀 **20+ production ML projects** | Deployed, monitored and documented |
+| ✅ **20+ production ML projects** | Deployed, monitored and documented |
 
 ---
 
@@ -86,11 +86,11 @@ Customer churn prediction — production ML pipeline with live monitoring dashbo
 *Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
 
 ### Week 2 — Live Monitoring Dashboard
-![Grafana Dashboard](https://github.com/M20Jay/fraud-detection-pipeline/raw/main/images/dashboard_day5.png)
+![Grafana Dashboard](https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png)
 
 ---
 
-## 🚀 Portfolio Projects
+## 💼 Portfolio Projects
 
 ### 💳 Project 1 — Real-Time Fraud Detection Pipeline
 **LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
@@ -148,7 +148,7 @@ Kiswahili text classification and sentiment analysis — making African language
 <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" />
 </p>
 
-### 🚀 Deployment and Infrastructure
+### ⚙️ Deployment and Infrastructure
 <p align="left">
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI" />&nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />&nbsp;
