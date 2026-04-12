@@ -4,7 +4,8 @@
 <td width="55%">
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=D4A017&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
 <br/>
-**Senior ML Engineer · MLOps · Predictive Analytics · Production APIs | Nairobi, Kenya 🇰🇪**
+
+**MLOps Engineer · Data Scientist · Building Production ML Systems | Nairobi, Kenya 🇰🇪**
 <br/>
 I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is fraud detection, telecom analytics, healthcare AI, and MLOps infrastructure built to enterprise scale.
 
@@ -35,7 +36,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | Achievement | Detail |
 |-------------|--------|
 | 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
-| 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation at KIM |
+| 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
 | 🚀 **20+ production ML projects** | Deployed, monitored and documented |
@@ -76,7 +77,7 @@ Customer churn prediction — production ML pipeline with live monitoring dashbo
 | **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions | ⏳ Week 8 |
 | **09** | Cloud Deployment on AWS | EC2 · RDS · ECR · HTTPS | ⏳ Week 9 |
 | **10** | Deforestation Prediction Capstone 🌍 | Random Forest · Global Forest Watch · Docker | ⏳ Week 10 |
-| **11** | Green Consumer Behaviour 🌍 | Logistic Regression · Survey ML · MSc thesis | ⏳ Week 11 |
+| **11** | NLP — Environmental Policy Analysis 🌍 | spaCy · TF-IDF · Text Classification · FastAPI | ⏳ Week 11 |
 | **12** | Spark + dbt Foundations | PySpark · dbt · BigQuery | ⏳ Week 12 |
 | **13** | Real-Time Environmental Dashboard | Streamlit · Plotly · FastAPI | ⏳ Week 13 |
 | **14** | NLP — Environmental Text Classification | HuggingFace · BERT · FastAPI | ⏳ Week 14 |
@@ -85,7 +86,7 @@ Customer churn prediction — production ML pipeline with live monitoring dashbo
 *Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
 
 ### Week 2 — Live Monitoring Dashboard
-![Grafana Dashboard](https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png)
+![Grafana Dashboard](https://github.com/M20Jay/fraud-detection-pipeline/raw/main/images/dashboard_day5.png)
 
 ---
 
@@ -202,7 +203,7 @@ Kiswahili text classification and sentiment analysis — making African language
 ## 🏆 Goals
 
 - 🎓 **MSc Computer Science — Georgia Tech OMSCS** — January 2027 · Specialisation in Artificial Intelligence
-- 🌍 **Kiswahili NLP** — Building African language AI for East African communities — Week 15 of my MLOps programme
+- 🌍 **Kiswahili NLP** — Building African language AI for East African communities — Week 15
 
 ---
 
