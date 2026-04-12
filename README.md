@@ -1,22 +1,13 @@
-
 # Hi 👋 My name is Martin James
-
 <table>
 <tr>
 <td width="55%">
-
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=D4A017&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
-
 <br/>
-
 **Senior ML Engineer · MLOps · Predictive Analytics · Production APIs | Nairobi, Kenya 🇰🇪**
-
 <br/>
-
 I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is fraud detection, telecom analytics, healthcare AI, and MLOps infrastructure built to enterprise scale.
-
-Currently executing an **11-week intensive MLOps crush programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
-
+Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 </td>
 <td width="45%" align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="ML Engineer" />
@@ -28,12 +19,13 @@ Currently executing an **11-week intensive MLOps crush programme** — one compl
 
 📍 Based in **Nairobi, Kenya**<br/>
 ✉️ Contact: **ngangam93@gmail.com**<br/>
-🟢 Live: [**Real-Time Fraud Detection API**](https://lnkd.in/dUxZgGWS)<br/>
-🔭 Currently building: **11-Week MLOps Crush Programme · Week 2: Real-Time Fraud Detection · Kafka Streaming**<br/>
-🌱 Deepening: **Docker · Kafka · MLflow · DVC · Grafana · AWS EC2**<br/>
+🟢 Fraud Detection: [**fraud-detection-pipeline-nznd.onrender.com/docs**](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
+🟢 Churn Prediction: [**churn-prediction-pipeline-1zue.onrender.com/docs**](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
+🔭 Currently building: **15-Week MLOps Programme · Week 3 starts Monday**<br/>
+🌱 Deepening: **Docker · Kafka · MLflow · Grafana · AWS EC2 · Environmental ML**<br/>
 🤝 Open to: **African AI · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
-⚡ *"Data is like garbage. You'd better know what to do with it before it piles up."*
+⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
 
 ---
 
@@ -41,64 +33,86 @@ Currently executing an **11-week intensive MLOps crush programme** — one compl
 
 | Achievement | Detail |
 |-------------|--------|
-| 🎯 **99.72% fraud detection accuracy** | 284,807 transactions · live production API |
-| 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation |
+| 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
+| 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation at KIM |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
-| 🏥 **Healthcare AI — malignant vs benign prediction** | Clinical ML classification model |
 | 🚀 **20+ production ML projects** | Deployed, monitored and documented |
 
 ---
 
-## 🟢 Live Now — Real-Time Fraud Detection API
-**XGBoost · scikit-learn · REST API · Render**
+## 🟢 Live Now — Two Production APIs
 
-Real-time transaction scoring — **99.72% accuracy** on 284,807 transactions. Sub-second inference. Live endpoint.
-```json
-POST /predict
-Body:     { "transaction_amount": 450.0, "time": 3600 }
-Response: { "fraud_probability": 0.923, "decision": "BLOCK" }
-```
+### Fraud Detection Pipeline
+**LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
 
-🌐 [Live API](https://fraud-detection-api-3ebk.onrender.com) · 📖 [Interactive Docs](https://fraud-detection-api-3ebk.onrender.com/docs) · 📁 [View Repository](https://github.com/M20Jay/Data-Science-Portfolio)
+Real-time transaction scoring — 22ms average response. Kafka streaming pipeline. 5-panel Grafana monitoring dashboard. Live endpoint.
 
-> ⚙️ **Week 2 upgrade in progress:** Kafka streaming · Redis caching · Docker · PostgreSQL · Grafana monitoring
+🌐 [Live API](https://fraud-detection-pipeline-nznd.onrender.com) · 📖 [Interactive Docs](https://fraud-detection-pipeline-nznd.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
+
+### Churn Prediction Pipeline
+**XGBoost · FastAPI · PostgreSQL · Redis · Grafana · Docker**
+
+Customer churn prediction — production ML pipeline with live monitoring dashboard.
+
+🌐 [Live API](https://churn-prediction-pipeline-1zue.onrender.com) · 📖 [Interactive Docs](https://churn-prediction-pipeline-1zue.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
 
 ---
 
-## 🗓️ 11-Week MLOps Crush Programme
+## 🗓️ 15-Week MLOps Programme
+
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) |
-| **02** | Real-Time Fraud Detection | XGBoost · Kafka · Redis · Flask · Docker |🔨 In Progress |
-| **03** | Customer Segmentation | KMeans · PCA · PostgreSQL · Power BI | ⏳ Week 3 |
-| **04** | Revenue and ARPU Forecasting | Prophet · ARIMA · PostgreSQL · Grafana | ⏳ Week 4 |
-| **05** | Propensity Modelling | XGBoost Multi-class · Flask · Docker | ⏳ Week 5 |
-| **06** | Anomaly Detection | Isolation Forest · DBSCAN · Kafka | ⏳ Week 6 |
-| **07** | Customer Lifetime Value | BG/NBD · RFM · Power BI | ⏳ Week 7 |
-| **08** | MLOps Pipeline Automation | MLflow · DVC · Prefect · Evidently AI · GitHub Actions | ⏳ Week 8 |
-| **09** | Cloud Deployment on AWS | EC2 · RDS · ECR · Docker · HTTPS · Auto-scaling | ⏳ Week 9 |
-| **10** | Full Telecom Analytics Capstone | End-to-End Pipeline · All Tools · Production Grade | ⏳ Week 10 |
-| **11** | RAG Chatbot — Generative AI | LLMs · FAISS · LangChain · HuggingFace · Anthropic API | ⏳ Week 11 |
+| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) |
+| **03** | Customer Segmentation | KMeans · PCA · PostgreSQL | ⏳ Week 3 |
+| **04** | Climate Trend Forecasting 🌍 | ARIMA · Prophet · CO2 data · Docker | ⏳ Week 4 |
+| **05** | Propensity Modelling + SHAP | XGBoost · SHAP · FastAPI · Docker | ⏳ Week 5 |
+| **06** | Air Quality Anomaly Detection 🌍 | Isolation Forest · OpenAQ · Docker | ⏳ Week 6 |
+| **07** | Customer Lifetime Value | BG/NBD · RFM · FastAPI | ⏳ Week 7 |
+| **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions | ⏳ Week 8 |
+| **09** | Cloud Deployment on AWS | EC2 · RDS · ECR · HTTPS | ⏳ Week 9 |
+| **10** | Deforestation Prediction Capstone 🌍 | Random Forest · Global Forest Watch · Docker | ⏳ Week 10 |
+| **11** | Green Consumer Behaviour 🌍 | Logistic Regression · Survey ML · MSc thesis | ⏳ Week 11 |
+| **12** | Spark + dbt Foundations | PySpark · dbt · BigQuery | ⏳ Week 12 |
+| **13** | Real-Time Environmental Dashboard | Streamlit · Plotly · FastAPI | ⏳ Week 13 |
+| **14** | NLP — Environmental Text Classification | HuggingFace · BERT · FastAPI | ⏳ Week 14 |
+| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · Kiswahili data | ⏳ Week 15 |
 
 *Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
 
-### Week 1 — Live Monitoring Dashboard
-![Grafana Dashboard](https://github.com/user-attachments/assets/8ec9795e-a484-4d15-9205-207bf37eaaac)
+### Week 2 — Live Monitoring Dashboard
+![Grafana Dashboard](https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png)
+
 ---
 
 ## 🚀 Portfolio Projects
 
-### 🔮 Project 1 — Customer Churn Prediction
+### 💳 Project 1 — Real-Time Fraud Detection Pipeline
+**LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
+
+Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka streaming pipeline with Redis caching, Prometheus monitoring and 5-panel Grafana dashboard.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-FF6600?style=flat)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+> ✅ Complete · Week 2 · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs)
+
+---
+
+### 🔮 Project 2 — Customer Churn Prediction
 **XGBoost · SMOTE · FastAPI · Docker · PostgreSQL · Grafana**
 
 End-to-end telecom churn pipeline — feature engineering, class balancing, model training, containerised API deployment with live monitoring dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-![SMOTE](https://img.shields.io/badge/SMOTE-imbalanced-red)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -107,32 +121,15 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 
 ---
 
-### 💳 Project 2 — Real-Time Fraud Detection API
-**XGBoost · Kafka · Redis · Docker · PostgreSQL · Grafana**
+### 🤖 Project 3 — Kiswahili NLP (African Language AI)
+**mBERT · AfriBERTa · HuggingFace · FastAPI**
 
-Live fraud scoring API — 99.72% accuracy on 284,807 transactions. Kafka streaming upgrade in progress with sub-200ms latency target.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-> 🟢 [Live API](https://lnkd.in/dUxZgGWS) · Week 2 upgrade in progress
-
----
-
-### 🤖 Project 3 — RAG Chatbot (Generative AI)
-**LLMs · Embeddings · FAISS · LangChain · HuggingFace**
-
-AI chatbot that retrieves answers from custom documents using retrieval-augmented generation. Final project in the 11-week series.
+Kiswahili text classification and sentiment analysis — making African language environmental data accessible to AI systems. Week 15 finale.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-blue)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-> ⏳ Week 11
+> ⏳ Week 15 · 🌍 African Language AI
 
 ---
 
@@ -151,7 +148,6 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 
 ### 🚀 Deployment and Infrastructure
 <p align="left">
-<img src="https://cdn.simpleicons.org/flask/000000" width="36" height="36" alt="Flask" />&nbsp;
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI" />&nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />&nbsp;
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" />&nbsp;
@@ -164,8 +160,7 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />&nbsp;
 <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />&nbsp;
 <img src="https://cdn.simpleicons.org/grafana/F46800" width="36" height="36" alt="Grafana" />&nbsp;
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="36" height="36" alt="MLflow" />&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="36" height="36" alt="MLflow" />
 </p>
 
 ### 📊 Visualisation and BI
@@ -174,21 +169,18 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
-
 ---
 
 ## 🎯 Core Competencies
 
 | Area | Skills |
 |------|--------|
-| **Machine Learning** | Fraud detection · churn prediction · healthcare AI · ensemble methods · feature engineering · SHAP |
-| **MLOps** | End-to-end pipelines · Docker · Grafana monitoring · MLflow · DVC · auto-retraining workflows |
-| **Sector Experience** | Telecom · Banking · Healthcare · Environmental Analytics · Digital Transformation |
-| **Telecom Analytics** | Churn · ARPU · CLV · propensity modelling · anomaly detection · customer segmentation |
-| **Data Versioning** | DVC · experiment tracking · model registry · reproducible training pipelines |
-| **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-200ms latency |
-| **Cloud** | AWS EC2 · RDS · ECR · Docker · HTTPS deployment · auto-scaling · production infrastructure |
-| **Data Visualisation** | Executive dashboards · Power BI · Tableau · Grafana · interactive analytics |
+| **Machine Learning** | Fraud detection · churn prediction · ensemble methods · feature engineering · SHAP explainability |
+| **MLOps** | End-to-end pipelines · Docker · Grafana monitoring · MLflow · auto-retraining workflows |
+| **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-22ms latency |
+| **Environmental ML** | Climate forecasting · pollution anomaly detection · deforestation prediction · Kiswahili NLP |
+| **Cloud** | AWS EC2 · RDS · ECR · Docker · HTTPS deployment · production infrastructure |
+| **Research** | MSc Marketing Analytics · Board Diversity Research · KRA Tax Policy · M&E frameworks |
 
 ---
 
@@ -208,11 +200,9 @@ AI chatbot that retrieves answers from custom documents using retrieval-augmente
 
 ## 🏆 Goals
 
-- 🎓 **MSc Computer Science — Georgia Tech OMSCS** — January 2027 · Specialisation in Artificial intelligence (AI)
-- 🌍 **African Language NLP** — Building Kiswahili AI models for low-resource African languages — language preservation through AI · making technology accessible across Africa
+- 🎓 **MSc Computer Science — Georgia Tech OMSCS** — January 2027 · Specialisation in Artificial Intelligence
+- 🌍 **Kiswahili NLP** — Building African language AI for East African communities — Week 15 of my MLOps programme
 
 ---
 
-*11 weeks. 11 production projects. One complete MLOps engineer. Building in public — no shortcuts.*
-
-
+*15 weeks. 15 production projects. One complete MLOps engineer. Building in public — no shortcuts.*
