@@ -4,7 +4,7 @@
 <td width="55%">
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=D4A017&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
 <br/>
-I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is fraud detection, telecom analytics, healthcare AI, and MLOps infrastructure built to enterprise scale.
+I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is fraud detection, telecom analytics, healthcare AI, environmental ML, African language NLP, and MLOps infrastructure built to enterprise scale.
 
 Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 </td>
@@ -36,6 +36,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
+| 🌍 **Kiswahili NLP — African language AI** | mBERT environmental text classifier · UNEP Strategic Objectives · 104 languages including Kiswahili |
 | ✅ **20+ production ML projects** | Deployed, monitored and documented |
 
 ---
@@ -66,19 +67,19 @@ Customer churn prediction — production ML pipeline with live monitoring dashbo
 |------|---------|-------|--------|
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) |
 | **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) |
-| **03** | Customer Segmentation | KMeans · PCA · PostgreSQL · MLflow | ⏳ Week 3 |
-| **04** | Climate Trend Forecasting 🌍 | ARIMA · Prophet · CO2 data · Docker | ⏳ Week 4 |
-| **05** | Propensity Modelling + SHAP | XGBoost · SHAP · FastAPI · Docker | ⏳ Week 5 |
-| **06** | Air Quality Anomaly Detection 🌍 | Isolation Forest · OpenAQ · Docker | ⏳ Week 6 |
-| **07** | Customer Lifetime Value | BG/NBD · RFM · FastAPI | ⏳ Week 7 |
-| **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions | ⏳ Week 8 |
-| **09** | Cloud Deployment on AWS | EC2 · RDS · ECR · HTTPS | ⏳ Week 9 |
-| **10** | Deforestation Prediction Capstone 🌍 | Random Forest · Global Forest Watch · Docker | ⏳ Week 10 |
-| **11** | NLP — Environmental Policy Analysis 🌍 | spaCy · TF-IDF · Text Classification · FastAPI | ⏳ Week 11 |
+| **03** | Customer Segmentation | KMeans · PCA · PostgreSQL · MLflow · Streamlit · AWS | ⏳ Week 3 |
+| **04** | RAG System — UNEP Documents 🌍 | LaBSE · ChromaDB · FastAPI · AWS | ⏳ Week 4 |
+| **05** | Propensity Modelling + SHAP | XGBoost · SHAP · FastAPI · Docker · DVC | ⏳ Week 5 |
+| **06** | Air Quality Anomaly Detection 🌍 | Isolation Forest · OpenAQ · Streamlit · Evidently | ⏳ Week 6 |
+| **07** | Customer Lifetime Value | BG/NBD · RFM · FastAPI · GitHub Actions | ⏳ Week 7 |
+| **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect | ⏳ Week 8 |
+| **09** | Cloud Deployment on AWS | EC2 · RDS · ECR · HTTPS · Kubernetes intro | ⏳ Week 9 |
+| **10** | Deforestation Prediction Capstone 🌍 | Random Forest · Global Forest Watch · dbt intro | ⏳ Week 10 |
+| **11** | NLP — Environmental Policy Analysis 🌍 | spaCy · TF-IDF · Text Classification · FastAPI · BentoML | ⏳ Week 11 |
 | **12** | Spark + dbt Foundations | PySpark · dbt · BigQuery | ⏳ Week 12 |
-| **13** | Real-Time Environmental Dashboard | Streamlit · Plotly · FastAPI | ⏳ Week 13 |
+| **13** | Real-Time Environmental Dashboard | Streamlit · Plotly · Evidently · AWS | ⏳ Week 13 |
 | **14** | NLP — Environmental Text Classification | HuggingFace · BERT · FastAPI | ⏳ Week 14 |
-| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · Kiswahili data | ⏳ Week 15 |
+| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | ⏳ Week 15 |
 
 *Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
 
@@ -120,15 +121,16 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 
 ---
 
-### 🤖 Project 3 — Kiswahili NLP (African Language AI)
-**mBERT · AfriBERTa · HuggingFace · FastAPI**
+### 🌍 Project 3 — Kiswahili NLP (African Language AI)
+**mBERT · AfriBERTa · HuggingFace · MLflow · FastAPI**
 
-Kiswahili text classification and sentiment analysis — making African language environmental data accessible to AI systems. Week 15 finale.
+Kiswahili environmental text classifier — classifying East African language text by UNEP Strategic Objective. Making African language environmental knowledge accessible to AI systems. Built on the Masakhane community's work on African NLP.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
-> ⏳ Week 15 · 🌍 African Language AI
+> 🔨 Prototype Complete · Week 3 · [Repository](https://github.com/M20Jay/kiswahili-nlp) · Full system Week 15
 
 ---
 
