@@ -134,41 +134,47 @@ Kiswahili text classification and sentiment analysis — making African language
 
 ## 🛠️ Skills
 
-### 🛠️ Skills
-
 **💻 Programming and Data Science**
-<p align="left">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" />&nbsp;
-<img src="https://cdn.simpleicons.org/r/276DC3" width="36" height="36" alt="R" />&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="SQL" />&nbsp;
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" height="36" alt="TensorFlow" />&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="scikit-learn" />&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas" />&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" />
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**🤖 NLP and AI**
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)&nbsp;
+![mBERT](https://img.shields.io/badge/mBERT-FF6F00?style=flat)&nbsp;
+![AfriBERTa](https://img.shields.io/badge/AfriBERTa-1E6B3C?style=flat)&nbsp;
+![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=flat)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **⚙️ Deployment and Infrastructure**
-<p align="left">
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI" />&nbsp;
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" />&nbsp;
-<img src="https://cdn.simpleicons.org/redis/DC382D" width="36" height="36" alt="Redis" />&nbsp;
-<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="36" height="36" alt="Kafka" />
-</p>
 
-**☁️ Cloud and MLOps Automation**
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />&nbsp;
-<img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />&nbsp;
-<img src="https://cdn.simpleicons.org/grafana/F46800" width="36" height="36" alt="Grafana" />&nbsp;
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="36" height="36" alt="MLflow" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**☁️ Cloud and MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)&nbsp;
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)&nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)&nbsp;
+![Evidently](https://img.shields.io/badge/Evidently-6B48FF?style=flat)
 
 **📊 Visualisation and BI**
-<p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
