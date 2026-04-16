@@ -134,7 +134,9 @@ Kiswahili text classification and sentiment analysis — making African language
 
 ## 🛠️ Skills
 
-### 💻 Programming and Data Science
+### 🛠️ Skills
+
+**💻 Programming and Data Science**
 <p align="left">
 <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" />&nbsp;
 <img src="https://cdn.simpleicons.org/r/276DC3" width="36" height="36" alt="R" />&nbsp;
@@ -145,7 +147,7 @@ Kiswahili text classification and sentiment analysis — making African language
 <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy" />
 </p>
 
-### ⚙️ Deployment and Infrastructure
+**⚙️ Deployment and Infrastructure**
 <p align="left">
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI" />&nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />&nbsp;
@@ -154,7 +156,7 @@ Kiswahili text classification and sentiment analysis — making African language
 <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="36" height="36" alt="Kafka" />
 </p>
 
-### ☁️ Cloud and MLOps Automation
+**☁️ Cloud and MLOps Automation**
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />&nbsp;
 <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />&nbsp;
@@ -162,7 +164,7 @@ Kiswahili text classification and sentiment analysis — making African language
 <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="36" height="36" alt="MLflow" />
 </p>
 
-### 📊 Visualisation and BI
+**📊 Visualisation and BI**
 <p align="left">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
