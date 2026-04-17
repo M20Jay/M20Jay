@@ -37,8 +37,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
 | 🌍 Kiswahili NLP — African language AI (prototype) | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · Full system Week 15 |
-| ✅ **20+ production ML projects** | Classification · regression · clustering ·
-   time series — notebooks to production journey |
+| ✅ **20+ production ML projects** | Classification · regression · clustering · time series — notebooks to production journey |
 
 ---
 
