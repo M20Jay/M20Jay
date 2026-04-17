@@ -36,14 +36,14 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
-| 🌍 Kiswahili NLP — African language AI (prototype) | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · Full system Week 15 |
-| ✅ **20+ production ML projects** | Classification · regression · clustering · time series — notebooks to production journey |
+| 🌍 **Kiswahili NLP** — African language AI (prototype) | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · Full system Week 15 |
+| ✅ **20+ ML projects built and evaluated** | Classification · regression · clustering · time series — notebooks to production journey |
 
 ---
 
 ## 🟢 Live Now — Two Production APIs
 
-### Fraud Detection Pipeline
+### Fraud Detection PipelineSSS
 **LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
 
 Real-time transaction scoring — 22ms average response. Kafka streaming pipeline. 5-panel Grafana monitoring dashboard. Live endpoint.
