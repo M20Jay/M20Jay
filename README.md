@@ -36,7 +36,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
-| 🌍 **Kiswahili NLP** — African language AI (prototype) | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · Full system Week 15 |
+| 🌍 **Kiswahili NLP — African language AI (prototype)** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · Full system Week 15 |
 | ✅ **20+ ML projects built and evaluated** | Classification · regression · clustering · time series — notebooks to production journey |
 
 ---
