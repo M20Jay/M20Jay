@@ -20,8 +20,9 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 ✉️ Contact: **ngangam93@gmail.com**<br/>
 🟢 Fraud Detection: [**fraud-detection-pipeline-nznd.onrender.com/docs**](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
 🟢 Churn Prediction: [**churn-prediction-pipeline-1zue.onrender.com/docs**](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
-🔭 Currently building: **15-Week MLOps Programme · Week 3 starts Monday**<br/>
-🌱 Deepening: **Docker · Kafka · MLflow · Grafana · AWS EC2 · Environmental ML**<br/>
+🟢 Customer Segmentation: [**customer-segmentation-api-rwmx.onrender.com/docs**](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
+🔭 Currently building: **15-Week MLOps Programme · Week 4 — RAG System on UNEP Documents**<br/>
+🌱 Deepening: **Docker · Kafka · MLflow · Evidently · Streamlit · AWS EC2 · Environmental ML**<br/>
 🤝 Open to: **African AI · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
 ⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
@@ -41,9 +42,9 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 ---
 
-## 🟢 Live Now — Two Production APIs
+## 🟢 Live Now — Three Production APIs
 
-### Fraud Detection PipelineSSS
+### Fraud Detection Pipeline
 **LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
 
 Real-time transaction scoring — 22ms average response. Kafka streaming pipeline. 5-panel Grafana monitoring dashboard. Live endpoint.
@@ -57,6 +58,13 @@ Customer churn prediction — production ML pipeline with live monitoring dashbo
 
 🌐 [Live API](https://churn-prediction-pipeline-1zue.onrender.com) · 📖 [Interactive Docs](https://churn-prediction-pipeline-1zue.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
 
+### Customer Segmentation Pipeline
+**KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker**
+
+Telecom customer segmentation — 4 behavioural groups identified from 7,032 customers. Live inference API with Streamlit dashboard and Evidently drift monitoring.
+
+🌐 [Live API](https://customer-segmentation-api-rwmx.onrender.com) · 📖 [Interactive Docs](https://customer-segmentation-api-rwmx.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/customer-segmentation)
+
 ---
 
 ## 🗓️ 15-Week MLOps Programme
@@ -67,7 +75,7 @@ Customer churn prediction — production ML pipeline with live monitoring dashbo
 |------|---------|-------|--------|
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) |
 | **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) |
-| **03** | Customer Segmentation | KMeans · PCA · PostgreSQL · MLflow · Streamlit · AWS | ⏳ Week 3 |
+| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker · Render | ✅ Complete · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) |
 | **04** | RAG System — UNEP Documents 🌍 | LaBSE · ChromaDB · FastAPI · AWS | ⏳ Week 4 |
 | **05** | Propensity Modelling + SHAP | XGBoost · SHAP · FastAPI · Docker · DVC | ⏳ Week 5 |
 | **06** | Air Quality Anomaly Detection 🌍 | Isolation Forest · OpenAQ · Streamlit · Evidently | ⏳ Week 6 |
@@ -75,7 +83,7 @@ Customer churn prediction — production ML pipeline with live monitoring dashbo
 | **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect | ⏳ Week 8 |
 | **09** | Cloud Deployment on AWS | EC2 · RDS · ECR · HTTPS · Kubernetes intro | ⏳ Week 9 |
 | **10** | Deforestation Prediction Capstone 🌍 | Random Forest · Global Forest Watch · dbt intro | ⏳ Week 10 |
-| **11** | NLP — Environmental Policy Analysis 🌍 | spaCy · TF-IDF · Text Classification · FastAPI · BentoML | ⏳ Week 11 |
+| **11** | NLP — Environmental Policy Analysis 🌍 | spaCy · TF-IDF · Text Classification · FastAPI · BentoML · Dash | ⏳ Week 11 |
 | **12** | Spark + dbt Foundations | PySpark · dbt · BigQuery | ⏳ Week 12 |
 | **13** | Real-Time Environmental Dashboard | Streamlit · Plotly · Evidently · AWS | ⏳ Week 13 |
 | **14** | NLP — Environmental Text Classification | HuggingFace · BERT · FastAPI | ⏳ Week 14 |
@@ -121,7 +129,24 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 
 ---
 
-### 🌍 Project 3 — Kiswahili NLP (African Language AI)
+### 📊 Project 3 — Customer Segmentation Pipeline
+**KMeans · PCA · StandardScaler · MLflow · Evidently · Streamlit · FastAPI · Docker**
+
+Telecom customer segmentation using unsupervised machine learning — 7,032 customers grouped into 4 behavioural segments using KMeans clustering. Optimal K selected through elbow method and silhouette scoring. Live FastAPI inference endpoint, Streamlit business dashboard, Evidently data drift monitoring, and MLflow experiment tracking.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently-6B48FF?style=flat)
+
+> ✅ Complete · Week 3 · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repository](https://github.com/M20Jay/customer-segmentation)
+
+---
+
+### 🌍 Project 4 — Kiswahili NLP (African Language AI)
 **mBERT · AfriBERTa · HuggingFace · MLflow · FastAPI**
 
 Kiswahili environmental text classifier — classifying East African language text by UNEP Strategic Objective. Making African language environmental knowledge accessible to AI systems. Built on the Masakhane community's work on African NLP.
@@ -174,9 +199,11 @@ Kiswahili environmental text classifier — classifying East African language te
 
 **📊 Visualisation and BI**
 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
@@ -184,8 +211,8 @@ Kiswahili environmental text classifier — classifying East African language te
 
 | Area | Skills |
 |------|--------|
-| **Machine Learning** | Fraud detection · churn prediction · ensemble methods · feature engineering · SHAP explainability |
-| **MLOps** | End-to-end pipelines · Docker · Grafana monitoring · MLflow · auto-retraining workflows |
+| **Machine Learning** | Fraud detection · churn prediction · customer segmentation · ensemble methods · feature engineering · SHAP explainability |
+| **MLOps** | End-to-end pipelines · Docker · MLflow · Evidently drift monitoring · auto-retraining workflows |
 | **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-22ms latency |
 | **Environmental ML** | Climate forecasting · pollution anomaly detection · deforestation prediction · Kiswahili NLP |
 | **Cloud** | AWS EC2 · RDS · ECR · Docker · HTTPS deployment · production infrastructure |
