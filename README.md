@@ -92,13 +92,30 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 *Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
 
 ### Week 2 — Live Monitoring Dashboard
-![Grafana Dashboard](https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png)
+<img src="https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png" width="65%" alt="Fraud Detection Grafana Dashboard"/>
 
 ---
 
 ## 💼 Portfolio Projects
 
-### 💳 Project 1 — Real-Time Fraud Detection Pipeline
+### 💳 Project 1 — Customer Churn Prediction
+**XGBoost · SMOTE · FastAPI · Docker · PostgreSQL · Grafana**
+
+End-to-end telecom churn pipeline — feature engineering, class balancing, model training, containerised API deployment with live monitoring dashboard.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+<img src="https://github.com/M20Jay/churn-prediction-pipeline/raw/main/screenshots/churn_api_docs.png" width="65%" alt="Churn Prediction API Docs"/>
+
+> ✅ Complete · Week 1 · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs)
+
+---
+
+### 💳 Project 2 — Real-Time Fraud Detection Pipeline
 **LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
 
 Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka streaming pipeline with Redis caching, Prometheus monitoring and 5-panel Grafana dashboard.
@@ -110,22 +127,9 @@ Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka stre
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
+<img src="https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png" width="65%" alt="Fraud Detection Grafana Dashboard"/>
+
 > ✅ Complete · Week 2 · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs)
-
----
-
-### 🔮 Project 2 — Customer Churn Prediction
-**XGBoost · SMOTE · FastAPI · Docker · PostgreSQL · Grafana**
-
-End-to-end telecom churn pipeline — feature engineering, class balancing, model training, containerised API deployment with live monitoring dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-> ✅ Complete · Week 1 · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs)
 
 ---
 
@@ -141,6 +145,8 @@ Telecom customer segmentation using unsupervised machine learning — 7,032 cust
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Evidently](https://img.shields.io/badge/Evidently-6B48FF?style=flat)
+
+<img src="https://github.com/M20Jay/customer-segmentation/raw/main/screenshots/streamlit_dashboard.png" width="65%" alt="Customer Segmentation Streamlit Dashboard"/>
 
 > ✅ Complete · Week 3 · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repository](https://github.com/M20Jay/customer-segmentation)
 
