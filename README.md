@@ -73,9 +73,9 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) |
-| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) |
-| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker · Render | ✅ Complete · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) |
+| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) · [Repository](https://github.com/M20Jay/churn-prediction-pipeline) |
+| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline) |
+| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ Complete · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repository](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG System — UNEP Documents 🌍 | LaBSE · ChromaDB · FastAPI · AWS | ⏳ Week 4 |
 | **05** | Propensity Modelling + SHAP | XGBoost · SHAP · FastAPI · Docker · DVC | ⏳ Week 5 |
 | **06** | Air Quality Anomaly Detection 🌍 | Isolation Forest · OpenAQ · Streamlit · Evidently | ⏳ Week 6 |
@@ -90,9 +90,6 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 | **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | ⏳ Week 15 |
 
 *Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
-
-### Week 2 — Live Monitoring Dashboard
-<img src="https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png" width="65%" alt="Fraud Detection Grafana Dashboard"/>
 
 ---
 
@@ -111,11 +108,11 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 
 <img src="https://github.com/M20Jay/churn-prediction-pipeline/raw/main/screenshots/churn_api_docs.png" width="65%" alt="Churn Prediction API Docs"/>
 
-> ✅ Complete · Week 1 · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs)
+> ✅ Complete · Week 1 · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) · [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
 
 ---
 
-### 💳 Project 2 — Real-Time Fraud Detection Pipeline
+### 🚨 Project 2 — Real-Time Fraud Detection Pipeline
 **LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
 
 Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka streaming pipeline with Redis caching, Prometheus monitoring and 5-panel Grafana dashboard.
@@ -129,14 +126,14 @@ Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka stre
 
 <img src="https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png" width="65%" alt="Fraud Detection Grafana Dashboard"/>
 
-> ✅ Complete · Week 2 · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs)
+> ✅ Complete · Week 2 · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
 
 ---
 
 ### 📊 Project 3 — Customer Segmentation Pipeline
 **KMeans · PCA · StandardScaler · MLflow · Evidently · Streamlit · FastAPI · Docker**
 
-Telecom customer segmentation using unsupervised machine learning — 7,032 customers grouped into 4 behavioural segments using KMeans clustering. Optimal K selected through elbow method and silhouette scoring. Live FastAPI inference endpoint, Streamlit business dashboard, Evidently data drift monitoring, and MLflow experiment tracking.
+Telecom customer segmentation using unsupervised machine learning — 7,032 customers grouped into 4 behavioural segments. Optimal K selected through elbow method and silhouette scoring. Live FastAPI inference endpoint, Streamlit business dashboard, Evidently data drift monitoring, and MLflow experiment tracking.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
