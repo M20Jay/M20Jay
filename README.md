@@ -21,7 +21,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🟢 Fraud Detection: [**fraud-detection-pipeline-nznd.onrender.com/docs**](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
 🟢 Churn Prediction: [**churn-prediction-pipeline-1zue.onrender.com/docs**](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
 🟢 Customer Segmentation: [**customer-segmentation-api-rwmx.onrender.com/docs**](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
-🔭 Currently building: **15-Week MLOps Programme · Week 4 — RAG System on UNEP Documents**<br/>
+🔭 Currently building: **15-Week MLOps Programme · Week 5 — Propensity Modelling + SHAP**<br/>
 🌱 Deepening: **Docker · Kafka · MLflow · Evidently · Streamlit · AWS EC2 · Environmental ML**<br/>
 🤝 Open to: **African AI · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
@@ -76,7 +76,7 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) · [Repository](https://github.com/M20Jay/churn-prediction-pipeline) |
 | **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline) |
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ Complete · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repository](https://github.com/M20Jay/customer-segmentation) |
-| **04** | RAG System — UNEP Documents 🌍 | LaBSE · ChromaDB · FastAPI · AWS | ⏳ Week 4 |
+| **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Complete · Local API confirmed · AWS deployment in progress · [Repository](https://github.com/M20Jay/rag-unep-documents) |
 | **05** | Propensity Modelling + SHAP | XGBoost · SHAP · FastAPI · Docker · DVC | ⏳ Week 5 |
 | **06** | Air Quality Anomaly Detection 🌍 | Isolation Forest · OpenAQ · Streamlit · Evidently | ⏳ Week 6 |
 | **07** | Customer Lifetime Value | BG/NBD · RFM · FastAPI · GitHub Actions | ⏳ Week 7 |
@@ -149,7 +149,22 @@ Telecom customer segmentation using unsupervised machine learning — 7,032 cust
 
 ---
 
-### 🌍 Project 4 — Kiswahili NLP (African Language AI)
+### 🔍 Project 4 — RAG Document Search System
+**LaBSE · ChromaDB · FastAPI · pypdf · Docker**
+
+Semantic search across a 1,244-page technical document — 4,329 chunks indexed using LaBSE multilingual embeddings supporting 109 languages. Questions in any language retrieve relevant passages with exact page references in under one second. Idempotent indexing — chunks indexed once on first startup, skipped on every subsequent restart.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6B48FF?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+> 🔨 Complete · Week 4 · Local API confirmed · AWS deployment in progress · [Repository](https://github.com/M20Jay/rag-unep-documents)
+
+---
+
+### 🌍 Project 5 — Kiswahili NLP (African Language AI)
 **mBERT · AfriBERTa · HuggingFace · MLflow · FastAPI**
 
 Kiswahili environmental text classifier — classifying East African language text by UNEP Strategic Objective. Making African language environmental knowledge accessible to AI systems. Built on the Masakhane community's work on African NLP.
@@ -181,7 +196,9 @@ Kiswahili environmental text classifier — classifying East African language te
 ![AfriBERTa](https://img.shields.io/badge/AfriBERTa-1E6B3C?style=flat)&nbsp;
 ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=flat)&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)&nbsp;
+![LaBSE](https://img.shields.io/badge/LaBSE-4285F4?style=flat)&nbsp;
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6B48FF?style=flat)
 
 **⚙️ Deployment and Infrastructure**
 
@@ -217,6 +234,7 @@ Kiswahili environmental text classifier — classifying East African language te
 | **Machine Learning** | Fraud detection · churn prediction · customer segmentation · ensemble methods · feature engineering · SHAP explainability |
 | **MLOps** | End-to-end pipelines · Docker · MLflow · Evidently drift monitoring · auto-retraining workflows |
 | **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-22ms latency |
+| **NLP & RAG** | Semantic search · LaBSE · ChromaDB · vector embeddings · multilingual retrieval · 109 languages |
 | **Environmental ML** | Climate forecasting · pollution anomaly detection · deforestation prediction · Kiswahili NLP |
 | **Cloud** | AWS EC2 · RDS · ECR · Docker · HTTPS deployment · production infrastructure |
 | **Research** | MSc Marketing Analytics · Board Diversity Research · KRA Tax Policy · M&E frameworks |
@@ -227,6 +245,7 @@ Kiswahili environmental text classifier — classifying East African language te
 
 [![GitHub](https://img.shields.io/badge/GitHub-M20Jay-181717?style=flat&logo=github&logoColor=white)](https://github.com/M20Jay)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-martin--james--nganga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-james-nganga)&nbsp;
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-MartinJayMLOps-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/MartinJayMLOps)&nbsp;
 [![X](https://img.shields.io/badge/X-jeymartins2-000000?style=flat&logo=x&logoColor=white)](https://www.twitter.com/jeymartins2)
 
 ---
