@@ -21,9 +21,9 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🟢 Fraud Detection: [**fraud-detection-pipeline-nznd.onrender.com/docs**](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
 🟢 Churn Prediction: [**churn-prediction-pipeline-1zue.onrender.com/docs**](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
 🟢 Customer Segmentation: [**customer-segmentation-api-rwmx.onrender.com/docs**](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
-🔭 Currently building: **15-Week MLOps Programme · Week 5 — Propensity Modelling + SHAP**<br/>
-🌱 Deepening: **Docker · Kafka · MLflow · Evidently · Streamlit · AWS EC2 · Environmental ML**<br/>
-🤝 Open to: **African AI · telecom · healthcare · environmental analytics**<br/>
+🔭 Currently building: **15-Week MLOps Programme · Week 5 — Credit Risk Scoring + Propensity + RFM**<br/>
+🌱 Next: **SHAP · DVC · ARIMA · LSTM · Isolation Forest · Airflow · AWS/GCP**<br/>
+🤝 Open to: **African AI · telecom · banking · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
 ⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
 
@@ -34,11 +34,25 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | Achievement | Detail |
 |-------------|--------|
 | 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
-| 💰 **KES 29.6M revenue turnaround** | Data-driven business transformation |
+| 🔍 **RAG Document Search System** | 1,244-page semantic search · 4,329 chunks indexed · LaBSE · 109 languages · AWS deployment in progress |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
 | 🌍 **Kiswahili NLP — African language AI (prototype)** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · Full system Week 15 |
-| ✅ **20+ ML projects built and evaluated** | Classification · regression · clustering · time series — notebooks to production journey |
+| ✅ **4 production systems live** | Fraud · Churn · Segmentation · RAG — 4 more deploying Weeks 5-8 |
+
+---
+
+## 🔥 Proven Results
+
+| Achievement | Detail |
+|-------------|--------|
+| 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
+| 🔍 **RAG Document Search System** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · AWS deployment in progress |
+| 📊 **Institutional M&E Architecture** | 50+ KPIs tracked across Board, Management and Functional levels · Results-Based Management (RBM) · KIM Strategic Plan |
+| 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
+| 📊 **87.55% R² — insurance premium prediction** | Production regression model |
+| 🌍 **Kiswahili NLP — African language AI (prototype)** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · Full system Week 15 |
+| ✅ **3 live production APIs + 1 in progress** | Fraud · Churn · Segmentation → live now · RAG → AWS deployment pending |
 
 ---
 
