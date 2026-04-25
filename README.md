@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header&text=Martin%20James&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&width=1500" width="100%"/>
 
-![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;![](https://img.shields.io/badge/3%20Live%20Production%20APIs-success?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/3%20Live%20Production%20APIs-success?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M20Jay&theme=github_dark" width="100%"/>
 
@@ -9,7 +9,7 @@
 <td width="55%" valign="top">
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1500&color=4169E1&center=false&vCenter=true&width=500&height=80&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
 
-I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. Fraud detection, environmental ML, African language NLP, credit risk — built to enterprise scale across East Africa and beyond.
+I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is production MLOps across four domains — fraud detection, credit risk, environmental ML, and African language NLP — built to enterprise scale, deployed from Nairobi, used by the world.
 
 Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 </td>
@@ -264,11 +264,11 @@ Kiswahili environmental text classifier — classifying East African language te
 
 <img src="https://streak-stats.demolab.com?user=M20Jay&theme=dark&hide_border=true&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="GitHub Streak" width="55%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&layout=compact&theme=dark&hide_border=true&langs_count=6" width="40%"/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=M20Jay.M20Jay)
+![Profile Views](https://komarev.com/ghpvc/?username=M20Jay&color=4169E1&style=flat)
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=M20Jay&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=M20Jay&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=M20Jay&theme=github-compact&hide_border=true&color=4169E1&line=4169E1&point=ffffff" width="100%"/>
 
