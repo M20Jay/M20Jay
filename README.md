@@ -1,5 +1,6 @@
-# Hi 👋 My name is Martin James
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=60&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=header&text=Martin%20James&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+### MLOps Engineer · Nairobi, Kenya 🇰🇪
 
 <table>
 <tr>
