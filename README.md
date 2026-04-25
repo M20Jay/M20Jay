@@ -34,19 +34,6 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | Achievement | Detail |
 |-------------|--------|
 | 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
-| 🔍 **RAG Document Search System** | 1,244-page semantic search · 4,329 chunks indexed · LaBSE · 109 languages · AWS deployment in progress |
-| 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
-| 📊 **87.55% R² — insurance premium prediction** | Production regression model |
-| 🌍 **Kiswahili NLP — African language AI (prototype)** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · Full system Week 15 |
-| ✅ **4 production systems live** | Fraud · Churn · Segmentation · RAG — 4 more deploying Weeks 5-8 |
-
----
-
-## 🔥 Proven Results
-
-| Achievement | Detail |
-|-------------|--------|
-| 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
 | 🔍 **RAG Document Search System** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · AWS deployment in progress |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs tracked across Board, Management and Functional levels · Results-Based Management (RBM) · KIM Strategic Plan |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
