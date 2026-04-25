@@ -4,7 +4,7 @@
 <td width="55%">
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=D4A017&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
 <br/>
-I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is fraud detection, telecom analytics, healthcare AI, environmental ML, African language NLP, and MLOps infrastructure built to enterprise scale.
+I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is production MLOps — fraud detection, environmental ML, African language NLP, and credit risk systems built to enterprise scale across East Africa and beyond.
 
 Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 </td>
@@ -22,8 +22,8 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🟢 Churn Prediction: [**churn-prediction-pipeline-1zue.onrender.com/docs**](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
 🟢 Customer Segmentation: [**customer-segmentation-api-rwmx.onrender.com/docs**](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
 🔭 Currently building: **15-Week MLOps Programme · Week 5 — Credit Risk Scoring + Propensity + RFM**<br/>
-🌱 Next: **SHAP · DVC · ARIMA · LSTM · Isolation Forest · Airflow · AWS/GCP**<br/>
-🤝 Open to: **African AI · telecom · banking · healthcare · environmental analytics**<br/>
+🌱 Next: **SHAP · DVC · ARIMA · LSTM · Isolation Forest · Apache Airflow · AWS/GCP**<br/>
+🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
 ⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
 
