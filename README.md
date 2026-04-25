@@ -259,6 +259,7 @@ Kiswahili environmental text classifier — classifying East African language te
 
 <img src="https://streak-stats.demolab.com?user=M20Jay&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="60%" />
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=M20Jay.M20Jay)
 ---
 
 ## 🏆 Goals
@@ -269,3 +270,4 @@ Kiswahili environmental text classifier — classifying East African language te
 ---
 
 *15 weeks. 15 production projects. One complete MLOps engineer. Building in public — no shortcuts.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=60&section=footer" width="100%"/>
