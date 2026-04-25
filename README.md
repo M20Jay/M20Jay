@@ -270,7 +270,7 @@ Kiswahili environmental text classifier — classifying East African language te
 
 <img src="https://github-profile-trophy.vercel.app/?username=M20Jay&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M20Jay&theme=github-compact&hide_border=true&color=4169E1&line=4169E1&point=ffffff" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%"/>
 
 ![Snake](https://raw.githubusercontent.com/M20Jay/M20Jay/output/github-contribution-grid-snake-dark.svg)
 
