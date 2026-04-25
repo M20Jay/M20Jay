@@ -2,7 +2,8 @@
 <table>
 <tr>
 <td width="55%">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=D4A017&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=4169E1&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
+
 <br/>
 I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is production MLOps — fraud detection, environmental ML, African language NLP, and credit risk systems built to enterprise scale across East Africa and beyond.
 
