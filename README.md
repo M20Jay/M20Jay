@@ -264,11 +264,10 @@ Kiswahili environmental text classifier — classifying East African language te
 
 <img src="https://streak-stats.demolab.com?user=M20Jay&theme=dark&hide_border=true&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="GitHub Streak" width="55%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&layout=compact&theme=dark&hide_border=true&langs_count=6" width="40%"/>
 
-<img src="https://skillicons.dev/icons?i=python,docker,fastapi,kafka,postgres,redis,aws,pytorch&theme=dark" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=M20Jay&color=4169E1&style=flat)
 
 ![Snake](https://raw.githubusercontent.com/M20Jay/M20Jay/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ---
