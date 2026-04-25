@@ -77,16 +77,16 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 | **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline) |
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ Complete · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repository](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Complete · Local API confirmed · AWS deployment in progress · [Repository](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Credit Risk Scoring + Propensity | XGBoost · SHAP · DVC · FastAPI · Docker | ⏳ Week 5 |
-| **06** | Environmental Anomaly Detection + Time Series Forecasting 🌍 | RIMA · Prophet · LSTM · Isolation Forest · Streamlit · FastAPI · Docker | ⏳ Week 6 |
-| **07** | Credit Risk Scoring — Banking ML Pipeline | XGBoost · SHAP · Scorecard · FastAPI · Docker | ⏳ Week 7 |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · DVC · RFM · FastAPI · Docker | ⏳ Week 5 |
+| **06** | Environmental Anomaly Detection + Time Series Forecasting 🌍 | ARIMA · Prophet · LSTM · Isolation Forest · Streamlit · FastAPI · Docker | ⏳ Week 6 |
+| **07** | Recommendation System | Collaborative Filtering · Matrix Factorization · FastAPI · Docker | ⏳ Week 7 |
 | **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect | ⏳ Week 8 |
-| **09** | Cloud Deployment on AWS | EC2 · RDS · ECR · HTTPS · Kubernetes intro | ⏳ Week 9 |
-| **10** | Deforestation Prediction Capstone 🌍 | Random Forest · Global Forest Watch · dbt intro | ⏳ Week 10 |
-| **11** | NLP — Environmental Policy Analysis 🌍 | spaCy · TF-IDF · Text Classification · FastAPI · BentoML · Dash | ⏳ Week 11 |
-| **12** | Spark + dbt Foundations | PySpark · dbt · BigQuery | ⏳ Week 12 |
-| **13** | Real-Time Environmental Dashboard | Streamlit · Plotly · Evidently · AWS | ⏳ Week 13 |
-| **14** | NLP — Environmental Text Classification | HuggingFace · BERT · FastAPI | ⏳ Week 14 |
+| **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | ⏳ Week 9 |
+| **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | ⏳ Week 10 |
+| **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | ⏳ Week 11 |
+| **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | ⏳ Week 12 |
+| **13** | Apache Spark — Big Data | PySpark · Spark MLlib · dbt · BigQuery | ⏳ Week 13 |
+| **14** | NLP — Text Classification | HuggingFace · BERT · spaCy · FastAPI · Docker | ⏳ Week 14 |
 | **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | ⏳ Week 15 |
 
 *Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
