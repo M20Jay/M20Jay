@@ -77,9 +77,9 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 | **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline) |
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ Complete · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repository](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Complete · Local API confirmed · AWS deployment in progress · [Repository](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Propensity Modelling + SHAP | XGBoost · SHAP · FastAPI · Docker · DVC | ⏳ Week 5 |
-| **06** | Air Quality Anomaly Detection 🌍 | Isolation Forest · OpenAQ · Streamlit · Evidently | ⏳ Week 6 |
-| **07** | Customer Lifetime Value | BG/NBD · RFM · FastAPI · GitHub Actions | ⏳ Week 7 |
+| **05** | Credit Risk Scoring + Propensity | XGBoost · SHAP · DVC · FastAPI · Docker | ⏳ Week 5 |
+| **06** | Environmental Anomaly Detection + Time Series Forecasting 🌍 | RIMA · Prophet · LSTM · Isolation Forest · Streamlit · FastAPI · Docker | ⏳ Week 6 |
+| **07** | Credit Risk Scoring — Banking ML Pipeline | XGBoost · SHAP · Scorecard · FastAPI · Docker | ⏳ Week 7 |
 | **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect | ⏳ Week 8 |
 | **09** | Cloud Deployment on AWS | EC2 · RDS · ECR · HTTPS · Kubernetes intro | ⏳ Week 9 |
 | **10** | Deforestation Prediction Capstone 🌍 | Random Forest · Global Forest Watch · dbt intro | ⏳ Week 10 |
@@ -173,7 +173,7 @@ Kiswahili environmental text classifier — classifying East African language te
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
-> 🔨 Prototype Complete · Week 3 · [Repository](https://github.com/M20Jay/kiswahili-nlp) · Full system Week 15
+> 🔨 Prototype Complete · Week 4 · [Repository](https://github.com/M20Jay/kiswahili-nlp) · Full system Week 15
 
 ---
 
