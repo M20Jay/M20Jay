@@ -1,15 +1,16 @@
 # Hi 👋 My name is Martin James
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=60&section=header" width="100%"/>
+
 <table>
 <tr>
-<td width="55%">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=4169E1&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
+<td width="55%" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1500&color=4169E1&center=false&vCenter=true&width=500&height=80&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
 
-
-I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is production MLOps — Fraud detection, environmental ML, African language NLP, credit risk — built to enterprise scale across East Africa and beyond.
+I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. Fraud detection, environmental ML, African language NLP, credit risk — built to enterprise scale across East Africa and beyond.
 
 Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 </td>
-<td width="45%" align="center">
+<td width="45%" align="center" valign="top">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="ML Engineer" />
 </td>
 </tr>
