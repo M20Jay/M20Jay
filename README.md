@@ -91,7 +91,7 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 | **14** | NLP — Text Classification | HuggingFace · BERT · spaCy · FastAPI · Docker | ⏳ Week 14 |
 | **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | ⏳ Week 15 |
 
-*Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
+*✅ = live endpoint · documented README · pushed to GitHub · no shortcuts.*
 
 ![Week](https://img.shields.io/badge/Week-5%2F15%20%E2%9C%85-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20APIs-3%20in%20Production-success?style=flat)&nbsp;![Location](https://img.shields.io/badge/Based%20in-Nairobi%20Kenya-4169E1?style=flat)
 
