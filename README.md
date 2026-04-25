@@ -1,6 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header&text=Martin%20James&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&width=1500" width="100%"/>
 
-![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/3%20Live%20Production%20APIs-success?style=for-the-badge&logo=fastapi&logoColor=white)
+<table width="100%">
+<tr>
+<td align="center">
+
+![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+<td align="center">
+
+![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</td>
+<td align="center">
+
+![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)
+
+</td>
+<td align="center">
+
+![](https://img.shields.io/badge/3%20Live%20Production%20APIs-success?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M20Jay&theme=github_dark" width="100%"/>
 
