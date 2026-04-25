@@ -77,27 +77,29 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
+![Progress](https://geps.dev/progress/27?successColor=4169E1) **4 of 15 weeks complete — 11 remaining**
+
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Complete · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) · [Repository](https://github.com/M20Jay/churn-prediction-pipeline) |
-| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Complete · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline) |
-| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ Complete · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repository](https://github.com/M20Jay/customer-segmentation) |
-| **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Complete · Local API confirmed · AWS deployment in progress · [Repository](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · DVC · RFM · FastAPI · Docker | ⏳ Week 5 |
-| **06** | Environmental Anomaly Detection + Time Series Forecasting 🌍 | ARIMA · Prophet · LSTM · Isolation Forest · Streamlit · FastAPI · Docker | ⏳ Week 6 |
-| **07** | Recommendation System | Collaborative Filtering · Matrix Factorization · FastAPI · Docker | ⏳ Week 7 |
-| **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect | ⏳ Week 8 |
-| **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | ⏳ Week 9 |
-| **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | ⏳ Week 10 |
-| **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | ⏳ Week 11 |
-| **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | ⏳ Week 12 |
-| **13** | Apache Spark — Big Data | PySpark · Spark MLlib · dbt · BigQuery | ⏳ Week 13 |
-| **14** | NLP — Text Classification | HuggingFace · BERT · spaCy · FastAPI · Docker | ⏳ Week 14 |
-| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | ⏳ Week 15 |
+| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
+| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
+| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
+| **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local API confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · DVC · RFM · FastAPI · Docker | 🔨 Building now |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM · Isolation Forest · Streamlit · FastAPI · Docker | 🔲 Pending |
+| **07** | Recommendation System | Collaborative Filtering · Matrix Factorization · FastAPI · Docker | 🔲 Pending |
+| **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect | 🔲 Pending |
+| **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔲 Pending |
+| **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | 🔲 Pending |
+| **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | 🔲 Pending |
+| **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | 🔲 Pending |
+| **13** | Apache Spark — Big Data | PySpark · Spark MLlib · dbt · BigQuery | 🔲 Pending |
+| **14** | NLP — Text Classification | HuggingFace · BERT · spaCy · FastAPI · Docker | 🔲 Pending |
+| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | 🔲 Pending |
 
 *✅ = live endpoint · documented README · pushed to GitHub · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-5%2F15%20%E2%9C%85-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20APIs-3%20in%20Production-success?style=flat)&nbsp;![Location](https://img.shields.io/badge/Based%20in-Nairobi%20Kenya-4169E1?style=flat)
+![Week](https://img.shields.io/badge/Week-5%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20APIs-3%20in%20Production-success?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%205-orange?style=flat)
 
 ---
 
@@ -260,9 +262,18 @@ Kiswahili environmental text classifier — classifying East African language te
 
 ## 📈 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=M20Jay&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="60%" />
+<img src="https://streak-stats.demolab.com?user=M20Jay&theme=dark&hide_border=true&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="GitHub Streak" width="55%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&layout=compact&theme=dark&hide_border=true&langs_count=6" width="40%"/>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=M20Jay.M20Jay)
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=M20Jay&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M20Jay&theme=github-compact&hide_border=true&color=4169E1&line=4169E1&point=ffffff" width="100%"/>
+
+![Snake](https://raw.githubusercontent.com/M20Jay/M20Jay/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## 🏆 Goals
@@ -273,4 +284,5 @@ Kiswahili environmental text classifier — classifying East African language te
 ---
 
 *15 weeks. 15 production projects. One complete MLOps engineer. Building in public — no shortcuts.*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=60&section=footer" width="100%"/>
