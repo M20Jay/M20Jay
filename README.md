@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=2000&color=4169E1&center=false&vCenter=true&width=500&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
 
 
-I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is production MLOps — fraud detection, environmental ML, African language NLP, and credit risk systems built to enterprise scale across East Africa and beyond.
+I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is production MLOps — Fraud detection, environmental ML, African language NLP, credit risk — built to enterprise scale across East Africa and beyond.
 
 Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 </td>
@@ -92,6 +92,8 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 | **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | ⏳ Week 15 |
 
 *Updated every Sunday. ✅ = complete with live endpoint, documented README, and pushed to GitHub.*
+
+![Week](https://img.shields.io/badge/Week-5%2F15%20%E2%9C%85-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20APIs-3%20in%20Production-success?style=flat)&nbsp;![Location](https://img.shields.io/badge/Based%20in-Nairobi%20Kenya-4169E1?style=flat)
 
 ---
 
