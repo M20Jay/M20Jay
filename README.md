@@ -24,12 +24,12 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 ---
 
 📍 Based in **Nairobi, Kenya**<br/>
-✉️ Contact: **[ngangam93@gmail.com](mailto:ngangam93@gmail.com)**<br/>
-🟢 Fraud Detection: [**fraud-detection-pipeline-nznd.onrender.com/docs**](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
-🟢 Churn Prediction: [**churn-prediction-pipeline-1zue.onrender.com/docs**](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
-🟢 Customer Segmentation: [**customer-segmentation-api-rwmx.onrender.com/docs**](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
-🟢 Credit Risk Scoring: [**credit-risk-scoring-pipeline.onrender.com/docs**](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
-🔭 Currently building: **15-Week MLOps Programme · Week 6 — Environmental Anomaly Detection + Time Series**<br/>
+✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
+🟢 Fraud Detection: [fraud-detection-pipeline-nznd.onrender.com/docs](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
+🟢 Churn Prediction: [churn-prediction-pipeline-1zue.onrender.com/docs](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
+🟢 Customer Segmentation: [customer-segmentation-api-rwmx.onrender.com/docs](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
+🟢 Credit Risk Scoring: [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
+🔭 Currently building: **Week 6 — Environmental Anomaly Detection + Time Series**<br/>
 🌱 Next: **ARIMA · Prophet · LSTM · Isolation Forest · Apache Airflow · AWS/GCP**<br/>
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
@@ -43,40 +43,11 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 |-------------|--------|
 | 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
 | 💳 **Credit risk scoring + SHAP explainability** | XGBoost · ROC-AUC 0.703 · SHAP waterfall · Basel III ready · live production API |
-| 🔍 **RAG Document Search System** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · full system Week 12 |
-| 🌍 **Kiswahili NLP — African language AI** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
-| 📊 **Institutional M&E Architecture** | 50+ KPIs tracked · Results-Based Management · KIM Strategic Plan · World Bank KYEOP — A-rating |
-| 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
-| 📊 **87.55% R² — insurance premium prediction** | Production regression model |
-| ✅ **4 live production APIs** | Fraud · Churn · Segmentation · Credit Risk → all live now |
-
----
-
-## 🟢 Live Now — Four Production APIs
-
-### Fraud Detection Pipeline
-**LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
-Real-time transaction scoring — 22ms average response. Kafka streaming pipeline. 5-panel Grafana monitoring dashboard. Live endpoint.
-
-🌐 [Live API](https://fraud-detection-pipeline-nznd.onrender.com) · 📖 [Interactive Docs](https://fraud-detection-pipeline-nznd.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
-
-### Churn Prediction Pipeline
-**XGBoost · FastAPI · PostgreSQL · Redis · Grafana · Docker**
-Customer churn prediction — production ML pipeline with live monitoring dashboard.
-
-🌐 [Live API](https://churn-prediction-pipeline-1zue.onrender.com) · 📖 [Interactive Docs](https://churn-prediction-pipeline-1zue.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
-
-### Customer Segmentation Pipeline
-**KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker**
-Telecom customer segmentation — 4 behavioural groups identified from 7,032 customers. Live FastAPI inference endpoint, Streamlit business dashboard, Evidently data drift monitoring, and MLflow experiment tracking.
-
-🌐 [Live API](https://customer-segmentation-api-rwmx.onrender.com) · 📖 [Interactive Docs](https://customer-segmentation-api-rwmx.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/customer-segmentation)
-
-### Credit Risk Scoring Pipeline
-**XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker · Render**
-Credit risk scoring for loan applicants — answers three questions in one API call: Will they default? Will they accept? How valuable are they? ROC-AUC 0.703. SHAP explainability for every decision. Basel III audit trail. Live Grafana monitoring dashboard.
-
-🌐 [Live API](https://credit-risk-scoring-pipeline.onrender.com) · 📖 [Interactive Docs](https://credit-risk-scoring-pipeline.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
+| 🔍 **RAG Document Search — prototype** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · full system Week 12 |
+| 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
+| 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
+| 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
+| ✅ **4 live production APIs** | Fraud · Churn · Segmentation · Credit Risk → all deployed and monitored |
 
 ---
 
@@ -165,7 +136,7 @@ Telecom customer segmentation using unsupervised machine learning — 7,032 cust
 
 ### 🔍 Project 4 — RAG Document Search System *(Prototype — Full System Week 12)*
 **LaBSE · ChromaDB · FastAPI · pypdf · Docker**
-Semantic search across a 1,244-page technical document — 4,329 chunks indexed using LaBSE multilingual embeddings supporting 109 languages. Questions in any language retrieve relevant passages with exact page references in under one second. Idempotent indexing — chunks indexed once on first startup, skipped on every subsequent restart. Full production system with LangChain and FAISS completing at Week 12.
+Semantic search across a 1,244-page technical document — 4,329 chunks indexed using LaBSE multilingual embeddings supporting 109 languages. Questions in any language retrieve relevant passages with exact page references in under one second. Idempotent indexing — chunks indexed once on first startup, skipped on every subsequent restart. Full production system completing at Week 12.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -179,7 +150,7 @@ Semantic search across a 1,244-page technical document — 4,329 chunks indexed 
 
 ### 🌍 Project 5 — Kiswahili NLP — African Language AI *(Prototype — Full System Week 15)*
 **mBERT · AfriBERTa · HuggingFace · MLflow · FastAPI**
-Kiswahili environmental text classifier — classifying East African language text by UNEP Strategic Objective. Making African language environmental knowledge accessible to AI systems. Built on the Masakhane community's work on African NLP. Directly relevant to the UNEP mandate on environmental data accessibility across African communities. Full production system completing at Week 15.
+Kiswahili environmental text classifier — classifying East African language text by UNEP Strategic Objective. Making African language environmental knowledge accessible to AI systems. Built on the Masakhane community's work on African NLP. Full production system completing at Week 15.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
