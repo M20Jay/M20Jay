@@ -1,17 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header&text=Martin%20James&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40&width=1500" width="100%"/>
 
-![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/3%20Live%20Production%20APIs-success?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/4%20Live%20Production%20APIs-success?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M20Jay&theme=github_dark" width="100%"/>
 
 <table>
 <tr>
 <td width="55%" valign="top">
+
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1500&color=4169E1&center=false&vCenter=true&width=500&height=80&lines=Data+is+only+as+powerful...;...as+the+institution+willing+to+act+on+it.;I+have+spent+10+years+building+both." alt="Typing SVG" />
 
 I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My focus is production MLOps across four domains — fraud detection, credit risk, environmental ML, and African language NLP — built to enterprise scale, deployed from Nairobi, used by the world.
 
 Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
+
 </td>
 <td width="45%" align="center" valign="top">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="ML Engineer" />
@@ -22,12 +24,13 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 ---
 
 📍 Based in **Nairobi, Kenya**<br/>
-✉️ Contact: **ngangam93@gmail.com**<br/>
+✉️ Contact: **[ngangam93@gmail.com](mailto:ngangam93@gmail.com)**<br/>
 🟢 Fraud Detection: [**fraud-detection-pipeline-nznd.onrender.com/docs**](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
 🟢 Churn Prediction: [**churn-prediction-pipeline-1zue.onrender.com/docs**](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
 🟢 Customer Segmentation: [**customer-segmentation-api-rwmx.onrender.com/docs**](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
-🔭 Currently building: **15-Week MLOps Programme · Week 5 — Credit Risk Scoring + Propensity + RFM**<br/>
-🌱 Next: **SHAP · DVC · ARIMA · LSTM · Isolation Forest · Apache Airflow · AWS/GCP**<br/>
+🟢 Credit Risk Scoring: [**credit-risk-scoring-pipeline.onrender.com/docs**](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
+🔭 Currently building: **15-Week MLOps Programme · Week 6 — Environmental Anomaly Detection + Time Series**<br/>
+🌱 Next: **ARIMA · Prophet · LSTM · Isolation Forest · Apache Airflow · AWS/GCP**<br/>
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
 ⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
@@ -39,37 +42,41 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | Achievement | Detail |
 |-------------|--------|
 | 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
-| 🔍 **RAG Document Search System** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · AWS deployment in progress |
-| 📊 **Institutional M&E Architecture** | 50+ KPIs tracked across Board, Management and Functional levels · Results-Based Management (RBM) · KIM Strategic Plan |
+| 💳 **Credit risk scoring + SHAP explainability** | XGBoost · ROC-AUC 0.703 · SHAP waterfall · Basel III ready · live production API |
+| 🔍 **RAG Document Search System** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · full system Week 12 |
+| 🌍 **Kiswahili NLP — African language AI** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
+| 📊 **Institutional M&E Architecture** | 50+ KPIs tracked · Results-Based Management · KIM Strategic Plan · World Bank KYEOP — A-rating |
 | 📈 **95.25% accuracy — mobile price prediction** | Production ML classification model |
 | 📊 **87.55% R² — insurance premium prediction** | Production regression model |
-| 🌍 **Kiswahili NLP — African language AI (prototype)** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · Full system Week 15 |
-| ✅ **3 live production APIs + 1 in progress** | Fraud · Churn · Segmentation → live now · RAG → AWS deployment pending |
+| ✅ **4 live production APIs** | Fraud · Churn · Segmentation · Credit Risk → all live now |
 
 ---
 
-## 🟢 Live Now — Three Production APIs
+## 🟢 Live Now — Four Production APIs
 
 ### Fraud Detection Pipeline
 **LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
-
 Real-time transaction scoring — 22ms average response. Kafka streaming pipeline. 5-panel Grafana monitoring dashboard. Live endpoint.
 
 🌐 [Live API](https://fraud-detection-pipeline-nznd.onrender.com) · 📖 [Interactive Docs](https://fraud-detection-pipeline-nznd.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
 
 ### Churn Prediction Pipeline
 **XGBoost · FastAPI · PostgreSQL · Redis · Grafana · Docker**
-
 Customer churn prediction — production ML pipeline with live monitoring dashboard.
 
 🌐 [Live API](https://churn-prediction-pipeline-1zue.onrender.com) · 📖 [Interactive Docs](https://churn-prediction-pipeline-1zue.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
 
 ### Customer Segmentation Pipeline
 **KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker**
-
-Telecom customer segmentation — 4 behavioural groups identified from 7,032 customers. Live inference API with Streamlit dashboard and Evidently drift monitoring.
+Telecom customer segmentation — 4 behavioural groups identified from 7,032 customers. Live FastAPI inference endpoint, Streamlit business dashboard, Evidently data drift monitoring, and MLflow experiment tracking.
 
 🌐 [Live API](https://customer-segmentation-api-rwmx.onrender.com) · 📖 [Interactive Docs](https://customer-segmentation-api-rwmx.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/customer-segmentation)
+
+### Credit Risk Scoring Pipeline
+**XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker · Render**
+Credit risk scoring for loan applicants — answers three questions in one API call: Will they default? Will they accept? How valuable are they? ROC-AUC 0.703. SHAP explainability for every decision. Basel III audit trail. Live Grafana monitoring dashboard.
+
+🌐 [Live API](https://credit-risk-scoring-pipeline.onrender.com) · 📖 [Interactive Docs](https://credit-risk-scoring-pipeline.onrender.com/docs) · 📁 [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
 
 ---
 
@@ -77,15 +84,15 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
-![Progress](https://geps.dev/progress/27?successColor=4169E1) **4 of 15 weeks complete — 11 remaining**
+![Progress](https://geps.dev/progress/33?successColor=4169E1) **5 of 15 weeks complete — 10 remaining**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
 | **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
-| **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local API confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · DVC · RFM · FastAPI · Docker | 🔨 Building now |
+| **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
 | **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM · Isolation Forest · Streamlit · FastAPI · Docker | 🔲 Pending |
 | **07** | Recommendation System | Collaborative Filtering · Matrix Factorization · FastAPI · Docker | 🔲 Pending |
 | **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect | 🔲 Pending |
@@ -99,7 +106,7 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 
 *✅ = live endpoint · documented README · pushed to GitHub · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-5%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20APIs-3%20in%20Production-success?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%205-orange?style=flat)
+![Week](https://img.shields.io/badge/Week-5%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20APIs-4%20in%20Production-success?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%206-orange?style=flat)
 
 ---
 
@@ -107,7 +114,6 @@ Telecom customer segmentation — 4 behavioural groups identified from 7,032 cus
 
 ### 💳 Project 1 — Customer Churn Prediction
 **XGBoost · SMOTE · FastAPI · Docker · PostgreSQL · Grafana**
-
 End-to-end telecom churn pipeline — feature engineering, class balancing, model training, containerised API deployment with live monitoring dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -124,7 +130,6 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 
 ### 🚨 Project 2 — Real-Time Fraud Detection Pipeline
 **LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
-
 Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka streaming pipeline with Redis caching, Prometheus monitoring and 5-panel Grafana dashboard.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -142,7 +147,6 @@ Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka stre
 
 ### 📊 Project 3 — Customer Segmentation Pipeline
 **KMeans · PCA · StandardScaler · MLflow · Evidently · Streamlit · FastAPI · Docker**
-
 Telecom customer segmentation using unsupervised machine learning — 7,032 customers grouped into 4 behavioural segments. Optimal K selected through elbow method and silhouette scoring. Live FastAPI inference endpoint, Streamlit business dashboard, Evidently data drift monitoring, and MLflow experiment tracking.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -159,10 +163,9 @@ Telecom customer segmentation using unsupervised machine learning — 7,032 cust
 
 ---
 
-### 🔍 Project 4 — RAG Document Search System
+### 🔍 Project 4 — RAG Document Search System *(Prototype — Full System Week 12)*
 **LaBSE · ChromaDB · FastAPI · pypdf · Docker**
-
-Semantic search across a 1,244-page technical document — 4,329 chunks indexed using LaBSE multilingual embeddings supporting 109 languages. Questions in any language retrieve relevant passages with exact page references in under one second. Idempotent indexing — chunks indexed once on first startup, skipped on every subsequent restart.
+Semantic search across a 1,244-page technical document — 4,329 chunks indexed using LaBSE multilingual embeddings supporting 109 languages. Questions in any language retrieve relevant passages with exact page references in under one second. Idempotent indexing — chunks indexed once on first startup, skipped on every subsequent restart. Full production system with LangChain and FAISS completing at Week 12.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -170,27 +173,43 @@ Semantic search across a 1,244-page technical document — 4,329 chunks indexed 
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6B48FF?style=flat)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-> 🔨 Complete · Week 4 · Local API confirmed · AWS deployment in progress · [Repository](https://github.com/M20Jay/rag-unep-documents)
+> 🔨 Prototype Complete · Week 4 · Local API confirmed · AWS deployment in progress · Full system Week 12 · [Repository](https://github.com/M20Jay/rag-unep-documents)
 
 ---
 
-### 🌍 Project 5 — Kiswahili NLP (African Language AI)
+### 🌍 Project 5 — Kiswahili NLP — African Language AI *(Prototype — Full System Week 15)*
 **mBERT · AfriBERTa · HuggingFace · MLflow · FastAPI**
-
-Kiswahili environmental text classifier — classifying East African language text by UNEP Strategic Objective. Making African language environmental knowledge accessible to AI systems. Built on the Masakhane community's work on African NLP.
+Kiswahili environmental text classifier — classifying East African language text by UNEP Strategic Objective. Making African language environmental knowledge accessible to AI systems. Built on the Masakhane community's work on African NLP. Directly relevant to the UNEP mandate on environmental data accessibility across African communities. Full production system completing at Week 15.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
-> 🔨 Prototype Complete · Week 4 · [Repository](https://github.com/M20Jay/kiswahili-nlp) · Full system Week 15
+> 🔨 Prototype Complete · Week 4 · Full system Week 15 · [Repository](https://github.com/M20Jay/kiswahili-nlp)
+
+---
+
+### 💳 Project 6 — Credit Risk Scoring Pipeline
+**XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker · Render**
+Credit risk scoring for loan applicants — answers three questions simultaneously: Will they default? Will they accept the offer? How valuable are they? Built on 252,971 real LendingClub loans. ROC-AUC 0.703. SHAP explainability for every decision — Basel III compliant audit trail. Propensity scoring, RFM segmentation, 6-panel Grafana monitoring dashboard, PostgreSQL predictions storage.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+<img src="https://github.com/M20Jay/credit-risk-scoring-pipeline/raw/main/screenshots/shap_waterfall.png" width="65%" alt="SHAP Waterfall — Credit Risk Explainability"/>
+
+> ✅ Complete · Week 5 · [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
 
 ---
 
 ## 🛠️ Skills
 
 **💻 Programming and Data Science**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
@@ -200,7 +219,6 @@ Kiswahili environmental text classifier — classifying East African language te
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 **🤖 NLP and AI**
-
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)&nbsp;
 ![mBERT](https://img.shields.io/badge/mBERT-FF6F00?style=flat)&nbsp;
 ![AfriBERTa](https://img.shields.io/badge/AfriBERTa-1E6B3C?style=flat)&nbsp;
@@ -211,7 +229,6 @@ Kiswahili environmental text classifier — classifying East African language te
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6B48FF?style=flat)
 
 **⚙️ Deployment and Infrastructure**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
@@ -219,7 +236,6 @@ Kiswahili environmental text classifier — classifying East African language te
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 **☁️ Cloud and MLOps**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)&nbsp;
@@ -228,7 +244,6 @@ Kiswahili environmental text classifier — classifying East African language te
 ![Evidently](https://img.shields.io/badge/Evidently-6B48FF?style=flat)
 
 **📊 Visualisation and BI**
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)&nbsp;
@@ -241,13 +256,13 @@ Kiswahili environmental text classifier — classifying East African language te
 
 | Area | Skills |
 |------|--------|
-| **Machine Learning** | Fraud detection · churn prediction · customer segmentation · ensemble methods · feature engineering · SHAP explainability |
+| **Machine Learning** | Fraud detection · churn prediction · credit risk scoring · customer segmentation · ensemble methods · feature engineering · SHAP explainability |
 | **MLOps** | End-to-end pipelines · Docker · MLflow · Evidently drift monitoring · auto-retraining workflows |
 | **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-22ms latency |
 | **NLP & RAG** | Semantic search · LaBSE · ChromaDB · vector embeddings · multilingual retrieval · 109 languages |
 | **Environmental ML** | Climate forecasting · pollution anomaly detection · deforestation prediction · Kiswahili NLP |
 | **Cloud** | AWS EC2 · RDS · ECR · Docker · HTTPS deployment · production infrastructure |
-| **Research** | MSc Marketing Analytics · Board Diversity Research · KRA Tax Policy · M&E frameworks |
+| **Research & M&E** | MSc Marketing Analytics · Board Diversity Research · World Bank KYEOP · Results-Based Management · 50+ KPI frameworks |
 
 ---
 
@@ -276,8 +291,8 @@ Kiswahili environmental text classifier — classifying East African language te
 
 ## 🏆 Goals
 
-- 🎓 **MSc Computer Science — Georgia Tech OMSCS** — January 2027 · Specialisation in Artificial Intelligence
-- 🌍 **Kiswahili NLP** — Building African language AI for East African communities — Week 15
+- 🎓 **MSc Marketing Analytics — University of Nairobi** — In Progress 2026
+- 🌍 **Kiswahili NLP** — Building African language AI for East African communities — Full system Week 15
 
 ---
 
