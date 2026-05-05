@@ -2,14 +2,14 @@
 
 ![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/4%20Live%20Production%20APIs-success?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3500&pause=2000&color=4169E1&center=false&vCenter=true&width=1200&height=80&lines=Data+is+only+as+powerful+as+the+institution%27s+willingness+to+act+on+it.;I+build+ML+systems+for+Africa%27s+most+urgent+problems%3A+financial+inclusion%2C+climate+change+and+language+equity.;From+Nairobi+to+the+world." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3500&pause=2000&color=4169E1&center=false&vCenter=true&width=1200&height=80&lines=Data+is+only+as+powerful+as+the+institution%27s+willingness+to+act+on+it.+I+have+spent+ten+years+building+both.;I+build+ML+systems+for+Africa%27s+most+urgent+problems%3A+financial+inclusion%2C+climate+change+and+language+equity.;From+Nairobi+to+the+world." alt="Typing SVG" />
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
 
-I build end-to-end production pipelines — from raw data through model development, containerised deployment,real-time monitoring, and automated retraining. Four domains: fraud detection, credit risk, environmental ML, and African language NLP — built to enterprise scale.
+I build end-to-end production pipelines — from raw data through model development, containerised deployment, real-time monitoring, and automated retraining. Four domains: fraud detection, credit risk, environmental ML, and African language NLP — built to enterprise scale.
 
 Currently executing a **15-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 
