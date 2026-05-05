@@ -6,7 +6,11 @@
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3500&pause=2000&color=4169E1&center=false&vCenter=true&width=800&height=60&lines=Data+is+only+as+powerful+as+the+institution%27s+willingness+to+act+on+it.;I+have+spent+ten+years+building+both.;Building+ML+systems+for+Africa%27s+most+urgent+problems%3A+financial+inclusion%2C+climate+and+language+equity." alt="Typing SVG" />
+<p style="color:#4169E1; font-family:Georgia,serif; font-size:18px; line-height:1.8;">
+Data is only as powerful as the institution's willingness to act on it.<br/>
+I have spent ten years building both.<br/>
+Building ML systems for Africa's most urgent problems: financial inclusion, climate and language equity.
+</p>
 
 
 I build end-to-end production pipelines — from raw data through model development, containerised deployment,real-time monitoring, and automated retraining. Four domains: fraud detection, credit risk, environmental ML, and African language NLP — built to enterprise scale.
