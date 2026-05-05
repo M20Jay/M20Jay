@@ -6,7 +6,7 @@
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1500&color=4169E1&center=false&vCenter=true&width=500&height=80&lines=Building+ML+systems+for+Africa%27s+most+urgent+problems.;Financial+inclusion.+Environmental+monitoring.+Language+equity.;From+Nairobi%2C+for+the+world.;Data+is+only+as+powerful+as+the+institution%27s+willingness+to+act.;I+have+spent+10+years+building+both." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=1500&color=4169E1&center=false&vCenter=true&width=700&height=80&lines=Building+ML+systems+for+Africa%27s+most+urgent+problems.;Financial+inclusion.+Environmental+monitoring.+Language+equity.;From+Nairobi%2C+for+the+world.;Data+is+only+as+powerful+as+the+institution%27s+willingness+to+act.;I+have+spent+10+years+building+both." alt="Typing SVG" />
 
 
 I build end-to-end production pipelines — from raw data through model development, containerised deployment,real-time monitoring, and automated retraining. Four domains: fraud detection, credit risk, environmental ML, and African language NLP — built to enterprise scale.
