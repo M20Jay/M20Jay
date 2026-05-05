@@ -2,8 +2,6 @@
 
 ![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/4%20Live%20Production%20APIs-success?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M20Jay&theme=github_dark" width="100%"/>
-
 <table>
 <tr>
 <td width="55%" valign="top">
