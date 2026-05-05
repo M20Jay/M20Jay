@@ -55,7 +55,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
-![Progress](https://geps.dev/progress/33?successColor=4169E1) **5 of 15 weeks complete — 10 remaining**
+![Progress](https://geps.dev/progress/40?successColor=4169E1) **6 of 15 weeks complete — 9 remaining**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
@@ -64,7 +64,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) |
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
-| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM · Isolation Forest · Streamlit · FastAPI · Docker | 🔲 Pending |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM · Isolation Forest · Streamlit · FastAPI · Docker | 🔨 In Progress · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
 | **07** | Recommendation System | Collaborative Filtering · Matrix Factorization · FastAPI · Docker | 🔲 Pending |
 | **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect | 🔲 Pending |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔲 Pending |
