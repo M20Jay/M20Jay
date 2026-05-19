@@ -28,12 +28,13 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🟢 **Fraud Detection:** [fraud-detection-pipeline-nznd.onrender.com/docs](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
 🟢 **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
 🟢 **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
-🟢 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)
-🟢 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)
-🟢 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)
+🟢 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
+🟢 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)<br/>
+🟢 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)<br/>
+
 <br/>
-🔭 Currently building: **Week 8 — MLOps Automation**
-🌱 Next: **MLflow · Evidently AI · GitHub Actions · Prefect · Apache Airflow · AWS**
+🔭 Currently building: **Week 8 — MLOps Automation**<br/>
+🌱 Next: **MLflow · Evidently AI · GitHub Actions · Prefect · Apache Airflow · AWS**<br/>
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
 ⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
