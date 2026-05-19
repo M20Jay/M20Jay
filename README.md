@@ -1,6 +1,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=M20Jay&theme=github-compact&hide_border=true&color=4169E1&line=4169E1&point=ffffff&bg_color=0d1117" width="100%"/>
 
-![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/6%20Live%20Production%20Systems-success?style=for-the-badge&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/8%20Live%20Production%20Systems-success?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=23&duration=3500&pause=2000&color=4169E1&center=false&vCenter=true&width=1200&height=80&lines=Data+is+only+as+powerful+as+the+institution%27s+willingness+to+act+on+it.+I+have+spent+ten+years+building+both.;I+build+ML+systems+for+Africa%27s+most+urgent+problems%3A+financial+inclusion%2C+climate+change+and+language+equity.;From+Nairobi+to+the+world." alt="Typing SVG" />
 
@@ -28,9 +28,12 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🟢 **Fraud Detection:** [fraud-detection-pipeline-nznd.onrender.com/docs](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
 🟢 **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
 🟢 **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
-🟢 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
-🔭 Currently building: **Week 7 — Recommendation System**<br/>
-🌱 Next: **Collaborative Filtering · SVD · Matrix Factorization · Apache Airflow · AWS/GCP**<br/>
+🟢 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)
+🟢 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)
+🟢 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)
+<br/>
+🔭 Currently building: **Week 8 — MLOps Automation**
+🌱 Next: **MLflow · Evidently AI · GitHub Actions · Prefect · Apache Airflow · AWS**
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
 ⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
@@ -42,13 +45,14 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | Achievement | Detail |
 |-------------|--------|
 | 🌍 **Environmental anomaly detection** | ARIMA RMSE 9.93 · PM2.5 spike 469 µg/m³ detected · 11,998 OpenAQ readings · live dashboard + API |
+| 🎬 **Movie Recommendation System** | Item-CF RMSE 0.9540 · P@10 69.7% · 943 users · 1,682 movies · CineAI Netflix-standard dashboard · live |
 | 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
 | 💳 **Credit risk scoring + SHAP explainability** | XGBoost · ROC-AUC 0.703 · SHAP waterfall · Basel III ready · live production API |
 | 🔍 **RAG Document Search — prototype** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · full system Week 12 |
 | 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
-| ✅ **6 live production systems** | Fraud · Churn · Segmentation · Credit Risk · Air Quality API · Air Quality Dashboard |
+| ✅ **8 live production systems** | Fraud · Churn · Segmentation · Credit Risk · Air Quality API · Air Quality Dashboard · Recommendation API · Recommendation Dashboard |
 
 ---
 
@@ -56,7 +60,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
-![Progress](https://geps.dev/progress/40?successColor=4169E1) **Week 6 complete — 6 done · 9 remaining**
+![Progress](https://geps.dev/progress/47?successColor=4169E1) **Week 7 complete — 7 done · 8 remaining**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
@@ -66,7 +70,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) |
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
 | **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://nairobi-air-quality-dashboard.onrender.com) · [API](https://air-quality-anomaly-detection.onrender.com/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
-| **07** | Recommendation System | Collaborative Filtering · Matrix Factorization · SVD · FastAPI · Docker | 🔨 In Progress |
+| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation-system-dashboard.onrender.com) · [API](https://recommendation-system-2gt5.onrender.com/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
 | **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect · Week 6 case study | 🔲 Pending |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔲 Pending |
 | **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | 🔲 Pending |
@@ -78,11 +82,33 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *✅ = live endpoint · documented README · pushed to GitHub · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-6%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-6%20in%20Production-success?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%207-orange?style=flat)
+![Week](https://img.shields.io/badge/Week-7%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20in%20Production-success?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%208-orange?style=flat)
 
 ---
 
 ## 💼 Portfolio Projects
+
+### 🎬 Project 7 — Movie Recommendation System *(Week 7 — Latest)*
+**Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker · Render**
+
+Production recommendation engine trained on 100,000 ratings from 943 users on 1,682 movies. Three collaborative filtering models evaluated — Item-CF wins with RMSE 0.9540 and Precision@10 of 69.7%. Netflix-standard CineAI dashboard with three tabs — recommendations, data insights, model performance.
+
+| Model | RMSE | MAE | P@10 |
+|---|---|---|---|
+| **Item-CF ✅ Best** | **0.9540** | **0.7488** | **69.7%** |
+| SVD | 0.9561 | 0.7524 | — |
+| User-CF | 0.9703 | 0.7654 | — |
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![scikit-surprise](https://img.shields.io/badge/scikit--surprise-FF6600?style=flat)
+
+> ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://recommendation-system-dashboard.onrender.com) · [Live API](https://recommendation-system-2gt5.onrender.com/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
+
+---
 
 ### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6 — Latest)*
 **ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker · Render**
