@@ -90,13 +90,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 ### 🎬 Project 7 — Movie Recommendation System *(Week 7 — Latest)*
 **Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker · Render**
 
-Production recommendation engine trained on 100,000 ratings from 943 users on 1,682 movies. Three collaborative filtering models evaluated — Item-CF wins with RMSE 0.9540 and Precision@10 of 69.7%. Netflix-standard CineAI dashboard with three tabs — recommendations, data insights, model performance.
-
-| Model | RMSE | MAE | P@10 |
-|---|---|---|---|
-| **Item-CF ✅ Best** | **0.9540** | **0.7488** | **69.7%** |
-| SVD | 0.9561 | 0.7524 | — |
-| User-CF | 0.9703 | 0.7654 | — |
+Production recommendation engine trained on 100,000 ratings from 943 users on 1,682 movies. Item-CF wins with RMSE 0.9540 and Precision@10 of 69.7%. Netflix-standard CineAI dashboard with three tabs — recommendations, data insights, model performance.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -105,7 +99,7 @@ Production recommendation engine trained on 100,000 ratings from 943 users on 1,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![scikit-surprise](https://img.shields.io/badge/scikit--surprise-FF6600?style=flat)
 
-<img src="https://github.com/M20Jay/recommendation-system/raw/main/screenshots/cineai-data-insights-dashboard-martin-nganga.png" width="65%" alt="CineAI Data Insights Dashboard — Martin Ng'ang'a"/>
+<img src="https://github.com/M20Jay/recommendation-system/raw/main/screenshots/cineai-data-insights-dashboard-martin-nganga.png" width="65%" alt="CineAI Data Insights Dashboard"/>
 
 > ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://recommendation-system-dashboard.onrender.com) · [Live API](https://recommendation-system-2gt5.onrender.com/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
 
