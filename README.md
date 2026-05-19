@@ -105,6 +105,8 @@ Production recommendation engine trained on 100,000 ratings from 943 users on 1,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![scikit-surprise](https://img.shields.io/badge/scikit--surprise-FF6600?style=flat)
 
+<img src="https://github.com/M20Jay/recommendation-system/raw/main/screenshots/cineai-data-insights-dashboard-martin-nganga.png" width="65%" alt="CineAI Data Insights Dashboard — Martin Ng'ang'a"/>
+
 > ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://recommendation-system-dashboard.onrender.com) · [Live API](https://recommendation-system-2gt5.onrender.com/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
 
 ---
