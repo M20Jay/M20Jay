@@ -105,7 +105,7 @@ Production recommendation engine trained on 100,000 ratings from 943 users on 1,
 
 ---
 
-### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6 — Latest)*
+### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6)*
 **ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker · Render**
 
 Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor readings from 5 Nairobi locations via OpenAQ. Answers two questions automatically for every hourly reading: What will PM2.5 be next? Is this reading dangerous?
