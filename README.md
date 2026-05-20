@@ -292,7 +292,6 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 
 <img src="https://streak-stats.demolab.com?user=M20Jay&theme=dark&hide_border=true&ring=4169E1&fire=4169E1&currStreakLabel=4169E1" alt="GitHub Streak" width="55%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M20Jay&theme=dark" width="40%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=M20Jay&color=4169E1&style=flat)
 
