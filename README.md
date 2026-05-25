@@ -31,7 +31,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🟢 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
 🟢 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)<br/>
 🟢 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)<br/>
-🔭 Currently building: **Week 8 — MLOps Automation**<br/>
+🔭 Currently building: **Week 8 — MLOps Automation · MLflow ✅ · DVC in progress**
 🌱 Next: **MLflow · Evidently AI · GitHub Actions · Prefect · Apache Airflow · AWS**<br/>
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
@@ -59,7 +59,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
-![Progress](https://geps.dev/progress/47?successColor=4169E1) **Week 7 complete — 7 done · 8 remaining**
+![Progress](https://geps.dev/progress/53?successColor=4169E1) **Week 8 in progress — 7 done · 8 remaining**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
@@ -70,7 +70,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
 | **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://nairobi-air-quality-dashboard.onrender.com) · [API](https://air-quality-anomaly-detection.onrender.com/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation-system-dashboard.onrender.com) · [API](https://recommendation-system-2gt5.onrender.com/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
-| **08** | MLOps Automation | MLflow · Evidently AI · GitHub Actions · Prefect · Week 6 case study | 🔲 Pending |
+| **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect · Week 6 case study | 🔄 In Progress |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔲 Pending |
 | **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | 🔲 Pending |
 | **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | 🔲 Pending |
