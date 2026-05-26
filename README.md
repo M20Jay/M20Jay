@@ -23,14 +23,19 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 📍 Based in **Nairobi, Kenya**<br/>
 ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
-🟢 **Air Quality Dashboard:** [nairobi-air-quality-dashboard.onrender.com](https://nairobi-air-quality-dashboard.onrender.com)<br/>
-🟢 **Air Quality API:** [air-quality-anomaly-detection.onrender.com/docs](https://air-quality-anomaly-detection.onrender.com/docs)<br/>
-🟢 **Fraud Detection:** [fraud-detection-pipeline-nznd.onrender.com/docs](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
-🟢 **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
-🟢 **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
-🟢 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
-🟢 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)<br/>
-🟢 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)<br/>
+🔄 **Air Quality Dashboard:** [nairobi-air-quality-dashboard.onrender.com](https://nairobi-air-quality-dashboard.onrender.com)<br/>
+🔄 **Air Quality API:** [air-quality-anomaly-detection.onrender.com/docs](https://air-quality-anomaly-detection.onrender.com/docs)<br/>
+🔄 **Fraud Detection:** [fraud-detection-pipeline-nznd.onrender.com/docs](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
+🔄 **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
+🔄 **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
+🔄 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
+🔄 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)<br/>
+🔄 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)<br/>
+
+> ⚠️ **Deployment Notice:** All APIs migrating from Render to AWS EC2 for permanent
+> 24/7 production deployment. Live again by 31 May 2026.
+
+
 🔭 Currently building: **Week 8 — MLOps Automation · MLflow ✅ · DVC ✅ · Evidently AI ✅ · Prefect in progress**<br/>
 🌱 Next: **Prefect · GitHub Actions · Apache Airflow · AWS Deployment**<br/>
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
@@ -51,8 +56,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
-| ✅ **8 live production systems** | Fraud · Churn · Segmentation · Credit Risk · Air Quality API · Air Quality Dashboard · Recommendation API · Recommendation Dashboard |
-
+| 🔄 **8 production systems** | Migrating from Render to AWS EC2 — live by 31 May 2026 |
 ---
 
 ## 🗓️ 15-Week MLOps Programme
@@ -81,7 +85,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *✅ = live endpoint · documented README · pushed to GitHub · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-7%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20in%20Production-success?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%208-orange?style=flat)
+![Week](https://img.shields.io/badge/Week-7%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-Migrating%20to%20AWS-orange?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%208-orange?style=flat)
 
 ---
 
