@@ -32,8 +32,11 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🔄 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)<br/>
 🔄 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)<br/>
 
-> ⚠️ **Deployment Notice:** All APIs migrating from Render to AWS EC2 for permanent
-> 24/7 production deployment. Live again by 31 May 2026.
+> ⚠️ **Deployment Notice:** APIs previously hosted on Render free tier.
+> Currently migrating to AWS EC2 for permanent 24/7 production deployment
+> with no cold starts or monthly suspensions.
+> All services will be live again by **31 May 2026**.
+> Full source code, documentation and screenshots available throughout this repository.
 
 
 🔭 Currently building: **Week 8 — MLOps Automation · MLflow ✅ · DVC ✅ · Evidently AI ✅ · Prefect ✅ · GitHub Actions ✅**<br/>
