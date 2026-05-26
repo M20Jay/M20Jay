@@ -31,7 +31,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🟢 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
 🟢 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)<br/>
 🟢 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)<br/>
-🔭 Currently building: **Week 8 — MLOps Automation · MLflow ✅ · DVC in progress**
+🔭 Currently building: **Week 8 — MLOps Automation · MLflow ✅ ·  Evidently AI ✅ · Prefect in progress**
 🌱 Next: **MLflow · Evidently AI · GitHub Actions · Prefect · Apache Airflow · AWS**<br/>
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
