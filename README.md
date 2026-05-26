@@ -32,11 +32,9 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🔄 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)<br/>
 🔄 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)<br/>
 
-> ⚠️ **Deployment Notice:** **APIs previously hosted on Render free tier.
-> Currently migrating to AWS EC2 for permanent 24/7 production deployment
-> with no cold starts or monthly suspensions.
-> All services will be live again by 31 May 2026.
-> Full source code, documentation and screenshots available throughout this repository.**
+[![Deployment Status](https://img.shields.io/badge/⚠️_APIs_OFFLINE-Migrating_to_AWS_EC2_by_31_May_2026-red?style=for-the-badge)](https://github.com/M20Jay/air-quality-anomaly-detection)
+
+> APIs previously hosted on Render free tier. Currently migrating to AWS EC2 for permanent 24/7 production deployment with no cold starts or monthly suspensions. All services will be live again by **31 May 2026**. Full source code, documentation and screenshots available throughout this repository.
 
 
 🔭 Currently building: **Week 8 — MLOps Automation · MLflow ✅ · DVC ✅ · Evidently AI ✅ · Prefect ✅ · GitHub Actions ✅**<br/>
