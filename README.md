@@ -79,10 +79,10 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔲 Pending |
 | **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | 🔲 Pending |
 | **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | 🔲 Pending |
-| **12** & Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | 🔲 Pending |
+| **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | 🔲 Pending · [Prototype](https://github.com/M20Jay/rag-unep-documents) |
 | **13** | Apache Spark — Big Data | PySpark · Spark MLlib · dbt · BigQuery | 🔲 Pending |
 | **14** | NLP — Text Classification | HuggingFace · BERT · spaCy · FastAPI · Docker | 🔲 Pending |
-| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | 🔲 Pending |
+| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | 🔨 Prototype Complete · [Repo](https://github.com/M20Jay/kiswahili-nlp) |
 
 *✅ = live endpoint · documented README · pushed to GitHub · no shortcuts.*
 
