@@ -91,6 +91,29 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 ---
 
 ## 💼 Portfolio Projects
+---
+
+### 🌍 Project 15 — Kiswahili NLP Environmental Classifier *(Week 15 — In Progress)*
+**mBERT · AfriBERTa · HuggingFace Transformers · MLflow · FastAPI · Docker · AWS**
+
+Kiswahili environmental text classifier connecting East African language knowledge to global environmental monitoring. Over 200 million East Africans speak Kiswahili yet most AI systems are built primarily in English — leaving indigenous communities unable to contribute environmental observations in their own language.
+
+Classifies Kiswahili text by UNEP Strategic Objective:
+
+| Objective | Focus | Example |
+|-----------|-------|---------|
+| SO1 | Climate Stability | Mabadiliko ya tabianchi yanaathiri wakulima |
+| SO2 | Biodiversity | Viumbe vingi vya porini viko hatarini kutoweka |
+| SO3 | Pollution & Waste | Plastiki nyingi zinatupwa baharini |
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+> 🔨 Prototype Complete · Zero-shot classification running · Full system Week 15 · Open-source release on HuggingFace Hub · [Repository](https://github.com/M20Jay/kiswahili-nlp)
 
 ### 🎬 Project 7 — Movie Recommendation System *(Week 7 — Latest)*
 **Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker · Render**
@@ -108,6 +131,7 @@ Production recommendation engine trained on 100,000 ratings from 943 users on 1,
 
 > ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://recommendation-system-dashboard.onrender.com) · [Live API](https://recommendation-system-2gt5.onrender.com/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
 
+> ⚠️ **Deployment Notice:** Full production system deploying to AWS EC2 as part of Week 15. Prototype complete and documented above.
 ---
 
 ### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6)*
