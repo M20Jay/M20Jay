@@ -82,9 +82,9 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | 🔲 Pending · [Prototype](https://github.com/M20Jay/rag-unep-documents) |
 | **13** | Apache Spark — Big Data | PySpark · Spark MLlib · dbt · BigQuery | 🔲 Pending |
 | **14** | NLP — Text Classification | HuggingFace · BERT · spaCy · FastAPI · Docker | 🔲 Pending |
-| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | 🔲 Pending · [Repo](https://github.com/M20Jay/kiswahili-nlp) |
+| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | 🔲 Pending · [Prototype](https://github.com/M20Jay/kiswahili-nlp) |
 
-*✅ = live endpoint · documented README · pushed to GitHub · no shortcuts.*
+*Every project: production-grade code · containerised deployment · documented README · tested endpoints · no shortcuts.*
 
 ![Week](https://img.shields.io/badge/Week-8%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-Migrating%20to%20AWS-orange?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%208-orange?style=flat)
 
