@@ -25,10 +25,10 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
 🔄 **Air Quality Dashboard:** [nairobi-air-quality-dashboard.onrender.com](https://nairobi-air-quality-dashboard.onrender.com)<br/>
 ✅ **Air Quality API:** [18.199.241.52:8000/docs](http://18.199.241.52:8000/docs) — Live on AWS EC2 Frankfurt<br/>
-🔄 **Fraud Detection:** [fraud-detection-pipeline-nznd.onrender.com/docs](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
-🔄 **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
-🔄 **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
-🔄 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
+🔄 **Fraud Detection:** [fraud-detection-pipeline-nznd.onrender.com/docs](http://18.199.241.52:8003/docs)<br/>
+🔄 **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](http://18.199.241.52:8002/docs)<br/>
+🔄 **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](http://18.199.241.52:8004/docs)<br/>
+🔄 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](http://18.199.241.52:8005/docs)<br/>
 🔄 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](http://18.199.241.52:8502)<br/>
 🔄 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](http://18.199.241.52:8001/docs)<br/>
 
@@ -69,11 +69,11 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
-| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
-| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
+| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](http://18.199.241.52:8002/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
+| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](http://18.199.241.52:8003/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
+| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](http://18.199.241.52:8004/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](http://18.199.241.52:8005/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
 | **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://nairobi-air-quality-dashboard.onrender.com) · [API](http://18.199.241.52:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](http://18.199.241.52:8502) · [API](http://18.199.241.52:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect · Week 6 case study | ✅ Complete |
@@ -179,7 +179,7 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 <img src="https://github.com/M20Jay/credit-risk-scoring-pipeline/raw/main/screenshots/shap_waterfall.png" width="65%" alt="SHAP Waterfall — Credit Risk Explainability"/>
 
-> ✅ Complete · Week 5 · [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
+> ✅ Complete · Week 5 · [Live API](http://18.199.241.52:8005/docs) · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
 
 ---
 
@@ -210,7 +210,7 @@ Telecom customer segmentation — 7,032 customers grouped into 4 behavioural seg
 
 <img src="https://github.com/M20Jay/customer-segmentation/raw/main/screenshots/streamlit_dashboard.png" width="65%" alt="Customer Segmentation Streamlit Dashboard"/>
 
-> ✅ Complete · Week 3 · [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repository](https://github.com/M20Jay/customer-segmentation)
+> ✅ Complete · Week 3 · [Live API](http://18.199.241.52:8004/docs) · [Repository](https://github.com/M20Jay/customer-segmentation)
 
 ---
 
@@ -227,7 +227,7 @@ Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka stre
 
 <img src="https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png" width="65%" alt="Fraud Detection Grafana Dashboard"/>
 
-> ✅ Complete · Week 2 · [Live API](https://fraud-detection-pipeline-nznd.onrender.com/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
+> ✅ Complete · Week 2 · [Live API](http://18.199.241.52:8003/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
 
 ---
 
@@ -243,7 +243,7 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 
 <img src="https://github.com/M20Jay/churn-prediction-pipeline/raw/main/screenshots/churn_api_docs.png" width="65%" alt="Churn Prediction API Docs"/>
 
-> ✅ Complete · Week 1 · [Live API](https://churn-prediction-pipeline-1zue.onrender.com/docs) · [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
+> ✅ Complete · Week 1 · [Live API](http://18.199.241.52:8002/docs) · [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
 
 ---
 
