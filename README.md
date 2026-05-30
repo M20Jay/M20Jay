@@ -1,6 +1,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=M20Jay&theme=github-compact&hide_border=true&color=4169E1&line=4169E1&point=ffffff&bg_color=0d1117" width="100%"/>
 
-![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/1%20System%20Live%20on%20AWS%20EC2-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/2%20Systems%20Live%20on%20AWS%20EC2-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=23&duration=3500&pause=2000&color=4169E1&center=false&vCenter=true&width=1200&height=80&lines=Data+is+only+as+powerful+as+the+institution%27s+willingness+to+act+on+it.+I+have+spent+ten+years+building+both.;I+build+ML+systems+for+Africa%27s+most+urgent+problems%3A+financial+inclusion%2C+climate+change+and+language+equity.;From+Nairobi+to+the+world." alt="Typing SVG" />
 
@@ -29,8 +29,8 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 🔄 **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
 🔄 **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
 🔄 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](https://credit-risk-scoring-pipeline.onrender.com/docs)<br/>
-🔄 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](https://recommendation-system-dashboard.onrender.com)<br/>
-🔄 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](https://recommendation-system-2gt5.onrender.com/docs)<br/>
+🔄 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](http://18.199.241.52:8502)<br/>
+🔄 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](http://18.199.241.52:8001/docs)<br/>
 
 [![Deployment Status](https://img.shields.io/badge/✅_Air_Quality_API-LIVE_on_AWS_EC2_Frankfurt-brightgreen?style=for-the-badge)](http://18.199.241.52:8000/docs)
 
@@ -75,7 +75,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) |
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
 | **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://nairobi-air-quality-dashboard.onrender.com) · [API](http://18.199.241.52:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
-| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation-system-dashboard.onrender.com) · [API](https://recommendation-system-2gt5.onrender.com/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
+| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](http://18.199.241.52:8502) · [API](http://18.199.241.52:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect · Week 6 case study | ✅ Complete |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔄 In Progress |
 | **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | 🔲 Pending |
@@ -87,7 +87,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *Every project: production-grade code · containerised deployment · documented README · tested endpoints · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-8%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-1%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%209-orange?style=flat)
+![Week](https://img.shields.io/badge/Week-8%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-2%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%209-orange?style=flat)
 ---
 
 ## 💼 Portfolio Projects
@@ -129,7 +129,7 @@ Production recommendation engine trained on 100,000 ratings from 943 users on 1,
 
 <img src="https://github.com/M20Jay/recommendation-system/raw/main/screenshots/cineai-data-insights-dashboard-martin-nganga.png" width="65%" alt="CineAI Data Insights Dashboard"/>
 
-> ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://recommendation-system-dashboard.onrender.com) · [Live API](https://recommendation-system-2gt5.onrender.com/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
+> ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](http://18.199.241.52:8502) · [Live API](http://18.199.241.52:8001/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
 
 > ⚠️ **Deployment Notice:** Full production system deploying to AWS EC2 as part of Week 15. Prototype complete and documented above.
 ---
