@@ -58,7 +58,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
-| 🔄 **8 production systems** | Migrating from Render to AWS EC2 — live by 31 May 2026 |
+| 🔄 **8 production systems** | Air Quality API live on AWS EC2 Frankfurt · deployed 30 May 2026 |
 ---
 
 ## 🗓️ 15-Week MLOps Programme
@@ -74,7 +74,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://customer-segmentation-api-rwmx.onrender.com/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) |
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
-| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://nairobi-air-quality-dashboard.onrender.com) · [API](https://air-quality-anomaly-detection.onrender.com/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://nairobi-air-quality-dashboard.onrender.com) · [API](http://18.199.241.52:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation-system-dashboard.onrender.com) · [API](https://recommendation-system-2gt5.onrender.com/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect · Week 6 case study | ✅ Complete |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔄 In Progress |
@@ -116,7 +116,7 @@ Classifies Kiswahili text by UNEP Strategic Objective:
 > 🔨 Prototype Complete · Zero-shot classification running · Full system Week 15 · Open-source release on HuggingFace Hub · [Repository](https://github.com/M20Jay/kiswahili-nlp)
 
 ### 🎬 Project 7 — Movie Recommendation System *(Week 7 — Latest)*
-**Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker · Render**
+**Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker · AWS EC2**
 
 Production recommendation engine trained on 100,000 ratings from 943 users on 1,682 movies. Item-CF wins with RMSE 0.9540 and Precision@10 of 69.7%. Netflix-standard CineAI dashboard with three tabs — recommendations, data insights, model performance.
 
@@ -135,7 +135,7 @@ Production recommendation engine trained on 100,000 ratings from 943 users on 1,
 ---
 
 ### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6)*
-**ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker · Render**
+**ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker · AWS EC2**
 
 Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor readings from 5 Nairobi locations via OpenAQ. Answers two questions automatically for every hourly reading: What will PM2.5 be next? Is this reading dangerous?
 
@@ -161,12 +161,12 @@ Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor
 
 <img src="https://github.com/M20Jay/air-quality-anomaly-detection/raw/main/screenshots/nairobi_air_quality_dashboard.png" width="65%" alt="Nairobi Air Quality Dashboard — Anomaly Detection and PM2.5 Forecast"/>
 
-> ✅ Complete · Week 6 · Tests: 10/10 passing · [Live Dashboard](https://nairobi-air-quality-dashboard.onrender.com) · [Live API](https://air-quality-anomaly-detection.onrender.com/docs) · [Repository](https://github.com/M20Jay/air-quality-anomaly-detection)
+> ✅ Complete · Week 6 · Tests: 10/10 passing · [Live Dashboard](https://nairobi-air-quality-dashboard.onrender.com) · [Live API](http://18.199.241.52:8000/docs) · [Repository](https://github.com/M20Jay/air-quality-anomaly-detection)
 
 ---
 
 ### 💳 Project 5 — Credit Risk Scoring Pipeline *(Week 5)*
-**XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker · Render**
+**XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker · AWS EC2**
 Credit risk scoring for loan applicants — answers three questions simultaneously: Will they default? Will they accept the offer? How valuable are they? Built on 252,971 real LendingClub loans. ROC-AUC 0.703. SHAP explainability for every decision — Basel III compliant audit trail. Propensity scoring, RFM segmentation, 6-panel Grafana monitoring dashboard, PostgreSQL predictions storage.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
