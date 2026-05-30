@@ -24,7 +24,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 📍 Based in **Nairobi, Kenya**<br/>
 ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
 🔄 **Air Quality Dashboard:** [nairobi-air-quality-dashboard.onrender.com](https://nairobi-air-quality-dashboard.onrender.com)<br/>
-🔄 **Air Quality API:** [air-quality-anomaly-detection.onrender.com/docs](https://air-quality-anomaly-detection.onrender.com/docs)<br/>
+✅ **Air Quality API:** [18.199.241.52:8000/docs](http://18.199.241.52:8000/docs) — Live on AWS EC2 Frankfurt<br/>
 🔄 **Fraud Detection:** [fraud-detection-pipeline-nznd.onrender.com/docs](https://fraud-detection-pipeline-nznd.onrender.com/docs)<br/>
 🔄 **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](https://churn-prediction-pipeline-1zue.onrender.com/docs)<br/>
 🔄 **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](https://customer-segmentation-api-rwmx.onrender.com/docs)<br/>
@@ -76,8 +76,8 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://credit-risk-scoring-pipeline.onrender.com/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
 | **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://nairobi-air-quality-dashboard.onrender.com) · [API](https://air-quality-anomaly-detection.onrender.com/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation-system-dashboard.onrender.com) · [API](https://recommendation-system-2gt5.onrender.com/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
-| **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect · Week 6 case study | 🔄 In Progress |
-| **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔲 Pending |
+| **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect · Week 6 case study | ✅ Complete |
+| **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔄 In Progress |
 | **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | 🔲 Pending |
 | **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | 🔲 Pending |
 | **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | 🔲 Pending · [Prototype](https://github.com/M20Jay/rag-unep-documents) |
