@@ -23,14 +23,14 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 📍 Based in **Nairobi, Kenya**<br/>
 ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
-🔄 **Air Quality Dashboard:** [nairobi-air-quality-dashboard.onrender.com](https://nairobi-air-quality-dashboard.onrender.com)<br/>
+✅ **Air Quality Dashboard:** [nairobi-air-quality-dashboard.onrender.com](https://nairobi-air-quality-dashboard.onrender.com)<br/>
 ✅ **Air Quality API:** [18.184.3.203:8000/docs](http://18.184.3.203:8000/docs) — Live on AWS EC2 Frankfurt<br/>
-🔄 **Fraud Detection:** [fraud-detection-pipeline-nznd.onrender.com/docs](http://18.184.3.203:8003/docs)<br/>
-🔄 **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](http://18.184.3.203:8002/docs)<br/>
-🔄 **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](http://18.184.3.203:8004/docs)<br/>
-🔄 **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](http://18.184.3.203:8005/docs)<br/>
-🔄 **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](http://18.184.3.203:8502)<br/>
-🔄 **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](http://18.184.3.203:8001/docs)<br/>
+✅ **Fraud Detection:** [fraud-detection-pipeline-nznd.onrender.com/docs](http://18.184.3.203:8003/docs)<br/>
+✅ **Churn Prediction:** [churn-prediction-pipeline-1zue.onrender.com/docs](http://18.184.3.203:8002/docs)<br/>
+✅ **Customer Segmentation:** [customer-segmentation-api-rwmx.onrender.com/docs](http://18.184.3.203:8004/docs)<br/>
+✅ **Credit Risk Scoring:** [credit-risk-scoring-pipeline.onrender.com/docs](http://18.184.3.203:8005/docs)<br/>
+✅ **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](http://18.184.3.203:8502)<br/>
+✅ **Recommendation API:** [recommendation-system-2gt5.onrender.com/docs](http://18.184.3.203:8001/docs)<br/>
 
 [![Deployment Status](https://img.shields.io/badge/✅_Air_Quality_API-LIVE_on_AWS_EC2_Frankfurt-brightgreen?style=for-the-badge)](http://18.184.3.203:8000/docs)
 
