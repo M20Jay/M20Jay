@@ -23,17 +23,17 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 📍 Based in **Nairobi, Kenya**<br/>
 ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
+✅ **Air Quality Dashboard:** [publisher-kinda-married-finished.trycloudflare.com](https://publisher-kinda-married-finished.trycloudflare.com)<br/>
 ✅ **Air Quality API:** [18.184.3.203:8000/docs](http://18.184.3.203:8000/docs) — Live on AWS EC2 Frankfurt<br/>
 ✅ **Fraud Detection:** [18.184.3.203:8003/docs](http://18.184.3.203:8003/docs)<br/>
 ✅ **Churn Prediction:** [18.184.3.203:8002/docs](http://18.184.3.203:8002/docs)<br/>
 ✅ **Customer Segmentation:** [18.184.3.203:8004/docs](http://18.184.3.203:8004/docs)<br/>
 ✅ **Credit Risk Scoring:** [18.184.3.203:8005/docs](http://18.184.3.203:8005/docs)<br/>
-✅ **Recommendation Dashboard:** [recommendation-system-dashboard.onrender.com](http://18.184.3.203:8502)<br/>
+✅ **Recommendation Dashboard:** [18.184.3.203:8502](http://18.184.3.203:8502)<br/>
 ✅ **Recommendation API:** [18.184.3.203:8001/docs](http://18.184.3.203:8001/docs)<br/>
 
-[![Deployment Status](https://img.shields.io/badge/✅_Air_Quality_API-LIVE_on_AWS_EC2_Frankfurt-brightgreen?style=for-the-badge)](http://18.184.3.203:8000/docs)
+[![Deployment Status](https://img.shields.io/badge/✅_6_Systems_Live-AWS_EC2_Frankfurt-brightgreen?style=for-the-badge)](http://18.184.3.203:8000/docs)
 
-> ✅ **6 Systems Live on AWS EC2 Frankfurt** — Deployed 31 May 2026. Docker containerised. No cold starts. No monthly suspensions. 24/7 uptime. 
 
 
 🔭 Currently building: **Week 9 — Apache Airflow · DAGs · Parallel Model Training · Scheduling**<br/>
