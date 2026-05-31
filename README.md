@@ -33,7 +33,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 [![Deployment Status](https://img.shields.io/badge/✅_Air_Quality_API-LIVE_on_AWS_EC2_Frankfurt-brightgreen?style=for-the-badge)](http://18.184.3.203:8000/docs)
 
-> ✅ **Air Quality API live on AWS EC2 Frankfurt** — Deployed 30 May 2026. Docker containerised. No cold starts. No monthly suspensions. 24/7 uptime. 
+> ✅ **6 Systems Live on AWS EC2 Frankfurt** — Deployed 31 May 2026. Docker containerised. No cold starts. No monthly suspensions. 24/7 uptime. 
 
 
 🔭 Currently building: **Week 9 — Apache Airflow · DAGs · Parallel Model Training · Scheduling**<br/>
@@ -57,7 +57,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
-| 🔄 **8 production systems** | 6 Systems Live on AWS EC2 Frankfurt · deployed 31 May 2026 |
+| ✅ **8 production systems** | 6 Systems Live on AWS EC2 Frankfurt · deployed 31 May 2026 |
 ---
 
 ## 🗓️ 15-Week MLOps Programme
