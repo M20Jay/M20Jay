@@ -1,6 +1,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=M20Jay&theme=github-compact&hide_border=true&color=4169E1&line=4169E1&point=ffffff&bg_color=0d1117" width="100%"/>
 
-![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/6%20Systems%20Live%20on%20AWS%20EC2-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/MLOps%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Data%20Science-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/8%20Systems%20Live%20on%20AWS%20EC2-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=23&duration=3500&pause=2000&color=4169E1&center=false&vCenter=true&width=1200&height=80&lines=Data+is+only+as+powerful+as+the+institution%27s+willingness+to+act+on+it.+I+have+spent+ten+years+building+both.;I+build+ML+systems+for+Africa%27s+most+urgent+problems%3A+financial+inclusion%2C+climate+change+and+language+equity.;From+Nairobi+to+the+world." alt="Typing SVG" />
 
@@ -32,7 +32,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 ✅ **Recommendation Dashboard:** [18.184.3.203:8502](http://18.184.3.203:8502)<br/>
 ✅ **Recommendation API:** [18.184.3.203:8001/docs](http://18.184.3.203:8001/docs)<br/>
 
-[![Deployment Status](https://img.shields.io/badge/✅_6_Systems_Live-AWS_EC2_Frankfurt-brightgreen?style=for-the-badge)](http://18.184.3.203:8000/docs)
+[![Deployment Status](https://img.shields.io/badge/✅_8_Systems_Live-AWS_EC2_Frankfurt-brightgreen?style=for-the-badge)](http://18.184.3.203:8000/docs)
 
 
 
@@ -86,7 +86,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *Every project: production-grade code · containerised deployment · documented README · tested endpoints · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-8%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-6%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%209-orange?style=flat)
+![Week](https://img.shields.io/badge/Week-8%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%209-orange?style=flat)
 ---
 
 ## 💼 Portfolio Projects
