@@ -57,7 +57,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
-| ✅ **8 production systems** | 6 Systems Live on AWS EC2 Frankfurt · deployed 31 May 2026 |
+| ✅ **8 production systems** | 8 Systems Live on AWS EC2 Frankfurt · deployed 31 May 2026 |
 ---
 
 ## 🗓️ 15-Week MLOps Programme
@@ -301,7 +301,7 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 | **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-22ms latency |
 | **NLP & RAG** | Semantic search · LaBSE · ChromaDB · vector embeddings · multilingual · 109 languages |
 | **Environmental ML** | Air quality forecasting · PM2.5 anomaly detection · OpenAQ · ARIMA · Isolation Forest |
-| **Cloud** | AWS EC2 · RDS · ECR · Docker · HTTPS · Render deployment |
+| **Cloud** | AWS EC2 · RDS · ECR · Docker · HTTPS · ngrok · Cloudflare |
 | **Research & M&E** | MSc Marketing Analytics · World Bank KYEOP · RBM · 50+ KPI frameworks · Board diversity research |
 
 ---
