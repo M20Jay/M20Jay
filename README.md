@@ -29,7 +29,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 ✅ **Churn Prediction:** [18.184.3.203:8002/docs](http://18.184.3.203:8002/docs)<br/>
 ✅ **Customer Segmentation:** [18.184.3.203:8004/docs](http://18.184.3.203:8004/docs)<br/>
 ✅ **Credit Risk Scoring:** [18.184.3.203:8005/docs](http://18.184.3.203:8005/docs)<br/>
-✅ **Recommendation Dashboard:** [18.184.3.203:8502](http://18.184.3.203:8502)<br/>
+✅ **Recommendation Dashboard:** [disgrace-system-robust.ngrok-free.dev](https://disgrace-system-robust.ngrok-free.dev)<br/>
 ✅ **Recommendation API:** [18.184.3.203:8001/docs](http://18.184.3.203:8001/docs)<br/>
 
 [![Deployment Status](https://img.shields.io/badge/✅_8_Systems_Live-AWS_EC2_Frankfurt-brightgreen?style=for-the-badge)](http://18.184.3.203:8000/docs)
@@ -73,7 +73,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](http://18.184.3.203:8004/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) |
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](http://18.184.3.203:8005/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
-| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](http://18.184.3.203:8503) · [API](http://18.184.3.203:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://publisher-kinda-married-finished.trycloudflare.com) · [API](http://18.184.3.203:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](http://18.184.3.203:8502) · [API](http://18.184.3.203:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect · Week 6 case study | ✅ Complete |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔄 In Progress |
@@ -130,7 +130,6 @@ Production recommendation engine trained on 100,000 ratings from 943 users on 1,
 
 > ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](http://18.184.3.203:8502) · [Live API](http://18.184.3.203:8001/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
 
-> ⚠️ **Deployment Notice:** Full production system deploying to AWS EC2 as part of Week 15. Prototype complete and documented above.
 ---
 
 ### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6)*
