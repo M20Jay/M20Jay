@@ -64,7 +64,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
-![Progress](https://geps.dev/progress/53?successColor=4169E1) **Week 8 complete — 8 done · 7 remaining**
+![Progress](https://geps.dev/progress/53?successColor=4169E1) **Week 9 in progress — 8 done · 7 remaining**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
