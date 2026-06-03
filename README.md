@@ -317,12 +317,12 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&theme=dark&hide_border=true&title_color=4169E1&icon_color=4169E1" alt="GitHub Stats" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M20Jay&theme=github_dark" alt="GitHub Stats" width="100%"/>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=M20Jay&color=4169E1&style=flat)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&layout=compact&theme=dark&hide_border=true&title_color=4169E1&langs_count=6" alt="Top Languages" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M20Jay&theme=github_dark" alt="Top Languages" width="48%"/>
 
 ## 🏆 GitHub Trophies
 
