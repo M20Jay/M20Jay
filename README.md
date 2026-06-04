@@ -23,15 +23,9 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 📍 Based in **Nairobi, Kenya**<br/>
 ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
-✅ **Air Quality Dashboard:** [discounted-patrol-bosnia-insights.trycloudflare.com](https://discounted-patrol-bosnia-insights.trycloudflare.com)<br/>
-✅ **Air Quality API:** [18.184.3.203:8000/docs](http://18.184.3.203:8000/docs) — Live on AWS EC2 Frankfurt<br/>
-✅ **Fraud Detection:** [18.184.3.203:8003/docs](http://18.184.3.203:8003/docs)<br/>
-✅ **Churn Prediction:** [18.184.3.203:8002/docs](http://18.184.3.203:8002/docs)<br/>
-✅ **Customer Segmentation:** [18.184.3.203:8004/docs](http://18.184.3.203:8004/docs)<br/>
-✅ **Credit Risk Scoring:** [18.184.3.203:8005/docs](http://18.184.3.203:8005/docs)<br/>
-✅ **Recommendation Dashboard:** [disgrace-system-robust.ngrok-free.dev](https://disgrace-system-robust.ngrok-free.dev)<br/>
-✅ **Recommendation API:** [18.184.3.203:8001/docs](http://18.184.3.203:8001/docs)<br/>
-
+🌍 **Air Quality Dashboard:** [discounted-patrol-bosnia-insights.trycloudflare.com](https://discounted-patrol-bosnia-insights.trycloudflare.com)<br/>
+🎬 **Recommendation Dashboard:** [disgrace-system-robust.ngrok-free.dev](https://disgrace-system-robust.ngrok-free.dev)<br/>
+⚡ **8 Live APIs on AWS EC2 Frankfurt** — all endpoints available via repo links below<br/>
 [![Deployment Status](https://img.shields.io/badge/✅_8_Systems_Live-AWS_EC2_Frankfurt-brightgreen?style=for-the-badge)](http://18.184.3.203:8000/docs)
 
 
