@@ -25,7 +25,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
 🌍 **Air Quality Dashboard:** [discounted-patrol-bosnia-insights.trycloudflare.com](https://discounted-patrol-bosnia-insights.trycloudflare.com)<br/>
 🎬 **Recommendation Dashboard:** [disgrace-system-robust.ngrok-free.dev](https://disgrace-system-robust.ngrok-free.dev)<br/>
-⚡ **8 Live APIs on AWS EC2 Frankfurt** — all endpoints available via repo links below<br/>
+⚡ **8 Systems Live on AWS EC2 Frankfurt** — APIs + Dashboards · 24/7 · No cold starts<br/>
 
 
 
