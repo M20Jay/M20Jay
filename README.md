@@ -29,7 +29,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 
 
-🔭 Currently building: **Week 10 — AWS Deep Dive · Route 53 · HTTPS · S3 · RDS · Permanent Domain**<br/>
+🔭 Currently building: **Week 9 — Apache Airflow · DAGs · Parallel Model Training · Alerting · Scheduling**<br/>
 🌱 Next: **Week 10 — AWS S3 · RDS · ECR · HTTPS · Domain Name**<br/>
 
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
