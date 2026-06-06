@@ -29,7 +29,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 
 
-🔭 Currently building: **Week 9 — Apache Airflow · DAGs · Parallel Model Training · Scheduling**<br/>
+🔭 Currently building: **Week 10 — AWS Deep Dive · Route 53 · HTTPS · S3 · RDS · Permanent Domain**<br/>
 🌱 Next: **Week 10 — AWS S3 · RDS · ECR · HTTPS · Domain Name**<br/>
 
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
@@ -69,7 +69,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://discounted-patrol-bosnia-insights.trycloudflare.com) · [API](http://52.57.213.229:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_06_NOTES.md) |
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [API](http://52.57.213.229:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) · [Notes](https://github.com/M20Jay/recommendation-system/blob/main/notes/WEEK_07_NOTES.md) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete · [Case Study](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_08_NOTES.md) |
-| **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔄 In Progress |
+| **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_09_NOTES.md) |
 | **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | 🔲 Pending |
 | **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | 🔲 Pending |
 | **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | 🔲 Pending · [Prototype](https://github.com/M20Jay/rag-unep-documents) |
@@ -79,7 +79,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *Every project: production-grade code · containerised deployment · documented README · tested endpoints · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-8%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%209-orange?style=flat)
+![Week](https://img.shields.io/badge/Week-9%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%209-orange?style=flat)
 ---
 
 ## 💼 Portfolio Projects
