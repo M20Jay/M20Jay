@@ -61,13 +61,13 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](http://18.184.3.203:8002/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) · [Notes](https://github.com/M20Jay/churn-prediction-pipeline/blob/main/notes/WEEK_01_NOTES.md) |
-| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](http://18.184.3.203:8003/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) · [Notes](https://github.com/M20Jay/fraud-detection-pipeline/blob/main/notes/WEEK_02_NOTES.md) |
-| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](http://18.184.3.203:8004/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) · [Notes](https://github.com/M20Jay/customer-segmentation/blob/main/notes/WEEK_03_NOTES.md) |
+| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](http://52.57.213.229:8002/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) · [Notes](https://github.com/M20Jay/churn-prediction-pipeline/blob/main/notes/WEEK_01_NOTES.md) |
+| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](http://52.57.213.229:8003/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) · [Notes](https://github.com/M20Jay/fraud-detection-pipeline/blob/main/notes/WEEK_02_NOTES.md) |
+| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](http://52.57.213.229:8004/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) · [Notes](https://github.com/M20Jay/customer-segmentation/blob/main/notes/WEEK_03_NOTES.md) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) · [Notes](https://github.com/M20Jay/rag-unep-documents/blob/main/notes/WEEK_04_NOTES.md) |
-| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](http://18.184.3.203:8005/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) · [Notes](https://github.com/M20Jay/credit-risk-scoring-pipeline/blob/main/notes/WEEK_05_NOTES.md) |
-| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://discounted-patrol-bosnia-insights.trycloudflare.com) · [API](http://18.184.3.203:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_06_NOTES.md) |
-| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [API](http://18.184.3.203:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) · [Notes](https://github.com/M20Jay/recommendation-system/blob/main/notes/WEEK_07_NOTES.md) |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](http://52.57.213.229:8005/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) · [Notes](https://github.com/M20Jay/credit-risk-scoring-pipeline/blob/main/notes/WEEK_05_NOTES.md) |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://discounted-patrol-bosnia-insights.trycloudflare.com) · [API](http://52.57.213.229:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_06_NOTES.md) |
+| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [API](http://52.57.213.229:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) · [Notes](https://github.com/M20Jay/recommendation-system/blob/main/notes/WEEK_07_NOTES.md) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete · [Case Study](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_08_NOTES.md) |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Alerting · Docker | 🔄 In Progress |
 | **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | 🔲 Pending |
@@ -121,7 +121,7 @@ Production recommendation engine trained on 100,000 ratings from 943 users on 1,
 
 <img src="https://github.com/M20Jay/recommendation-system/raw/main/screenshots/cineai-data-insights-dashboard-martin-nganga.png" width="65%" alt="CineAI Data Insights Dashboard"/>
 
-> ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [Live API](http://18.184.3.203:8001/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
+> ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [Live API](http://52.57.213.229:8001/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
 
 ---
 
@@ -152,7 +152,7 @@ Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor
 
 <img src="https://github.com/M20Jay/air-quality-anomaly-detection/raw/main/screenshots/nairobi_air_quality_dashboard.png" width="65%" alt="Nairobi Air Quality Dashboard — Anomaly Detection and PM2.5 Forecast"/>
 
-> ✅ Complete · Week 6 · Tests: 10/10 passing · [Live Dashboard](https://discounted-patrol-bosnia-insights.trycloudflare.com) · [Live API](http://18.184.3.203:8000/docs) · [Repository](https://github.com/M20Jay/air-quality-anomaly-detection)
+> ✅ Complete · Week 6 · Tests: 10/10 passing · [Live Dashboard](https://discounted-patrol-bosnia-insights.trycloudflare.com) · [Live API](http://52.57.213.229:8000/docs) · [Repository](https://github.com/M20Jay/air-quality-anomaly-detection)
 
 ---
 
@@ -170,7 +170,7 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 <img src="https://github.com/M20Jay/credit-risk-scoring-pipeline/raw/main/screenshots/shap_waterfall.png" width="65%" alt="SHAP Waterfall — Credit Risk Explainability"/>
 
-> ✅ Complete · Week 5 · [Live API](http://18.184.3.203:8005/docs) · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
+> ✅ Complete · Week 5 · [Live API](http://52.57.213.229:8005/docs) · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
 
 ---
 
@@ -201,7 +201,7 @@ Telecom customer segmentation — 7,032 customers grouped into 4 behavioural seg
 
 <img src="https://github.com/M20Jay/customer-segmentation/raw/main/screenshots/streamlit_dashboard.png" width="65%" alt="Customer Segmentation Streamlit Dashboard"/>
 
-> ✅ Complete · Week 3 · [Live API](http://18.184.3.203:8004/docs) · [Repository](https://github.com/M20Jay/customer-segmentation)
+> ✅ Complete · Week 3 · [Live API](http://52.57.213.229:8004/docs) · [Repository](https://github.com/M20Jay/customer-segmentation)
 
 ---
 
@@ -218,7 +218,7 @@ Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka stre
 
 <img src="https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png" width="65%" alt="Fraud Detection Grafana Dashboard"/>
 
-> ✅ Complete · Week 2 · [Live API](http://18.184.3.203:8003/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
+> ✅ Complete · Week 2 · [Live API](http://52.57.213.229:8003/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
 
 ---
 
@@ -234,7 +234,7 @@ End-to-end telecom churn pipeline — feature engineering, class balancing, mode
 
 <img src="https://github.com/M20Jay/churn-prediction-pipeline/raw/main/screenshots/churn_api_docs.png" width="65%" alt="Churn Prediction API Docs"/>
 
-> ✅ Complete · Week 1 · [Live API](http://18.184.3.203:8002/docs) · [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
+> ✅ Complete · Week 1 · [Live API](http://52.57.213.229:8002/docs) · [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
 
 ---
 
