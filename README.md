@@ -29,7 +29,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 
 
-🔭 Currently building: **Week 9 — Apache Airflow · DAGs · Parallel Model Training · Alerting · Scheduling**<br/>
+🔭 Currently building: **Week 10 — AWS Deep Dive · Route 53 · HTTPS · S3 · RDS · Permanent Domain**<br/>
 🌱 Next: **Week 10 — AWS S3 · RDS · ECR · HTTPS · Domain Name**<br/>
 
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
@@ -57,7 +57,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
-![Progress](https://geps.dev/progress/53?successColor=4169E1) **Week 9 in progress — 8 done · 7 remaining**
+![Progress](https://geps.dev/progress/60?successColor=4169E1) **Week 9 complete — 9 done · 6 remaining**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
@@ -79,7 +79,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *Every project: production-grade code · containerised deployment · documented README · tested endpoints · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-9%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%209-orange?style=flat)
+![Week](https://img.shields.io/badge/Week-10%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%2010-orange?style=flat)
 ---
 
 ## 💼 Portfolio Projects
