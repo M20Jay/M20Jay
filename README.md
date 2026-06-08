@@ -30,7 +30,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 
 🔭 Currently building: **Week 10 — AWS Deep Dive · Route 53 · HTTPS · S3 · RDS · Permanent Domain**<br/>
-🌱 Next: **Week 10 — AWS S3 · RDS · ECR · HTTPS · Domain Name**<br/>
+🌱 Next: **Week 11 — Environmental Capstone · Global Forest Watch · Random Forest**<br/>
 
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
@@ -57,7 +57,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
-![Progress](https://geps.dev/progress/60?successColor=4169E1) **Week 9 complete — 9 done · 6 remaining**
+![Progress](https://geps.dev/progress/60?successColor=4169E1) **Week 10 in progress — 9 done · 6 remaining**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
@@ -107,25 +107,6 @@ Classifies Kiswahili text by UNEP Strategic Objective:
 
 > 🔨 Prototype Complete · Zero-shot classification running · Full system Week 15 · Open-source release on HuggingFace Hub · [Repository](https://github.com/M20Jay/kiswahili-nlp)
 
-### 🎬 Project 7 — Movie Recommendation System *(Week 7 — Latest)*
-**Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker · AWS EC2**
-
-Production recommendation engine trained on 100,000 ratings from 943 users on 1,682 movies. Item-CF wins with RMSE 0.9540 and Precision@10 of 69.7%. Netflix-standard CineAI dashboard with three tabs — recommendations, data insights, model performance.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![scikit-surprise](https://img.shields.io/badge/scikit--surprise-FF6600?style=flat)
-
-<img src="https://github.com/M20Jay/recommendation-system/raw/main/screenshots/cineai-data-insights-dashboard-martin-nganga.png" width="65%" alt="CineAI Data Insights Dashboard"/>
-
-> ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [Live API](http://52.57.213.229:8001/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
-
-
----
-
 ### ⚙️ Project 9 — Apache Airflow ML Pipeline Orchestration *(Week 9)*
 **Apache Airflow · DAGs · LocalExecutor · Docker · AWS EC2 · Gmail SMTP**
 
@@ -145,6 +126,25 @@ Production ML pipeline orchestration layer automating the air quality system bui
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 > ✅ Complete · Week 9 · 2 Production DAGs · Email Alerting Live · [Repository](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_09_NOTES.md)
+
+
+---
+
+### 🎬 Project 7 — Movie Recommendation System *(Week 7)*
+**Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker · AWS EC2**
+
+Production recommendation engine trained on 100,000 ratings from 943 users on 1,682 movies. Item-CF wins with RMSE 0.9540 and Precision@10 of 69.7%. Netflix-standard CineAI dashboard with three tabs — recommendations, data insights, model performance.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![scikit-surprise](https://img.shields.io/badge/scikit--surprise-FF6600?style=flat)
+
+<img src="https://github.com/M20Jay/recommendation-system/raw/main/screenshots/cineai-data-insights-dashboard-martin-nganga.png" width="65%" alt="CineAI Data Insights Dashboard"/>
+
+> ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [Live API](http://52.57.213.229:8001/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
 
 ---
 
