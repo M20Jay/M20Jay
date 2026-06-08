@@ -123,6 +123,29 @@ Production recommendation engine trained on 100,000 ratings from 943 users on 1,
 
 > ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [Live API](http://52.57.213.229:8001/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
 
+
+---
+
+### ⚙️ Project 9 — Apache Airflow ML Pipeline Orchestration *(Week 9)*
+**Apache Airflow · DAGs · LocalExecutor · Docker · AWS EC2 · Gmail SMTP**
+
+Production ML pipeline orchestration layer automating the air quality system built in Week 6. Two DAGs run every Monday at 5am — a sequential retraining pipeline and a parallel training pipeline where LSTM and ARIMA train simultaneously.
+
+**The problem solved:** A model trained once and never monitored is not a production system — it is a time bomb. Airflow ensures automatic weekly retraining on fresh OpenAQ data, catching seasonal drift before it degrades forecast accuracy.
+
+- Sequential DAG: `pull_data → retrain_model → evaluate_model`
+- Parallel DAG: `pull_data → [train_lstm + train_arima] → evaluate → notify`
+- Email alert fires within seconds of any task failure
+- Systemd service auto-restarts on server reboot
+- Upgraded from t3.small to t3.medium after real production OOM crash at 2am
+
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+> ✅ Complete · Week 9 · 2 Production DAGs · Email Alerting Live · [Repository](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_09_NOTES.md)
+
 ---
 
 ### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6)*
