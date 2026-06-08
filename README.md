@@ -125,6 +125,8 @@ Production ML pipeline orchestration layer automating the air quality system bui
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+<img src="https://github.com/M20Jay/airflow-mlops-pipeline/raw/main/assets/parallel_training_graph.png" width="65%" alt="Parallel DAG — LSTM and ARIMA training simultaneously"/>
+
 > ✅ Complete · Week 9 · 2 Production DAGs · Email Alerting Live · [Repository](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_09_NOTES.md)
 
 
