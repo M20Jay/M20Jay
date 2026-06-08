@@ -132,22 +132,6 @@ Production ML pipeline orchestration layer automating the air quality system bui
 
 ---
 
-### 🎬 Project 7 — Movie Recommendation System *(Week 7)*
-**Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker · AWS EC2**
-
-Production recommendation engine trained on 100,000 ratings from 943 users on 1,682 movies. Item-CF wins with RMSE 0.9540 and Precision@10 of 69.7%. Netflix-standard CineAI dashboard with three tabs — recommendations, data insights, model performance.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![scikit-surprise](https://img.shields.io/badge/scikit--surprise-FF6600?style=flat)
-
-<img src="https://github.com/M20Jay/recommendation-system/raw/main/screenshots/cineai-data-insights-dashboard-martin-nganga.png" width="65%" alt="CineAI Data Insights Dashboard"/>
-
-> ✅ Complete · Week 7 · Tests: 6/6 passing · [Live Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [Live API](http://52.57.213.229:8001/docs) · [Repository](https://github.com/M20Jay/recommendation-system)
-
 ---
 
 ### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6)*
@@ -198,68 +182,6 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 > ✅ Complete · Week 5 · [Live API](http://52.57.213.229:8005/docs) · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
 
 ---
-
-### 🔍 Project 4 — RAG Document Search System *(Week 4 — Prototype)*
-**LaBSE · ChromaDB · FastAPI · pypdf · Docker**
-Semantic search across a 1,244-page technical document — 4,329 chunks indexed using LaBSE multilingual embeddings supporting 109 languages. Questions in any language retrieve relevant passages with exact page references in under one second. Full production system completing at Week 12.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6B48FF?style=flat)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-> 🔨 Prototype Complete · Week 4 · Full system Week 12 · [Repository](https://github.com/M20Jay/rag-unep-documents)
-
----
-
-### 📊 Project 3 — Customer Segmentation Pipeline *(Week 3)*
-**KMeans · PCA · StandardScaler · MLflow · Evidently · Streamlit · FastAPI · Docker**
-Telecom customer segmentation — 7,032 customers grouped into 4 behavioural segments. Optimal K selected through elbow method and silhouette scoring. Live FastAPI inference, Streamlit dashboard, Evidently drift monitoring, MLflow experiment tracking.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-<img src="https://github.com/M20Jay/customer-segmentation/raw/main/screenshots/streamlit_dashboard.png" width="65%" alt="Customer Segmentation Streamlit Dashboard"/>
-
-> ✅ Complete · Week 3 · [Live API](http://52.57.213.229:8004/docs) · [Repository](https://github.com/M20Jay/customer-segmentation)
-
----
-
-### 🚨 Project 2 — Real-Time Fraud Detection Pipeline *(Week 2)*
-**LightGBM · Kafka · Redis · FastAPI · Prometheus · Grafana · Docker**
-Real-time fraud scoring — 284,807 transactions, 22ms response time. Kafka streaming pipeline with Redis caching, Prometheus monitoring and 5-panel Grafana dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-FF6600?style=flat)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-<img src="https://github.com/M20Jay/fraud-detection-pipeline/raw/main/screenshots/day5_grafana.png" width="65%" alt="Fraud Detection Grafana Dashboard"/>
-
-> ✅ Complete · Week 2 · [Live API](http://52.57.213.229:8003/docs) · [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
-
----
-
-### 💳 Project 1 — Customer Churn Prediction *(Week 1)*
-**XGBoost · SMOTE · FastAPI · Docker · PostgreSQL · Grafana**
-End-to-end telecom churn pipeline — feature engineering, class balancing, model training, containerised API deployment with live monitoring dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-<img src="https://github.com/M20Jay/churn-prediction-pipeline/raw/main/screenshots/churn_api_docs.png" width="65%" alt="Churn Prediction API Docs"/>
-
-> ✅ Complete · Week 1 · [Live API](http://52.57.213.229:8002/docs) · [Repository](https://github.com/M20Jay/churn-prediction-pipeline)
 
 ---
 
