@@ -70,7 +70,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [API](http://3.67.15.230:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) · [Notes](https://github.com/M20Jay/recommendation-system/blob/main/notes/WEEK_07_NOTES.md) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete · [Case Study](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_08_NOTES.md) |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_09_NOTES.md) |
-| **10** | Cloud Deployment — AWS / GCP | EC2 · RDS · ECR · HTTPS · Cloud Run | 🔲 Pending |
+| **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | 🔄 [In Progress](https://github.com/M20Jay/airflow-mlops-pipeline) |
 | **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | 🔲 Pending |
 | **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | 🔲 Pending · [Prototype](https://github.com/M20Jay/rag-unep-documents) |
 | **13** | Apache Spark — Big Data | PySpark · Spark MLlib · dbt · BigQuery | 🔲 Pending |
