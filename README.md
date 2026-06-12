@@ -23,7 +23,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 📍 Based in **Nairobi, Kenya**<br/>
 ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
-🌍 **Air Quality Dashboard:** [discounted-patrol-bosnia-insights.trycloudflare.com](https://discounted-patrol-bosnia-insights.trycloudflare.com)<br/>
+🌍 **Air Quality Dashboard:** [dashboard.martin-mlops.com](https://dashboard.martin-mlops.com)<br/>
 🎬 **Recommendation Dashboard:** [disgrace-system-robust.ngrok-free.dev](https://disgrace-system-robust.ngrok-free.dev)<br/>
 ⚡ **8 Systems Live on AWS EC2 Frankfurt** — APIs + Dashboards · 24/7 · No cold starts<br/>
 
@@ -66,7 +66,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](http://3.67.15.230:8004/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) · [Notes](https://github.com/M20Jay/customer-segmentation/blob/main/notes/WEEK_03_NOTES.md) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · [Repo](https://github.com/M20Jay/rag-unep-documents) · [Notes](https://github.com/M20Jay/rag-unep-documents/blob/main/notes/WEEK_04_NOTES.md) |
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](http://3.67.15.230:8005/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) · [Notes](https://github.com/M20Jay/credit-risk-scoring-pipeline/blob/main/notes/WEEK_05_NOTES.md) |
-| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://discounted-patrol-bosnia-insights.trycloudflare.com) · [API](http://3.67.15.230:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_06_NOTES.md) |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://dashboard.martin-mlops.com) · [API](http://3.67.15.230:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_06_NOTES.md) |
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://disgrace-system-robust.ngrok-free.dev) · [API](http://3.67.15.230:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) · [Notes](https://github.com/M20Jay/recommendation-system/blob/main/notes/WEEK_07_NOTES.md) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete · [Case Study](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_08_NOTES.md) |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_09_NOTES.md) |
@@ -161,7 +161,7 @@ Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor
 
 <img src="https://github.com/M20Jay/air-quality-anomaly-detection/raw/main/screenshots/nairobi_air_quality_dashboard.png" width="65%" alt="Nairobi Air Quality Dashboard — Anomaly Detection and PM2.5 Forecast"/>
 
-> ✅ Complete · Week 6 · Tests: 10/10 passing · [Live Dashboard](https://discounted-patrol-bosnia-insights.trycloudflare.com) · [Live API](http://3.67.15.230:8000/docs) · [Repository](https://github.com/M20Jay/air-quality-anomaly-detection)
+> ✅ Complete · Week 6 · Tests: 10/10 passing · [Live Dashboard](https://dashboard.martin-mlops.com) · [Live API](http://3.67.15.230:8000/docs) · [Repository](https://github.com/M20Jay/air-quality-anomaly-detection)
 
 ---
 
