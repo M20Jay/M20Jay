@@ -29,7 +29,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 
 
-🔭 Currently building: **Week 11 — Environmental Capstone · Global Forest Watch · Random Forest**<br/>
+🔭 Currently building: **Week 11 — Environmental Capstone · Global Forest Watch · Random Forest · SageMaker**<br/>
 🌱 Next: **Week 12 — RAG Production System · LaBSE · ChromaDB · 109 Languages**<br/>
 
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
@@ -71,7 +71,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete · [Case Study](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_08_NOTES.md) |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_09_NOTES.md) |
 | **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_10_NOTES.md) |
-| **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | 🔲 Pending |
+| **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · SageMaker · FastAPI · Docker | 🔄 In Progress |
 | **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | 🔲 Pending · [Prototype](https://github.com/M20Jay/rag-unep-documents) |
 | **13** | Apache Spark — Big Data | PySpark · Spark MLlib · dbt · BigQuery | 🔲 Pending |
 | **14** | NLP — Text Classification | HuggingFace · BERT · spaCy · FastAPI · Docker | 🔲 Pending |
