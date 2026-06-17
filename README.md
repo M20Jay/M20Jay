@@ -29,8 +29,8 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 
 
-🔭 Currently building: **Week 10 — AWS Deep Dive · Route 53 · HTTPS · S3 · RDS · Permanent Domain**<br/>
-🌱 Next: **Week 11 — Environmental Capstone · Global Forest Watch · Random Forest**<br/>
+🔭 Currently building: **Week 11 — Environmental Capstone · Global Forest Watch · Random Forest**<br/>
+🌱 Next: **Week 12 — RAG Production System · LaBSE · ChromaDB · 109 Languages**<br/>
 
 🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
 🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
@@ -57,7 +57,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
-![Progress](https://geps.dev/progress/60?successColor=4169E1) **Week 10 in progress — 9 done · 6 remaining**
+![Progress](https://geps.dev/progress/67?successColor=4169E1) **Week 10 complete — 10 done · 5 remaining**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
@@ -70,7 +70,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation.martin-mlops.com) · [API](http://3.67.15.230:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) · [Notes](https://github.com/M20Jay/recommendation-system/blob/main/notes/WEEK_07_NOTES.md) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete · [Case Study](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_08_NOTES.md) |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_09_NOTES.md) |
-| **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | 🔄 [In Progress](https://github.com/M20Jay/airflow-mlops-pipeline) |
+| **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_10_NOTES.md) |
 | **11** | Environmental Capstone 🌍 | Random Forest · LSTM · Global Forest Watch · FastAPI · Docker | 🔲 Pending |
 | **12** | Advanced RAG Chatbot | LangChain · FAISS · HuggingFace · FastAPI · Docker | 🔲 Pending · [Prototype](https://github.com/M20Jay/rag-unep-documents) |
 | **13** | Apache Spark — Big Data | PySpark · Spark MLlib · dbt · BigQuery | 🔲 Pending |
@@ -79,7 +79,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 
 *Every project: production-grade code · containerised deployment · documented README · tested endpoints · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-10%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%2010-orange?style=flat)
+![Week](https://img.shields.io/badge/Week-10%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%2011-orange?style=flat)
 ---
 
 ## 💼 Portfolio Projects
