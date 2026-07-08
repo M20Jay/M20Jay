@@ -46,7 +46,7 @@ Currently executing a **15-week intensive MLOps programme** — one complete pro
 | 🎬 **Movie Recommendation System** | Item-CF RMSE 0.9540 · P@10 69.7% · 943 users · 1,682 movies · CineAI Netflix-standard dashboard · live |
 | 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
 | 💳 **Credit risk scoring + SHAP explainability** | XGBoost · ROC-AUC 0.703 · SHAP waterfall · Basel III ready · live production API |
-| 🔍 **RAG Document Search — prototype** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · full system Week 12 |
+| 🔍 **RAG Document Search — prototype** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · full system Week 13 |
 | 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
@@ -241,7 +241,7 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 | **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-22ms latency |
 | **NLP & RAG** | Semantic search · LaBSE · ChromaDB · vector embeddings · multilingual · 109 languages |
 | **Environmental ML** | Air quality forecasting · PM2.5 anomaly detection · OpenAQ · ARIMA · Isolation Forest |
-| **Cloud** | AWS EC2 · RDS · ECR · Docker · HTTPS · ngrok · Cloudflare |
+| **Cloud** | AWS EC2 · S3 · RDS · IAM · SageMaker · Route 53 · Nginx · HTTPS |
 | **Research & M&E** | MSc Marketing Analytics · World Bank KYEOP · RBM · 50+ KPI frameworks · Board diversity research |
 
 ---
