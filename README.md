@@ -6,7 +6,7 @@
 
 </div>
 
-I build end-to-end production pipelines — from raw data through model development, containerised deployment, real-time monitoring, and automated retraining. Five domains: fraud detection, credit risk, environmental ML, fintech analytics, and African language NLP — built to enterprise scale.
+I build end-to-end production pipelines — from raw data through model development, containerised deployment, real-time monitoring, and automated retraining. Domains: fraud detection, credit risk, deforestation risk, air quality monitoring, fintech analytics, recommendation systems, and African language NLP — with live Streamlit dashboards, FastAPI services, and Grafana monitoring — built to enterprise scale.
 
 Currently executing a **30-week intensive MLOps programme** across five fintech domains — microfinance, P2P lending, payment fraud, insurance, and mobile money — plus environmental ML and African language AI. One production-grade system per week. No shortcuts.
 
@@ -52,17 +52,17 @@ One production-grade project per week — model development · containerisation 
 
 | Week | Project | Stack | Status |
 |---|---|---|---|
-| 01 | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ Live API · Repo · Notes |
-| 02 | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ Live API · Repo · Notes |
-| 03 | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ Live API · Repo · Notes |
-| 04 | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · AWS pending · Repo · Notes |
-| 05 | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ Live API · Repo · Notes |
-| 06 | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ Dashboard · API · Repo · Notes |
-| 07 | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ Dashboard · API · Repo · Notes |
-| 08 | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete · Case Study · Notes |
-| 09 | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ Repo · Notes |
-| 10 | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ Repo · Notes |
-| 11 | Environmental Capstone 🌍 | GFW API · Random Forest · LSTM · SageMaker Training Jobs · S3 Parquet · Airflow · scipy drift · FastAPI · Docker | ✅ Complete · Repo · Notes |
+| 01 | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://martin-mlops.com/churn) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
+| 02 | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://martin-mlops.com/fraud) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
+| 03 | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/segmentation) · [Repo](https://github.com/M20Jay/customer-segmentation) |
+| 04 | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ Local confirmed · [Repo](https://github.com/M20Jay/rag-document-search) |
+| 05 | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://martin-mlops.com/credit) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
+| 06 | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://dashboard.martin-mlops.com) · [API](https://martin-mlops.com/airquality) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
+| 07 | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation.martin-mlops.com) · [API](https://martin-mlops.com/recommend) · [Repo](https://github.com/M20Jay/recommendation-system) |
+| 08 | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ [Repo](https://github.com/M20Jay/mlops-automation) |
+| 09 | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
+| 10 | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/aws-mlops-infrastructure) |
+| 11 | Environmental Capstone 🌍 | GFW API · Random Forest · LSTM · SageMaker Training Jobs · S3 Parquet · Airflow · scipy drift · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/week11-forest-capstone) · [Live API](https://martin-mlops.com/deforestation) |
 | 12 | Spark + BigQuery + Modern Data Stack — Loan Portfolio at Scale | PySpark · Spark SQL · BigQuery · BigQuery ML · Airbyte · dbt · CLV · ClickHouse · Debezium · Vertex AI · Looker Studio · PAR · NIM · DPD · 221K loans · 955K payments | 🔲 In Progress |
 | 13 | Advanced RAG Chatbot | LangChain · FAISS · pgvector · RAGAS · HuggingFace · FastAPI · Docker · conversation memory | 🔲 Pending · Prototype |
 | 14 | NLP + Computer Vision Foundations | HuggingFace · BERT · spaCy · CNN · ResNet · Transfer Learning · satellite imagery | 🔲 Pending |
@@ -97,7 +97,7 @@ Production deforestation risk classifier for East Africa using real satellite da
 - Features: tree cover loss, dist_road_km, population_density, loss_area_ha
 - Pipeline: GFW API → S3 Parquet → SageMaker Training Job → FastAPI → Grafana monitoring
 
-✅ Complete · Week 11 · Repository · Notes
+✅ Complete · Week 11 · [Repository](https://github.com/M20Jay/week11-forest-capstone)
 
 ---
 
@@ -112,7 +112,7 @@ Kiswahili environmental text classifier connecting East African language knowled
 | SO2 | Biodiversity | Viumbe vingi vya porini viko hatarini kutoweka |
 | SO3 | Pollution & Waste | Plastiki nyingi zinatupwa baharini |
 
-🔨 Prototype Complete · Zero-shot classification running · Full system Week 15 · Open-source release on HuggingFace Hub · Repository
+🔨 Prototype Complete · Zero-shot classification running · Full system Week 15 · [Repository](https://github.com/M20Jay/kiswahili-nlp)
 
 ---
 
@@ -129,7 +129,7 @@ Production ML pipeline orchestration layer automating the air quality system bui
 - Systemd service auto-restarts on server reboot
 - Upgraded from t3.small to t3.medium after real production OOM crash at 2am
 
-✅ Complete · Week 9 · 2 Production DAGs · Email Alerting Live · Repository · Notes
+✅ Complete · Week 9 · [Repository](https://github.com/M20Jay/airflow-mlops-pipeline)
 
 ---
 
@@ -151,7 +151,7 @@ Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor
 | Prophet | 22.05 | 19.40 | Forecasting |
 | Isolation Forest | — | — | Anomaly Detection |
 
-✅ Complete · Week 6 · Tests: 10/10 passing · Live Dashboard · Live API · Repository
+✅ Complete · Week 6 · [Live Dashboard](https://dashboard.martin-mlops.com) · [Live API](https://martin-mlops.com/airquality) · [Repository](https://github.com/M20Jay/air-quality-anomaly-detection)
 
 ---
 
@@ -160,7 +160,7 @@ Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor
 
 Credit risk scoring for loan applicants — answers three questions simultaneously: *Will they default? Will they accept the offer? How valuable are they?* Built on 252,971 real LendingClub loans. ROC-AUC 0.703. SHAP explainability for every decision — Basel III compliant audit trail. Propensity scoring, RFM segmentation, 6-panel Grafana monitoring dashboard, PostgreSQL predictions storage.
 
-✅ Complete · Week 5 · Live API · Repository
+✅ Complete · Week 5 · [Live API](https://martin-mlops.com/credit) · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
 
 ---
 
@@ -209,14 +209,14 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 🏆 Goals
 
-- 🎓 **MSc Marketing Analytics** — University of Nairobi — Coursework complete · Thesis in final stage · Target completion 2027
+- 🎓 **MSc Marketing Analytics** — University of Nairobi
 - 🌍 **Kiswahili NLP** — Building African language AI for East African communities — Full system Week 15
 - ☁️ **AWS + GCP Cloud Certification** — Target 2026
 - 🎓 **Georgia Tech OMSCS** — MSc Computer Science, AI Specialisation — Target Aug 2027
