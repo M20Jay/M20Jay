@@ -14,16 +14,16 @@ Currently executing a **30-week intensive MLOps programme** across five fintech 
 
 ---
 
-📍 **Based in Nairobi, Kenya**
-✉️ ngangam93@gmail.com
-🌍 **Air Quality Dashboard:** dashboard.martin-mlops.com
-🎬 **Recommendation Dashboard:** recommendation.martin-mlops.com
-⚡ **11 Systems Built · 8 Live on AWS EC2 Frankfurt** — APIs + Dashboards · 24/7 · No cold starts
-🔭 **Currently building:** Week 12 — Loan Portfolio at Scale · PySpark · BigQuery · dbt · Airbyte · ClickHouse · Debezium · Vertex AI · CLV
-🌱 **Next:** Week 13 — Advanced RAG Chatbot · LangChain · FAISS · pgvector · RAGAS
-🤝 **Open to:** African AI · fintech · banking · telecom · healthcare · environmental analytics
-🏆 **Best Paper Award** — Beijing Institute of Technology 2018 · 34 countries
-⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
+📍 **Based in Nairobi, Kenya**  
+✉️ ngangam93@gmail.com  
+🌍 **Air Quality Dashboard:** dashboard.martin-mlops.com  
+🎬 **Recommendation Dashboard:** recommendation.martin-mlops.com  
+⚡ **11 Systems Built · 8 Live on AWS EC2 Frankfurt** — APIs + Dashboards · 24/7 · No cold starts  
+🔭 **Currently building:** Week 12 — Loan Portfolio at Scale · PySpark · BigQuery · dbt · Airbyte · ClickHouse · Debezium · Vertex AI · CLV  
+🌱 **Next:** Week 13 — Advanced RAG Chatbot · LangChain · FAISS · pgvector · RAGAS  
+🤝 **Open to:** African AI · fintech · banking · telecom · healthcare · environmental analytics  
+🏆 **Best Paper Award** — Beijing Institute of Technology 2018 · 34 countries  
+⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*  
 
 ---
 
