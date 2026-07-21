@@ -1,29 +1,38 @@
-# Martin James Ng'ang'a — ML Engineer · MLOps · African AI
+# Hi 👋 I'm Martin James Ng'ang'a
 
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BCD4&width=700&lines=ML+Engineer+%7C+MLOps+%7C+Production+Pipelines;Fraud+Detection+%7C+Credit+Risk+%7C+Environmental+ML;African+Language+AI+%7C+Kiswahili+NLP;30+Weeks+%7C+30+Production+Systems+%7C+No+Shortcuts)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BCD4&width=600&lines=ML+Engineer+%7C+MLOps+%7C+African+AI;Fraud+Detection+%7C+Credit+Risk+%7C+Environmental+ML;African+Language+AI+%7C+Kiswahili+NLP;30+Weeks+%7C+30+Production+Systems+%7C+No+Shortcuts" alt="Typing SVG" />
 
-</div>
+I build end-to-end ML systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining.
 
-I build end-to-end production pipelines — from raw data through model development, containerised deployment, real-time monitoring, and automated retraining. Domains: fraud detection, credit risk, deforestation risk, air quality monitoring, fintech analytics, recommendation systems, and African language NLP — with live Streamlit dashboards, FastAPI services, and Grafana monitoring — built to enterprise scale.
+Domains: fraud detection · credit risk · deforestation risk · air quality · fintech analytics · recommendation systems · African language NLP — with live Streamlit dashboards, FastAPI services, and Grafana monitoring.
 
-Currently executing a **30-week intensive MLOps programme** across five fintech domains — microfinance, P2P lending, payment fraud, insurance, and mobile money — plus environmental ML and African language AI. One production-grade system per week. No shortcuts.
+📍 Nairobi, Kenya &nbsp;|&nbsp; ✉️ ngangam93@gmail.com  
+🌍 [Air Quality Dashboard](https://dashboard.martin-mlops.com) &nbsp;|&nbsp; 🎬 [Recommendation Dashboard](https://recommendation.martin-mlops.com)  
+⚡ **11 Systems Built · 8 Live on AWS EC2 Frankfurt**  
+🔭 **Now:** Week 12 — PySpark · BigQuery · dbt · Airbyte · CLV  
+🌱 **Next:** Week 13 — Advanced RAG Chatbot  
+🏆 Best Paper Award — Beijing Institute of Technology 2018  
 
-![ML Engineer coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+> *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="ML Engineer coding"/>
+
+**Week 11 complete — 11 done · 19 remaining**
+
+Currently executing a **30-week MLOps programme** across five fintech domains — microfinance · P2P lending · payment fraud · insurance · mobile money — plus environmental ML and African language AI.
+
+</td>
+</tr>
+</table>
 
 ---
-
-📍 **Based in Nairobi, Kenya**  
-✉️ ngangam93@gmail.com  
-🌍 **Air Quality Dashboard:** dashboard.martin-mlops.com  
-🎬 **Recommendation Dashboard:** recommendation.martin-mlops.com  
-⚡ **11 Systems Built · 8 Live on AWS EC2 Frankfurt** — APIs + Dashboards · 24/7 · No cold starts  
-🔭 **Currently building:** Week 12 — Loan Portfolio at Scale · PySpark · BigQuery · dbt · Airbyte · ClickHouse · Debezium · Vertex AI · CLV  
-🌱 **Next:** Week 13 — Advanced RAG Chatbot · LangChain · FAISS · pgvector · RAGAS  
-🤝 **Open to:** African AI · fintech · banking · telecom · healthcare · environmental analytics  
-🏆 **Best Paper Award** — Beijing Institute of Technology 2018 · 34 countries  
-⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*  
 
 ---
 
