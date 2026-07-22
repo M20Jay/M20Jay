@@ -23,20 +23,30 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 ---
 
-📍 Based in **Nairobi, Kenya**<br/>
-✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
-🌍 **Air Quality Dashboard:** [dashboard.martin-mlops.com](https://dashboard.martin-mlops.com)<br/>
-🎬 **Recommendation Dashboard:** [recommendation.martin-mlops.com](https://recommendation.martin-mlops.com)<br/>
-⚡ **11 Systems Built · 8 Live on AWS EC2 Frankfurt** — APIs + Dashboards · 24/7 · No cold starts<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
+📍 **Nairobi, Kenya** &nbsp;|&nbsp; ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)
 
+🌍 [Air Quality Dashboard](https://dashboard.martin-mlops.com) &nbsp;|&nbsp; 🎬 [Recommendation Dashboard](https://recommendation.martin-mlops.com)
 
-🔭 Currently building: **Week 12 — Loan Portfolio at Scale · PySpark · BigQuery · dbt · Airbyte · ClickHouse · Debezium · Vertex AI · CLV**<br/>
-🌱 Next: **Week 13 — Advanced RAG Chatbot · LangChain · FAISS · pgvector · RAGAS**<br/>
+🔭 **Now:** Week 12 — PySpark · BigQuery · dbt · Airbyte · CLV
+🌱 **Next:** Week 13 — Advanced RAG Chatbot
 
-⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
+</td>
+<td width="50%" valign="top" align="center">
 
----
+![Systems](https://img.shields.io/badge/Systems%20Built-11-4169E1?style=for-the-badge)
+![Live](https://img.shields.io/badge/Live%20on%20AWS-8-brightgreen?style=for-the-badge)
+![Week](https://img.shields.io/badge/Week-12%2F30-orange?style=for-the-badge)
+
+*"Data is only as powerful as the institution's willingness to act on it."*
+
+</td>
+</tr>
+</table>
+
 
 ## 🔥 Proven Results
 
