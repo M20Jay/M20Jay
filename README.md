@@ -8,7 +8,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I am an ML Engineer and Data Scientist based in Nairobi, Kenya with 10+ years of analytics experience building production ML systems from scratch.
+I am an ML Engineer based in Nairobi, Kenya with 10+ years of analytics experience building production ML systems from scratch.
 
 I build systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My work spans fraud detection, credit risk, deforestation monitoring, air quality analysis, fintech analytics, and African language AI.
 
