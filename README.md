@@ -97,28 +97,25 @@ Currently executing a **30-week intensive MLOps programme** — one complete pro
 ## 💼 Portfolio Projects
 ---
 
-### 🌍 Project 15 — Kiswahili NLP Environmental Classifier *(Week 15 — In Progress)*
-**mBERT · AfriBERTa · HuggingFace Transformers · MLflow · FastAPI · Docker · AWS**
 
-Kiswahili environmental text classifier connecting East African language knowledge to global environmental monitoring. Over 200 million East Africans speak Kiswahili yet most AI systems are built primarily in English — leaving indigenous communities unable to contribute environmental observations in their own language.
+### 🌍 Project 11 — Deforestation Risk Classifier *(Week 11)*
+**GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker · AWS**
 
-Classifies Kiswahili text by UNEP Strategic Objective:
+Production deforestation risk classifier for East Africa using real satellite data from the Global Forest Watch API. Ingested programmatically via authenticated POST requests — no manual downloads. SageMaker Training Jobs submitted via boto3, comparing managed cloud training against self-managed EC2 training.
 
-| Objective | Focus | Example |
-|-----------|-------|---------|
-| SO1 | Climate Stability | Mabadiliko ya tabianchi yanaathiri wakulima |
-| SO2 | Biodiversity | Viumbe vingi vya porini viko hatarini kutoweka |
-| SO3 | Pollution & Waste | Plastiki nyingi zinatupwa baharini |
+- Countries covered: Kenya · Tanzania · Uganda · Ethiopia · DRC
+- Drift monitoring: scipy KS test + PSI (Population Stability Index)
+- Pipeline: GFW API → S3 Parquet → SageMaker Training Job → FastAPI → Grafana monitoring
+- 74.9ms API response time · live on AWS EC2 Frankfurt
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-> 🔨 Prototype Complete · Zero-shot classification running · Full system Week 15 · Open-source release on HuggingFace Hub · [Repository](https://github.com/M20Jay/kiswahili-nlp)
+> ✅ Complete · Week 11 · [Live API](http://3.67.15.230:8004/docs) · [Repository](https://github.com/M20Jay/week11-forest-capstone)
 
+---
 ### ⚙️ Project 9 — Apache Airflow ML Pipeline Orchestration *(Week 9)*
 **Apache Airflow · DAGs · LocalExecutor · Docker · AWS EC2 · Gmail SMTP**
 
