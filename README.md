@@ -32,8 +32,6 @@ Currently executing a **30-week intensive MLOps programme** — one complete pro
 🔭 Currently building: **Week 12 — Loan Portfolio at Scale · PySpark · BigQuery · dbt · Airbyte · ClickHouse · Debezium · Vertex AI · CLV**<br/>
 🌱 Next: **Week 13 — Advanced RAG Chatbot · LangChain · FAISS · pgvector · RAGAS**<br/>
 
-🤝 Open to: **African AI · banking · telecom · healthcare · environmental analytics**<br/>
-🏆 Best Paper Award — Beijing Institute of Technology 2018 · 34 countries<br/>
 ⚡ *"Data is only as powerful as the institution's willingness to act on it. I have spent ten years building both."*
 
 ---
