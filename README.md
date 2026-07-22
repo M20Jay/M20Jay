@@ -45,11 +45,8 @@ Currently executing a **30-week intensive MLOps programme** — one complete pro
 | 🎬 **Movie Recommendation System** | Item-CF RMSE 0.9540 · P@10 69.7% · 943 users · 1,682 movies · CineAI Netflix-standard dashboard · live |
 | 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
 | 💳 **Credit risk scoring + SHAP explainability** | XGBoost · ROC-AUC 0.703 · SHAP waterfall · Basel III ready · live production API |
-| 🔍 **RAG Document Search — prototype** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · full system Week 13 |
-| 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
-| ✅ **11 production systems** | 8 Systems Live on AWS EC2 Frankfurt · deployed 31 May 2026 |
 ---
 
 ## 🗓️ 30-Week MLOps Programme
