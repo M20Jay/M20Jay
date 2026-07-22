@@ -8,9 +8,11 @@
 <tr>
 <td width="55%" valign="top">
 
-I build end-to-end production pipelines — from raw data through model development, containerised deployment, real-time monitoring, and automated retraining. Domains: fraud detection · credit risk · deforestation risk · air quality monitoring · fintech analytics · recommendation systems · African language NLP — built to enterprise scale.
+I build ML systems for Africa's most urgent problems — financial inclusion, climate change, and language equity.
 
-Currently executing a **30-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
+11 production systems live on AWS EC2 Frankfurt. 30 weeks. No shortcuts.
+
+From Nairobi to the world.
 
 </td>
 <td width="45%" align="center" valign="top">
