@@ -8,7 +8,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I build end-to-end production pipelines — from raw data through model development, containerised deployment, real-time monitoring, and automated retraining. Four domains: fraud detection, credit risk, environmental ML, and African language NLP — built to enterprise scale.
+I build end-to-end production pipelines — from raw data through model development, containerised deployment, real-time monitoring, and automated retraining. Domains: fraud detection · credit risk · deforestation risk · air quality monitoring · fintech analytics · recommendation systems · African language NLP — built to enterprise scale.
 
 Currently executing a **30-week intensive MLOps programme** — one complete production-grade project per week. Every project is fully deployed, monitored, and documented. No shortcuts.
 
@@ -40,6 +40,7 @@ Currently executing a **30-week intensive MLOps programme** — one complete pro
 
 | Achievement | Detail |
 |-------------|--------|
+| 🌍 **Deforestation Risk Classifier** | GFW satellite API · Random Forest · SageMaker Training Jobs · S3 Parquet · East Africa · scipy KS + PSI drift monitoring · live API |
 | 🌍 **Environmental anomaly detection** | ARIMA RMSE 9.93 · PM2.5 spike 469 µg/m³ detected · 11,998 OpenAQ readings · live dashboard + API |
 | 🎬 **Movie Recommendation System** | Item-CF RMSE 0.9540 · P@10 69.7% · 943 users · 1,682 movies · CineAI Netflix-standard dashboard · live |
 | 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
@@ -47,10 +48,11 @@ Currently executing a **30-week intensive MLOps programme** — one complete pro
 | 🔍 **RAG Document Search — prototype** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · full system Week 13 |
 | 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
+| 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
 | ✅ **11 production systems** | 8 Systems Live on AWS EC2 Frankfurt · deployed 31 May 2026 |
 ---
 
-## 🗓️ 15-Week MLOps Programme
+## 🗓️ 30-Week MLOps Programme
 
 *One production-grade project per week — model development · containerisation · cloud deployment · live monitoring · automated retraining. Every week ships.*
 
@@ -89,7 +91,7 @@ Currently executing a **30-week intensive MLOps programme** — one complete pro
 
 *Every project: production-grade code · containerised deployment · documented README · tested endpoints · no shortcuts.*
 
-![Week](https://img.shields.io/badge/Week-10%2F15-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%2011-orange?style=flat)
+![Week](https://img.shields.io/badge/Week-11%2F30-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-8%20on%20AWS%20EC2%20Frankfurt-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%2012-orange?style=flat)
 ---
 
 ## 💼 Portfolio Projects
@@ -245,13 +247,15 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 | Area | Skills |
 |------|--------|
+| **Fintech ML** | Credit risk · fraud detection · CLV · RFM · propensity models · PAR · NIM · DPD · cohort analysis · 5 fintech domains |
 | **Machine Learning** | Fraud detection · churn · credit risk · segmentation · time series forecasting · anomaly detection · SHAP explainability |
 | **Deep Learning** | LSTM (PyTorch) · sequence modelling · time series · OOP neural network architecture |
 | **MLOps** | End-to-end pipelines · Docker · MLflow · Evidently drift monitoring · pytest · DVC |
 | **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-22ms latency |
 | **NLP & RAG** | Semantic search · LaBSE · ChromaDB · vector embeddings · multilingual · 109 languages |
 | **Environmental ML** | Air quality forecasting · PM2.5 anomaly detection · OpenAQ · ARIMA · Isolation Forest |
-| **Cloud** | AWS EC2 · RDS · ECR · Docker · HTTPS · ngrok · Cloudflare |
+| **Cloud AWS** | EC2 · S3 · RDS · IAM · SageMaker · Route 53 · Nginx · HTTPS |
+| **Cloud GCP** | BigQuery · BigQuery ML · Vertex AI · Cloud Run · Looker Studio |
 | **Research & M&E** | MSc Marketing Analytics · World Bank KYEOP · RBM · 50+ KPI frameworks · Board diversity research |
 
 ---
