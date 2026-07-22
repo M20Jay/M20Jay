@@ -25,7 +25,7 @@ Currently executing a **30-week intensive MLOps programme** — one complete pro
 ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)<br/>
 🌍 **Air Quality Dashboard:** [dashboard.martin-mlops.com](https://dashboard.martin-mlops.com)<br/>
 🎬 **Recommendation Dashboard:** [recommendation.martin-mlops.com](https://recommendation.martin-mlops.com)<br/>
-⚡ **8 Systems Live on AWS EC2 Frankfurt** — APIs + Dashboards · 24/7 · No cold starts<br/>
+⚡ **11 Systems Built · 8 Live on AWS EC2 Frankfurt** — APIs + Dashboards · 24/7 · No cold starts<br/>
 
 
 
@@ -49,8 +49,7 @@ Currently executing a **30-week intensive MLOps programme** — one complete pro
 | 🔍 **RAG Document Search — prototype** | 1,244-page semantic search · 4,329 chunks · LaBSE · 109 languages · full system Week 13 |
 | 🌍 **Kiswahili NLP — prototype** | Zero-shot classification · UNEP Strategic Objectives · mBERT · 104 languages · full system Week 15 |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
-| 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
-| ✅ **8 production systems** | 8 Systems Live on AWS EC2 Frankfurt · deployed 31 May 2026 |
+| ✅ **11 production systems** | 8 Systems Live on AWS EC2 Frankfurt · deployed 31 May 2026 |
 ---
 
 ## 🗓️ 15-Week MLOps Programme
