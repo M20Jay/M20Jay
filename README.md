@@ -8,13 +8,13 @@
 <tr>
 <td width="55%" valign="top">
 
-I build ML systems for Africa's most urgent problems — financial inclusion, climate change, and language equity.
+I am an MLOps Engineer and Data Scientist based in Nairobi, Kenya with 10+ years of analytics experience building production ML systems from scratch.
 
-11 production systems live on AWS EC2 Frankfurt. 30 weeks. No shortcuts.
+I build systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My work spans fraud detection, credit risk, deforestation monitoring, air quality analysis, fintech analytics, and African language AI.
 
-From Nairobi to the world.
+Currently executing a 30-week intensive MLOps programme — one production-grade system per week, fully deployed, monitored, and documented on AWS EC2 Frankfurt. No shortcuts.
 
-</td>
+Tunajijengea sisi wenyewe. 🇰🇪
 <td width="45%" align="center" valign="top">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="ML Engineer coding"/>
 </td>
