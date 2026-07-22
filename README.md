@@ -15,6 +15,8 @@ I build systems that survive in production — from raw data pipelines through m
 Currently executing a 30-week intensive MLOps programme — one production-grade system per week, fully deployed, monitored, and documented on AWS EC2 Frankfurt. No shortcuts.
 
 Tunajijengea sisi wenyewe. 🇰🇪
+
+</td>
 <td width="45%" align="center" valign="top">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="ML Engineer coding"/>
 </td>
@@ -104,7 +106,6 @@ Tunajijengea sisi wenyewe. 🇰🇪
 ---
 
 ## 💼 Portfolio Projects
----
 
 
 ### 🌍 Project 11 — Deforestation Risk Classifier *(Week 11)*
@@ -150,7 +151,6 @@ Production ML pipeline orchestration layer automating the air quality system bui
 
 ---
 
----
 
 ### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6)*
 **ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker · AWS EC2**
@@ -201,7 +201,6 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 ---
 
----
 
 ## 🛠️ Skills
 
@@ -302,6 +301,6 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 ---
 
-*30 weeks. 30 production projects. One complete MLOps engineer. Building in public — no shortcuts.*
+*30 weeks. 30 production projects. One complete ML Engineer. Building in public — no shortcuts.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=60&section=footer" width="100%"/>
