@@ -123,6 +123,10 @@ Production deforestation risk classifier for East Africa using real satellite da
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
+
+![Airflow DAG — All 6 tasks complete](https://raw.githubusercontent.com/M20Jay/week11-forest-capstone/main/outputs/airflow_dag_graph.png)
+
+
 > ✅ Complete · Week 11 · [Live API](http://3.67.15.230:8004/docs) · [Repository](https://github.com/M20Jay/week11-forest-capstone)
 
 ---
