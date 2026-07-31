@@ -73,14 +73,14 @@ Tunajijengea sisi wenyewe. 🇰🇪
 |------|---------|-------|--------|
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
 | **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
-| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/customer-segmentation) · [Notes](https://github.com/M20Jay/customer-segmentation/blob/main/notes/WEEK_03_NOTES.md) |
+| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ [Repo](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) · [Notes](https://github.com/M20Jay/credit-risk-scoring-pipeline/blob/main/notes/WEEK_05_NOTES.md) |
-| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_06_NOTES.md) |
-| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Repo](https://github.com/M20Jay/recommendation-system) · [Notes](https://github.com/M20Jay/recommendation-system/blob/main/notes/WEEK_07_NOTES.md) |
-| **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete · [Case Study](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_08_NOTES.md) |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
+| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Repo](https://github.com/M20Jay/recommendation-system) |
+| **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
-| **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_10_NOTES.md) |
+| **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
 | **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/week11-forest-capstone) ·  |
 | **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · ClickHouse · Debezium · Vertex AI · Looker Studio | 🔄 In Progress · [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
 | **13** | Advanced RAG Chatbot | LangChain · FAISS · pgvector · RAGAS · HuggingFace · FastAPI · Docker | ⏳ Pending · Prototype |
