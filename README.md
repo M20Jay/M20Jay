@@ -8,7 +8,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I am an ML Engineer based in Nairobi, Kenya with 10+ years of analytics experience — including 7 years delivering data science and advanced analytics to C-suite at KIM — statistical modelling, forecasting, segmentation, and executive dashboards informing board-level decisions — and 4 years building production ML systems in Python — XGBoost, LightGBM, dbt, Airflow, Kafka, FastAPI — 11 systems live on AWS.
+I am an ML Engineer based in Nairobi, Kenya with 10+ years of analytics experience — including 7 years delivering data science and advanced analytics to C-suite — statistical modelling, forecasting, segmentation, and executive dashboards informing board-level decisions — and 4 years building production ML systems in Python — XGBoost, LightGBM, dbt, Airflow, Kafka, FastAPI — 11 systems live on AWS and GCP.
 
 I build systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My work spans fraud detection, credit risk, deforestation monitoring, air quality analysis, fintech analytics, and African language AI.
 
