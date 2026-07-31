@@ -71,34 +71,36 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
-| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
-| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/customer-segmentation) |
+| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://martin-mlops.com/churn) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
+| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://martin-mlops.com/fraud) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
+| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/segmentation) · [Repo](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ [Repo](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
-| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
-| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Repo](https://github.com/M20Jay/recommendation-system) |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://martin-mlops.com/credit) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://dashboard.martin-mlops.com) · [API](https://martin-mlops.com/airquality) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
+| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation.martin-mlops.com) · [API](https://martin-mlops.com/recommend) · [Repo](https://github.com/M20Jay/recommendation-system) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
 | **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
-| **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/week11-forest-capstone) |
+| **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/deforestation) · [Repo](https://github.com/M20Jay/week11-forest-capstone) |
 | **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · ClickHouse · Debezium · Vertex AI · Looker Studio | 🔄 In Progress · [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
-| **13** | Advanced RAG Chatbot | LangChain · FAISS · pgvector · RAGAS · HuggingFace · FastAPI · Docker | ⏳ Pending · Prototype |
-| **14** | NLP — Text Classification | HuggingFace · BERT · spaCy · FastAPI · Docker | ⏳ Pending |
-| **15** | Kiswahili NLP 🌍 | mBERT · AfriBERTa · HuggingFace Hub · AWS | ⏳ Pending · [Prototype](https://github.com/M20Jay/kiswahili-nlp) |
-| **16** | Production Hardening — Payment Transactions | Evidently AI (Docker Python 3.11) · Giskard · RDS · ElasticSearch · advanced CI/CD · LendingClub/PaySim | ⏳ Planned |
-| **17** | Kubernetes + Container Orchestration | Kubernetes · Helm · kubectl · auto-scaling · rolling deployments · health checks | ⏳ Planned |
+| **13** | Advanced RAG Chatbot + Langfuse | LangChain · FAISS · pgvector · RAGAS · HuggingFace · FastAPI · Langfuse LLM observability | ⏳ Pending · Prototype |
+| **14** | NLP + Computer Vision + Transfer Learning | BERT fine-tuning · spaCy NER · CNN · ResNet · HuggingFace Hub · Stripe/M-Pesa API intro | ⏳ Pending |
+| **15** | Kiswahili NLP + Whisper Speech-to-Text 🌍 | AfriBERTa · LaBSE · Whisper STT · HuggingFace Hub · 200M+ East Africans | ⏳ Pending · [Prototype](https://github.com/M20Jay/kiswahili-nlp) |
+| **16** | Lambda + API Gateway + Evidently Production Hardening | AWS Lambda · API Gateway · serverless FastAPI · Evidently AI · Giskard · LendingClub/PaySim | ⏳ Planned |
+| **17** | Terraform + Kubernetes | Terraform · Kubernetes · Helm · kubectl · Infrastructure as Code · auto-scaling | ⏳ Planned |
 | **18** | Data Lakehouse + Streaming + Apache NiFi | Delta Lake · Apache Iceberg · Kafka Streams · Flink · Apache NiFi · Feast · Great Expectations | ⏳ Planned |
-| **19** | Feature Store + Data Quality | Feast · Great Expectations · data contracts · schema registry · data lineage | ⏳ Planned |
-| **20** | Multi-Cloud + Cost Optimization | AWS + GCP comparison · cost monitoring · reserved instances · FinOps | ⏳ Planned |
-| **21** | Advanced Monitoring — Insurance/Fraud | Evidently + Giskard combined · bias testing · automated retraining · IEEE-CIS or Home Credit | ⏳ Planned |
+| **19** | M-Pesa + Safaricom API Pipeline | Safaricom API · STK Push · C2B · B2C · propensity model · GCP Cloud Run · Airflow DAG | ⏳ Planned |
+| **20** | Security + IAM + Secrets Manager | AWS Secrets Manager · IAM roles · least privilege · audit logging · SOC2 awareness | ⏳ Planned |
+| **21** | Giskard + Model Governance | Giskard bias testing · model cards · fairness metrics · demographic parity · IEEE-CIS | ⏳ Planned |
 | **22** | SageMaker Pipelines + Model Registry | SageMaker Pipelines · model approval workflow · A/B deployment · canary releases | ⏳ Planned |
 | **23** | Vertex AI Pipelines | Vertex Pipelines · Cloud Run · model registry governance · GCP MLOps patterns | ⏳ Planned |
-| **24** | Distributed Training + GPU Optimization | Distributed PyTorch · model parallelism · mixed precision · gradient checkpointing · vLLM | ⏳ Planned |
-| **25** | LLM Fine-tuning — Mobile Money 🌍 | LoRA · QLoRA · PEFT · PyTorch · Safaricom API · M-Pesa sandbox · propensity model · GCP Cloud Run | ⏳ Planned |
-| **26-27** | Agentic AI Systems + MCP | LangGraph · MCP (Model Context Protocol) · multi-agent · tool use · 7 memory types · Redis · pgvector | ⏳ Planned |
-| **28-29** | Large Scale ML + Distributed Systems | Spark MLlib at scale · distributed PyTorch · billion-row datasets · multi-GPU training | ⏳ Planned |
-| **30** | Final Capstone — Production AI System | Kiswahili LLM + RAG + Agents + MCP + Kubernetes + full monitoring + fintech analytics | ⏳ Planned |
+| **24** | ELK Stack + Advanced Observability | Elasticsearch · Logstash · Kibana · log monitoring · alerting · comparison with Grafana stack | ⏳ Planned |
+| **25** | LLM Fine-tuning (LoRA/QLoRA) | LoRA · QLoRA · PEFT · PyTorch · HuggingFace Trainer · vLLM · model merging | ⏳ Planned |
+| **26** | African Language AI Capstone 🌍 | Kiswahili + Sheng + Luo NLP · multilingual models · AfriBERTa · Whisper · HuggingFace Hub | ⏳ Planned |
+| **27** | Agentic AI Systems + MCP | LangGraph · MCP · multi-agent · tool use · function calling · 7 memory types · Redis · pgvector | ⏳ Planned |
+| **28** | Portfolio Hardening + Mock Interviews | README polish · system design practice · whiteboard problems · mock technical interviews | ⏳ Planned |
+| **29** | System Design + Whiteboard Practice | ML system design · distributed systems · scalability · data pipeline design · STAR method | ⏳ Planned |
+| **30** | Final Capstone + Job Sprint | Complete production AI system · Kiswahili LLM + RAG + Agents + MCP + Kubernetes + full monitoring · targeted applications to 10 companies | ⏳ Planned |
 
 *Every system: production-grade code · containerised · documented · tested · no shortcuts.*
 
