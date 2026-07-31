@@ -31,7 +31,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 📍 **Nairobi, Kenya** &nbsp;|&nbsp; ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)
 
-🌍 [Air Quality Dashboard](https://dashboard.martin-mlops.com) &nbsp;|&nbsp; 🎬 [Recommendation Dashboard](https://recommendation.martin-mlops.com)
+
 
 🔭 **Now:** Week 12 — PySpark · BigQuery · dbt · Airbyte · CLV
 🌱 **Next:** Week 13 — Advanced RAG Chatbot
@@ -71,17 +71,17 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](http://3.67.15.230:8002/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
-| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](http://3.67.15.230:8003/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
-| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](http://3.67.15.230:8004/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) · [Notes](https://github.com/M20Jay/customer-segmentation/blob/main/notes/WEEK_03_NOTES.md) |
+| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
+| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
+| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/customer-segmentation) · [Notes](https://github.com/M20Jay/customer-segmentation/blob/main/notes/WEEK_03_NOTES.md) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ [Repo](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](http://3.67.15.230:8005/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) · [Loan Portfolio Analysis](https://github.com/M20Jay/loan-portfolio-analysis) · [Notes](https://github.com/M20Jay/credit-risk-scoring-pipeline/blob/main/notes/WEEK_05_NOTES.md) |
-| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://dashboard.martin-mlops.com) · [API](http://3.67.15.230:8000/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_06_NOTES.md) |
-| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation.martin-mlops.com) · [API](http://3.67.15.230:8001/docs) · [Repo](https://github.com/M20Jay/recommendation-system) · [Notes](https://github.com/M20Jay/recommendation-system/blob/main/notes/WEEK_07_NOTES.md) |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) · [Loan Portfolio Analysis](https://github.com/M20Jay/loan-portfolio-analysis) · [Notes](https://github.com/M20Jay/credit-risk-scoring-pipeline/blob/main/notes/WEEK_05_NOTES.md) |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_06_NOTES.md) |
+| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Repo](https://github.com/M20Jay/recommendation-system) · [Notes](https://github.com/M20Jay/recommendation-system/blob/main/notes/WEEK_07_NOTES.md) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete · [Case Study](https://github.com/M20Jay/air-quality-anomaly-detection) · [Notes](https://github.com/M20Jay/air-quality-anomaly-detection/blob/main/notes/WEEK_08_NOTES.md) |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
 | **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) · [Notes](https://github.com/M20Jay/airflow-mlops-pipeline/blob/main/notes/WEEK_10_NOTES.md) |
-| **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/week11-forest-capstone) · [Live API](http://3.67.15.230:8004/docs) |
+| **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/week11-forest-capstone) ·  |
 | **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · ClickHouse · Debezium · Vertex AI · Looker Studio | 🔄 In Progress · [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
 | **13** | Advanced RAG Chatbot | LangChain · FAISS · pgvector · RAGAS · HuggingFace · FastAPI · Docker | ⏳ Pending · Prototype |
 | **14** | NLP — Text Classification | HuggingFace · BERT · spaCy · FastAPI · Docker | ⏳ Pending |
@@ -127,7 +127,7 @@ Production deforestation risk classifier for East Africa using real satellite da
 ![Airflow DAG — All 6 tasks complete](https://raw.githubusercontent.com/M20Jay/week11-forest-capstone/main/outputs/airflow_dag_complete.png)
 
 
-> ✅ Complete · Week 11 · [Live API](http://3.67.15.230:8004/docs) · [Repository](https://github.com/M20Jay/week11-forest-capstone)
+> ✅ Complete · Week 11 · [Repository](https://github.com/M20Jay/week11-forest-capstone)
 
 ---
 ### ⚙️ Project 9 — Apache Airflow ML Pipeline Orchestration *(Week 9)*
@@ -183,7 +183,7 @@ Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor
 
 <img src="https://github.com/M20Jay/air-quality-anomaly-detection/raw/main/screenshots/nairobi_air_quality_dashboard.png" width="65%" alt="Nairobi Air Quality Dashboard — Anomaly Detection and PM2.5 Forecast"/>
 
-> ✅ Complete · Week 6 · Tests: 10/10 passing · [Live Dashboard](https://dashboard.martin-mlops.com) · [Live API](http://3.67.15.230:8000/docs) · [Repository](https://github.com/M20Jay/air-quality-anomaly-detection)
+> ✅ Complete · Week 6 · Tests: 10/10 passing · [Repository](https://github.com/M20Jay/air-quality-anomaly-detection)
 
 ---
 
@@ -201,7 +201,7 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 <img src="https://github.com/M20Jay/credit-risk-scoring-pipeline/raw/main/screenshots/shap_waterfall.png" width="65%" alt="SHAP Waterfall — Credit Risk Explainability"/>
 
-> ✅ Complete · Week 5 · [Live API](http://3.67.15.230:8005/docs) · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
+> ✅ Complete · Week 5 · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
 
 ---
 
