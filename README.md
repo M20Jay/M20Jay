@@ -282,12 +282,10 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=M20Jay&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=M20Jay&color=4169E1&style=flat)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
 
 ## 🏆 GitHub Trophies
 
