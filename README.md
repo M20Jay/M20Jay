@@ -10,7 +10,7 @@
 
 I am an ML Engineer based in Nairobi, Kenya with 10+ years of analytics experience — including 7 years delivering data science and advanced analytics to C-suite — statistical modelling, forecasting, segmentation, and executive dashboards informing board-level decisions — and 4 years building production ML systems in Python — XGBoost, LightGBM, dbt, Airflow, Kafka, FastAPI — 11 systems live on AWS and GCP.
 
-I build systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My work spans fraud detection, credit risk, deforestation monitoring, air quality analysis, fintech analytics, and African language AI.
+I build systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My work spans fraud detection (284K transactions), credit risk scoring, loan portfolio analytics (221K loans · 955K payments), deforestation monitoring, air quality forecasting, and African language AI.
 
 Currently executing a 30-week intensive MLOps programme — one production-grade system per week, fully deployed, monitored, and documented on AWS EC2 Frankfurt. No shortcuts.
 
@@ -287,7 +287,7 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 ![Profile Views](https://komarev.com/ghpvc/?username=M20Jay&color=4169E1&style=flat)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M20Jay&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+
 
 <img src="https://github-trophies.vercel.app/?username=M20Jay&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
