@@ -33,8 +33,8 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 
 
-🔭 **Now:** Week 12 — PySpark · BigQuery · dbt · Airbyte · CLV
-🌱 **Next:** Week 13 — Advanced RAG Chatbot
+🔭 **Now:** Week 13 — Advanced RAG Chatbot
+🌱 **Next:** Week 14 — TBD
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -67,7 +67,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 *One production-grade system per week — built, deployed, monitored, and documented on AWS EC2 Frankfurt. Real data. Real APIs. No tutorials.*
 
-![Progress](https://geps.dev/progress/37?successColor=4169E1) **Week 11 complete — 11 done · 19 remaining**
+![Progress](https://geps.dev/progress/40?successColor=4169E1) **Week 12 complete — 12 done · 18 remaining**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
@@ -82,7 +82,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
 | **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
 | **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/deforestation/docs) · [Repo](https://github.com/M20Jay/week11-forest-capstone) |
-| **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · ClickHouse · Debezium · Vertex AI · Looker Studio | 🔄 In Progress · [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
+| **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · ClickHouse · Debezium · Vertex AI · Looker Studio | ✅ [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
 | **13** | Advanced RAG Chatbot + Langfuse | LangChain · FAISS · pgvector · RAGAS · HuggingFace · FastAPI · Langfuse LLM observability | ⏳ Pending · Prototype |
 | **14** | NLP + Computer Vision + Transfer Learning | BERT fine-tuning · spaCy NER · CNN · ResNet · HuggingFace Hub · Stripe/M-Pesa API intro | ⏳ Pending |
 | **15** | Kiswahili NLP + Whisper Speech-to-Text 🌍 | AfriBERTa · LaBSE · Whisper STT · HuggingFace Hub · 200M+ East Africans | ⏳ Pending · [Prototype](https://github.com/M20Jay/kiswahili-nlp) |
