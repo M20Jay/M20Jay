@@ -31,7 +31,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 📍 **Nairobi, Kenya** &nbsp;|&nbsp; ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)
 
-🔭 **Now:** Week 13 — Advanced RAG Chatbot
+🔭 **Now:** Week 13 — Account Takeover / Behavioral Anomaly Detection
 🌱 **Next:** Week 14 — TBD
 
 </td>
@@ -72,7 +72,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://martin-mlops.com/churn/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
 | **02** | Real-Time Fraud Detection | Random Forest · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://martin-mlops.com/fraud/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/segmentation/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
-| **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ [Repo](https://github.com/M20Jay/rag-unep-documents) |
+| **04** | RAG Document Search System *(evolving toward LangChain · FAISS · pgvector · RAGAS · Langfuse)* | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ [Repo](https://github.com/M20Jay/rag-unep-documents) |
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://martin-mlops.com/credit/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
 | **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://dashboard.martin-mlops.com) · [API](https://martin-mlops.com/airquality/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation.martin-mlops.com) · [API](https://martin-mlops.com/recommend/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
@@ -81,7 +81,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
 | **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/deforestation/docs) · [Repo](https://github.com/M20Jay/week11-forest-capstone) |
 | **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · ClickHouse · Debezium · Vertex AI · Looker Studio | ✅ [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
-| **13** | Advanced RAG Chatbot + Langfuse | LangChain · FAISS · pgvector · RAGAS · HuggingFace · FastAPI · Langfuse LLM observability | ⏳ Pending · Prototype |
+| **13** | Account Takeover / Behavioral Anomaly Detection | Sequence modeling · Vertex AI Training · FastAPI · Langfuse observability | ⏳ Pending · Prototype |
 | **14** | NLP + Computer Vision + Transfer Learning | BERT fine-tuning · spaCy NER · CNN · ResNet · HuggingFace Hub · Stripe/M-Pesa API intro | ⏳ Pending |
 | **15** | Kiswahili NLP + Whisper Speech-to-Text 🌍 | AfriBERTa · LaBSE · Whisper STT · HuggingFace Hub · 200M+ East Africans | ⏳ Pending · [Prototype](https://github.com/M20Jay/kiswahili-nlp) |
 | **16** | Lambda + API Gateway + Evidently Production Hardening | AWS Lambda · API Gateway · serverless FastAPI · Evidently AI · Giskard · LendingClub/PaySim | ⏳ Planned |
