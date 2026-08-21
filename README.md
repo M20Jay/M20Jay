@@ -110,6 +110,25 @@ Tunajijengea sisi wenyewe. 🇰🇪
 ## 💼 Portfolio Projects
 
 
+### 📊 Project 12 — Loan Portfolio at Scale *(Week 12)*
+
+**PySpark · BigQuery · dbt · Airbyte · Airflow · Looker Studio**
+
+Production loan portfolio pipeline processing 221,518 loans with full weekly automation — Airbyte syncs data, dbt transforms it, a CLV model retrains, an A/B test recalculates, all orchestrated through a single Airflow DAG.
+
+- Data: 221,518 loans, 955,815 payments, ingested via Airbyte
+- Metrics: PAR, DPD, NIM, CLV segmentation via BigQuery + dbt
+- Orchestration: 5-task Airflow DAG, weekly, fully automated
+- Dashboard: Looker Studio executive dashboard, live
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+
+![Loan Portfolio Dashboard](assets/week12_looker_dashboard.png)
+
+✅ Complete · Week 12 · [Repository](https://github.com/M20Jay/loan-portfolio-analysis)
+
+---
+
 ### 🌍 Project 11 — Deforestation Risk Classifier *(Week 11)*
 **GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker · AWS**
 
