@@ -31,8 +31,6 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 📍 **Nairobi, Kenya** &nbsp;|&nbsp; ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)
 
-
-
 🔭 **Now:** Week 13 — Advanced RAG Chatbot
 🌱 **Next:** Week 14 — TBD
 
@@ -48,7 +46,6 @@ Tunajijengea sisi wenyewe. 🇰🇪
 </td>
 </tr>
 </table>
-
 
 ## 🔥 Proven Results
 
@@ -72,7 +69,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
 | **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://martin-mlops.com/churn/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
-| **02** | Real-Time Fraud Detection | LightGBM · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://martin-mlops.com/fraud/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
+| **02** | Real-Time Fraud Detection | Random Forest · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://martin-mlops.com/fraud/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/segmentation/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ [Repo](https://github.com/M20Jay/rag-unep-documents) |
 | **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://martin-mlops.com/credit/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
@@ -109,7 +106,6 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 ## 💼 Portfolio Projects
 
-
 ### 📊 Project 12 — Loan Portfolio at Scale *(Week 12)*
 
 **PySpark · BigQuery · dbt · Airbyte · Airflow · Looker Studio**
@@ -117,9 +113,12 @@ Tunajijengea sisi wenyewe. 🇰🇪
 Production loan portfolio pipeline processing 221,518 loans with full weekly automation — Airbyte syncs data, dbt transforms it, a CLV model retrains, an A/B test recalculates, all orchestrated through a single Airflow DAG.
 
 - Data: 221,518 loans, 955,815 payments, ingested via Airbyte
+
 - Metrics: PAR, DPD, NIM, CLV segmentation via BigQuery + dbt
 - Orchestration: 5-task Airflow DAG, weekly, fully automated
 - Dashboard: Looker Studio executive dashboard, live
+
+*Feeds IFRS 9 provisioning and CBK regulatory returns, not just a dashboard.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
@@ -144,9 +143,7 @@ Production deforestation risk classifier for East Africa using real satellite da
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-
 ![Airflow DAG — All 6 tasks complete](https://raw.githubusercontent.com/M20Jay/week11-forest-capstone/main/outputs/airflow_dag_complete.png)
-
 
 > ✅ Complete · Week 11 · [Repository](https://github.com/M20Jay/week11-forest-capstone)
 
@@ -173,9 +170,7 @@ Production ML pipeline orchestration layer automating the air quality system bui
 
 > ✅ Complete · Week 9 · 2 Production DAGs · Email Alerting Live · [Repository](https://github.com/M20Jay/airflow-mlops-pipeline)
 
-
 ---
-
 
 ### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6)*
 **ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker · AWS EC2**
@@ -212,6 +207,8 @@ Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor
 **XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker · AWS EC2**
 Credit risk scoring for loan applicants — answers three questions simultaneously: Will they default? Will they accept the offer? How valuable are they? Built on 252,971 real LendingClub loans. ROC-AUC 0.703. SHAP explainability for every decision — Basel III compliant audit trail. Propensity scoring, RFM segmentation, 6-panel Grafana monitoring dashboard, PostgreSQL predictions storage.
 
+*Feeds Basel III capital calculations and loan pricing, not just a scoring endpoint.*
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=flat)
@@ -225,7 +222,6 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 > ✅ Complete · Week 5 · [Repository](https://github.com/M20Jay/credit-risk-scoring-pipeline)
 
 ---
-
 
 ## 🛠️ Skills
 
@@ -304,9 +300,6 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 <img src="https://streak-stats.demolab.com/?user=M20Jay&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=M20Jay&color=4169E1&style=flat)
-
-
-
 
 <img src="https://github-trophies.vercel.app/?username=M20Jay&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
