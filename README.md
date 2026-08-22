@@ -8,9 +8,11 @@
 <tr>
 <td width="55%" valign="top">
 
-I am an ML Engineer based in Nairobi, Kenya with 10+ years of analytics experience — including 7 years delivering data science and advanced analytics to C-suite — statistical modelling, forecasting, segmentation, and executive dashboards informing board-level decisions — and 4 years building production ML systems in Python — XGBoost, LightGBM, dbt, Airflow, Kafka, FastAPI — 11 systems live on AWS and GCP.
+I am an ML Engineer based in Nairobi, Kenya with 10+ years of analytics experience — including 7 years delivering data science and advanced analytics to C-suite, and 4 years building production ML systems in Python: XGBoost, LightGBM, dbt, Airflow, Kafka, FastAPI — 11 systems live on AWS and GCP.
 
-I build systems that survive in production — from raw data pipelines through model development, containerised deployment, real-time monitoring, and automated retraining. My work spans fraud detection (284K transactions), credit risk scoring, loan portfolio analytics (221K loans · 955K payments), deforestation monitoring, air quality forecasting, and African language AI.
+I don't just build models — I build the layer around them: fraud scores that feed SIEM and case management systems, credit risk that feeds Basel III capital calculations, portfolio metrics that feed IFRS 9 provisioning. A model that can't be explained to a regulator, or doesn't plug into the system that has to act on it, isn't finished — it's a notebook wearing a production costume.
+
+My work spans fraud detection (284K transactions), credit risk scoring, loan portfolio analytics (221K loans · 955K payments), deforestation monitoring, air quality forecasting, and African language AI — each one built with the same discipline: right metric, real monitoring, and an honest answer to "what happens to this score after it's produced."
 
 Currently executing a 30-week intensive MLOps programme — one production-grade system per week, fully deployed, monitored, and documented on AWS EC2 Frankfurt. No shortcuts.
 
