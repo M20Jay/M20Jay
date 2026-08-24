@@ -320,6 +320,8 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 ---
 
-*30 weeks. 30 production projects. One complete ML Engineer. Building in public — no shortcuts.*
+*"A model that can't explain a decision, or doesn't plug into the system that acts on it, isn't finished."*
+
+### Tunajijengea sisi wenyewe. 🇰🇪
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=60&section=footer" width="100%"/>
