@@ -3,8 +3,6 @@
 
 ### Building production ML for Africa's most urgent problems — fraud, climate, and language.
 
-*Tunajijengea wenyewe 🇰🇪*
-
 <table>
 <tr>
 <td width="55%" valign="top">
