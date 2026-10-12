@@ -1,5 +1,5 @@
 
-![](https://img.shields.io/badge/ML%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Analytics-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/11%20Live%20on%20AWS%20EC2-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/ML%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Analytics-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/12%20Systems%20Shipped-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Building production ML for Africa's most urgent problems — fraud, climate, and language.
 
@@ -7,13 +7,13 @@
 <tr>
 <td width="55%" valign="top">
 
-I am an ML Engineer based in Nairobi, Kenya with 10+ years of analytics experience — including 7 years delivering data science and advanced analytics to C-suite, and 4 years building production ML systems in Python: XGBoost, LightGBM, dbt, Airflow, Kafka, FastAPI — 11 systems live on AWS and GCP.
+I am an ML Engineer based in Nairobi, Kenya with 10+ years of analytics experience — including 7 years delivering data science and advanced analytics to C-suite, and 4 years building production ML systems in Python: XGBoost, LightGBM, dbt, Airflow, Kafka, FastAPI — 12 systems shipped on AWS and GCP.
 
-I don't just build models — I build the layer around them: fraud scores that feed SIEM and case management systems, credit risk that feeds Basel III capital calculations, portfolio metrics that feed IFRS 9 provisioning. A model that can't be explained to a regulator, or doesn't plug into the system that has to act on it, isn't finished — it's a notebook wearing a production costume.
+I don't just build models — I build the layer around them: fraud scores shaped for case management systems, credit risk outputs shaped for capital and pricing calculations, portfolio metrics shaped for provisioning and regulatory reporting. These are portfolio systems built on public data, not connected to a live bank. A model that can't be explained to a regulator, or doesn't plug into the system that has to act on it, isn't finished — it's a notebook wearing a production costume.
 
-My work spans fraud detection (284K transactions), credit risk scoring, loan portfolio analytics (221K loans · 955K payments), deforestation monitoring, air quality forecasting, and African language AI — each one built with the same discipline: right metric, real monitoring, and an honest answer to "what happens to this score after it's produced."
+My work spans fraud detection (284K transactions), credit risk scoring, loan portfolio analytics (221K loans · 955K payments), deforestation monitoring, air quality forecasting, and African language AI — each one built with the same discipline: right metric, leakage-free evaluation, real monitoring, and an honest answer to "what happens to this score after it's produced."
 
-Currently executing a 30-week intensive MLOps programme — one production-grade system per week, fully deployed, monitored, and documented on AWS EC2 Frankfurt. No shortcuts.
+Phase 1 shipped: 12 production systems. Phase 2 onward (below): Terraform and Kubernetes, LLM and agent engineering, epidemiological modelling, and a Kiswahili RAG + agent capstone.
 
 Tunajijengea sisi wenyewe. 🇰🇪
 
@@ -32,15 +32,15 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 📍 **Nairobi, Kenya** &nbsp;|&nbsp; ✉️ [ngangam93@gmail.com](mailto:ngangam93@gmail.com)
 
-🔭 **Now:** Week 13 — Account Takeover / Behavioral Anomaly Detection
-🌱 **Next:** Week 14 — TBD
+🔭 **Now:** Phase 2 — hardening churn, fraud and credit risk (leakage-free CV, out-of-fold thresholds, calibration)
+🌱 **Next:** Terraform + ECS, then Kubernetes
 
 </td>
 <td width="50%" valign="top" align="center">
 
-![Systems](https://img.shields.io/badge/Systems%20Built-11-4169E1?style=for-the-badge)
+![Systems](https://img.shields.io/badge/Systems%20Built-12-4169E1?style=for-the-badge)
 ![Live](https://img.shields.io/badge/Live%20on%20AWS-8-brightgreen?style=for-the-badge)
-![Week](https://img.shields.io/badge/Week-12%2F30-orange?style=for-the-badge)
+![Phase](https://img.shields.io/badge/Now-Phase%202-orange?style=for-the-badge)
 
 *"Data is only as powerful as the institution's willingness to act on it."*
 
@@ -55,8 +55,8 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | 🌍 **Deforestation Risk Classifier** | GFW satellite API · Random Forest · SageMaker Training Jobs · S3 Parquet · East Africa · scipy KS + PSI drift monitoring · live API |
 | 🌍 **Environmental anomaly detection** | ARIMA RMSE 9.93 · PM2.5 spike 469 µg/m³ detected · 11,998 OpenAQ readings · live dashboard + API |
 | 🎬 **Movie Recommendation System** | Item-CF RMSE 0.9540 · P@10 69.7% · 943 users · 1,682 movies · CineAI Netflix-standard dashboard · live |
-| 🎯 **Real-time fraud detection** | 284,807 transactions · Kafka streaming · 22ms response · live production API |
-| 💳 **Credit risk scoring + SHAP explainability** | XGBoost · ROC-AUC 0.703 · SHAP waterfall · Basel III ready · live production API |
+| 🎯 **Real-time fraud detection** | 284,807 transactions · Random Forest · Kafka streaming · 22ms API response · live production API |
+| 💳 **Credit risk scoring + SHAP explainability** | XGBoost · SHAP waterfall per decision · audit-trail-friendly · live production API · ROC-AUC (0.703) being re-measured with leakage-free CV |
 | 📊 **Loan Portfolio at Scale** | 221,518 loans · BigQuery + dbt + Airbyte · 5-task Airflow DAG, fully automated · Looker Studio dashboard · live |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
@@ -64,46 +64,64 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 ## 🗓️ 30-Week MLOps Programme
 
-*One production-grade system per week — built, deployed, monitored, and documented on AWS EC2 Frankfurt. Real data. Real APIs. No tutorials.*
+*Phase 1: 12 production systems, built, deployed, monitored and documented on AWS EC2 Frankfurt. Phases 2–7: what comes next. Real data. Real APIs.*
 
-![Progress](https://geps.dev/progress/40?successColor=4169E1) **Week 12 complete — 12 done · 18 remaining**
+![Progress](https://geps.dev/progress/3?successColor=4169E1) **Phase 1 complete — 12 systems shipped · Phase 2 in progress**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://martin-mlops.com/churn/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) |
-| **02** | Real-Time Fraud Detection | Random Forest · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://martin-mlops.com/fraud/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) |
+| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://martin-mlops.com/churn/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) · 🔧 rigour re-run |
+| **02** | Real-Time Fraud Detection | Random Forest · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://martin-mlops.com/fraud/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) · 🔧 rigour re-run |
 | **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/segmentation/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System *(evolving toward LangChain · FAISS · pgvector · RAGAS · Langfuse)* | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ [Repo](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://martin-mlops.com/credit/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://martin-mlops.com/credit/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) · 🔧 rigour re-run |
 | **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://dashboard.martin-mlops.com) · [API](https://martin-mlops.com/airquality/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
 | **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation.martin-mlops.com) · [API](https://martin-mlops.com/recommend/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
 | **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
 | **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/deforestation/docs) · [Repo](https://github.com/M20Jay/week11-forest-capstone) |
-| **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · ClickHouse · Debezium · Vertex AI · Looker Studio | ✅ [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
-| **13** | Account Takeover / Behavioral Anomaly Detection | Sequence modeling · Vertex AI Training · FastAPI · Langfuse observability | ⏳ Pending · Prototype |
-| **14** | NLP + Computer Vision + Transfer Learning | BERT fine-tuning · spaCy NER · CNN · ResNet · HuggingFace Hub · Stripe/M-Pesa API intro | ⏳ Pending |
-| **15** | Kiswahili NLP + Whisper Speech-to-Text 🌍 | AfriBERTa · LaBSE · Whisper STT · HuggingFace Hub · 200M+ East Africans | ⏳ Pending · [Prototype](https://github.com/M20Jay/kiswahili-nlp) |
-| **16** | Lambda + API Gateway + Evidently Production Hardening | AWS Lambda · API Gateway · serverless FastAPI · Evidently AI · Giskard · LendingClub/PaySim | ⏳ Planned |
-| **17** | Terraform + Kubernetes | Terraform · Kubernetes · Helm · kubectl · Infrastructure as Code · auto-scaling | ⏳ Planned |
-| **18** | Data Lakehouse + Streaming + Apache NiFi | Delta Lake · Apache Iceberg · Kafka Streams · Flink · Apache NiFi · Feast · Great Expectations | ⏳ Planned |
-| **19** | M-Pesa + Safaricom API Pipeline | Safaricom API · STK Push · C2B · B2C · propensity model · GCP Cloud Run · Airflow DAG | ⏳ Planned |
-| **20** | Security + IAM + Secrets Manager | AWS Secrets Manager · IAM roles · least privilege · audit logging · SOC2 awareness | ⏳ Planned |
-| **21** | Giskard + Model Governance | Giskard bias testing · model cards · fairness metrics · demographic parity · IEEE-CIS | ⏳ Planned |
-| **22** | SageMaker Pipelines + Model Registry | SageMaker Pipelines · model approval workflow · A/B deployment · canary releases | ⏳ Planned |
-| **23** | Vertex AI Pipelines | Vertex Pipelines · Cloud Run · model registry governance · GCP MLOps patterns | ⏳ Planned |
-| **24** | ELK Stack + Advanced Observability | Elasticsearch · Logstash · Kibana · log monitoring · alerting · comparison with Grafana stack | ⏳ Planned |
-| **25** | LLM Fine-tuning (LoRA/QLoRA) | LoRA · QLoRA · PEFT · PyTorch · HuggingFace Trainer · vLLM · model merging | ⏳ Planned |
-| **26** | African Language AI Capstone 🌍 | Kiswahili + Sheng + Luo NLP · multilingual models · AfriBERTa · Whisper · HuggingFace Hub | ⏳ Planned |
-| **27** | Agentic AI Systems + MCP | LangGraph · MCP · multi-agent · tool use · function calling · 7 memory types · Redis · pgvector | ⏳ Planned |
-| **28** | Portfolio Hardening + Mock Interviews | README polish · system design practice · whiteboard problems · mock technical interviews | ⏳ Planned |
-| **29** | System Design + Whiteboard Practice | ML system design · distributed systems · scalability · data pipeline design · STAR method | ⏳ Planned |
-| **30** | Final Capstone + Job Sprint | Complete production AI system · Kiswahili LLM + RAG + Agents + MCP + Kubernetes + full monitoring · targeted applications to 10 companies | ⏳ Planned |
+| **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · Looker Studio | ✅ [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
 
-*Every system: production-grade code · containerised · documented · tested · no shortcuts.*
+**Parked prototype:** Account Takeover / Behavioral Anomaly Detection → [account-takeover-detection](https://github.com/M20Jay/account-takeover-detection) · resumes after Phase 2.
 
-![Week](https://img.shields.io/badge/Week-11%2F30-4169E1?style=flat)&nbsp;![APIs](https://img.shields.io/badge/Live%20Systems-11%20on%20AWS%20EC2-brightgreen?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Week%2012-orange?style=flat)
+### 🔧 Phase 2 — In progress
+
+| Step | Project | Stack | Status |
+|------|---------|-------|--------|
+| **2.1** | Evaluation rigour pass: churn, fraud, credit risk | StratifiedKFold · imblearn Pipeline · OOF thresholds · isotonic calibration · PR-AUC | 🔧 In progress |
+| **2.2** | Terraform + ECS reference architecture; Great Expectations on loan pipeline | Terraform · ECR · ECS Fargate · IAM · Secrets Manager · Great Expectations | ⏳ Planned |
+| **2.3** | Kubernetes + Helm | Kubernetes · Helm · probes · autoscaling | ⏳ Planned |
+| **2.4** | CI/CD with rollback; observability | GitHub Actions · Prometheus · Grafana · Evidently alerts | ⏳ Planned |
+
+<details>
+<summary><b>▶ Phases 3–7: what comes next (click to expand)</b></summary>
+
+| Step | Project | Stack | Status |
+|------|---------|-------|--------|
+| **Phase 3** | **LLM and agents** | | |
+| **3.1** | RAG v2 | pgvector · hybrid retrieval · RAGAS · Langfuse · FastAPI | ⏳ Planned |
+| **3.2** | LLM serving + guardrails | vLLM · evaluation harness · regression tests | ⏳ Planned |
+| **3.3** | Fine-tuning | LoRA · QLoRA · PEFT · model card | ⏳ Planned |
+| **3.4** | Agents + MCP | LangGraph · MCP · tool use · memory | ⏳ Planned |
+| **3.5** | Second-cloud LLM service | Azure OpenAI / Bedrock | ⏳ Planned |
+| **Phase 4** | **Applied science** | | |
+| **4.1** | SIR / SEIR epidemiology 🌍 | SciPy ODEs · R0 · scenarios · Prophet/ARIMA comparison · MLflow · Streamlit | ⏳ Planned |
+| **4.2** | Intelligent Supply Chain | Demand forecasting · supplier risk · anomaly detection · procurement optimiser | ⏳ Planned |
+| **4.3** | Experimentation | A/B test simulation · confounders · observational vs randomised | ⏳ Planned |
+| **Phase 5** | **Data engineering depth** | | |
+| **5.1–5.5** | Warehouse modelling, Spark tuning, streaming + data contracts, governance, API design | star schema · PySpark · Kafka · lineage · versioned APIs | ⏳ Planned |
+| **Phase 6** | **Security and reliability** | | |
+| **6.1–6.6** | Security + IAM, model governance, inference optimisation, reliability + SLOs, time-series backtesting | least privilege · model cards · quantisation · load testing · rolling-origin backtests | ⏳ Planned |
+| **Phase 7** | **Capstone** | | |
+| **7.1–7.3** | Kiswahili RAG + agent system on Kubernetes 🌍 | AfriBERTa · LaBSE · pgvector · LangGraph · Kubernetes · monitoring · evaluation | ⏳ Planned |
+| **7.4–7.6** | Portfolio hardening, system design drills, final review | READMEs · diagrams · 10 worked system designs | ⏳ Planned |
+
+</details>
+
+*Every system: runs from a clean clone · leakage-free evaluation · monitoring or tests · plain-language README.*
+
+![Phase 1](https://img.shields.io/badge/Phase%201-12%20systems%20shipped-4169E1?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Phase%202-orange?style=flat)
 ---
 
 ## 💼 Portfolio Projects
@@ -120,7 +138,7 @@ Production loan portfolio pipeline processing 221,518 loans with full weekly aut
 - Orchestration: 5-task Airflow DAG, weekly, fully automated
 - Dashboard: Looker Studio executive dashboard, live
 
-*Feeds IFRS 9 provisioning and CBK regulatory returns, not just a dashboard.*
+*Produces PAR, DPD and NIM metrics in the shape provisioning and regulatory reporting need — designed to feed those processes, not just a dashboard.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
@@ -207,9 +225,9 @@ Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor
 
 ### 💳 Project 5 — Credit Risk Scoring Pipeline *(Week 5)*
 **XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker · AWS EC2**
-Credit risk scoring for loan applicants — answers three questions simultaneously: Will they default? Will they accept the offer? How valuable are they? Built on 252,971 real LendingClub loans. ROC-AUC 0.703. SHAP explainability for every decision — Basel III compliant audit trail. Propensity scoring, RFM segmentation, 6-panel Grafana monitoring dashboard, PostgreSQL predictions storage.
+Credit risk scoring for loan applicants — answers three questions simultaneously: Will they default? Will they accept the offer? How valuable are they? Built on 252,971 real LendingClub loans. ROC-AUC 0.703 (being re-measured with leakage-free cross-validation and calibration). SHAP explanation stored for every decision — an audit-trail-friendly design. Propensity scoring, RFM segmentation, 6-panel Grafana monitoring dashboard, PostgreSQL predictions storage.
 
-*Feeds Basel III capital calculations and loan pricing, not just a scoring endpoint.*
+*Outputs a default probability designed to feed capital and pricing calculations, not just a scoring endpoint.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
@@ -276,14 +294,14 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 | Area | Skills |
 |------|--------|
 | **Fintech ML** | Credit risk · fraud detection · CLV · RFM · propensity models · PAR · NIM · DPD · cohort analysis · 5 fintech domains |
-| **Machine Learning** | Fraud detection · churn · credit risk · segmentation · time series forecasting · anomaly detection · SHAP explainability |
+| **Machine Learning** | Fraud detection · churn · credit risk · segmentation · time series forecasting · anomaly detection · SHAP explainability · leakage-free cross-validation · calibration · threshold selection |
 | **Deep Learning** | LSTM (PyTorch) · sequence modelling · time series · OOP neural network architecture |
 | **MLOps** | End-to-end pipelines · Docker · MLflow · Evidently drift monitoring · pytest · DVC |
 | **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-22ms latency |
 | **NLP & RAG** | Semantic search · LaBSE · ChromaDB · vector embeddings · multilingual · 109 languages |
 | **Environmental ML** | Air quality forecasting · PM2.5 anomaly detection · OpenAQ · ARIMA · Isolation Forest |
 | **Cloud AWS** | EC2 · S3 · RDS · IAM · SageMaker · Route 53 · Nginx · HTTPS |
-| **Cloud GCP** | BigQuery · BigQuery ML · Vertex AI · Cloud Run · Looker Studio |
+| **Cloud GCP** | BigQuery · BigQuery ML · Cloud Run · Looker Studio |
 | **Research & M&E** | MSc Marketing Analytics · World Bank KYEOP · RBM · 50+ KPI frameworks · Board diversity research |
 
 ---
@@ -312,7 +330,7 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 ## 🏆 Goals
 
 - 🎓 **MSc Marketing Analytics** — University of Nairobi
-- 🌍 **Kiswahili NLP** — Building African language AI for East African communities — Full system Week 15
+- 🌍 **Kiswahili NLP** — Building African language AI for East African communities — capstone in Phase 7
 - ☁️ **AWS + GCP Certification** — Target 2026
 - 🎓 **Georgia Tech OMSCS** — MSc Computer Science, AI Specialisation — Target Aug 2027
 - 🔬 **PhD Quantitative Finance / Financial Data Science** — AfDB / NUS / Edinburgh — Target 2029
