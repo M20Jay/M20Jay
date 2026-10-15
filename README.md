@@ -106,9 +106,9 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | **3.4** | Agents + MCP | LangGraph · MCP · tool use · memory | ⏳ Planned |
 | **3.5** | Second-cloud LLM service | Azure OpenAI / Bedrock | ⏳ Planned |
 | **Phase 4** | **Applied science** | | |
-| **4.1** | SIR / SEIR epidemiology 🌍 | SciPy ODEs · R0 · scenarios · Prophet/ARIMA comparison · MLflow · Streamlit | ⏳ Planned |
+| **4.1** | SIR / SEIR epidemiology 🌍 | SciPy ODEs · R0 · scenarios · Prophet/ARIMA comparison · Bayesian parameter fitting (PyMC) · MLflow · Streamlit | ⏳ Planned |
 | **4.2** | Intelligent Supply Chain | Demand forecasting · supplier risk · anomaly detection · procurement optimiser | ⏳ Planned |
-| **4.3** | Experimentation | A/B test simulation · confounders · observational vs randomised | ⏳ Planned |
+| **4.3** | Experimentation | A/B test simulation · Bayesian A/B testing (Beta-Binomial, expected loss) · confounders · observational vs randomised | ⏳ Planned |
 | **Phase 5** | **Data engineering depth** | | |
 | **5.1–5.5** | Warehouse modelling, Spark tuning, streaming + data contracts, governance, API design | star schema · PySpark · Kafka · lineage · versioned APIs | ⏳ Planned |
 | **Phase 6** | **Security and reliability** | | |
