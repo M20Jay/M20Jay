@@ -66,7 +66,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 *Phase 1: 12 production systems, built, deployed, monitored and documented on AWS EC2 Frankfurt. Phases 2–7: what comes next. Real data. Real APIs.*
 
-![Progress](https://geps.dev/progress/3?successColor=4169E1) **Phase 1 complete — 12 systems shipped · Phase 2 in progress**
+![Progress](https://geps.dev/progress/40?successColor=4169E1) **Phase 1 complete — 12 systems shipped · Phase 2 in progress**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
