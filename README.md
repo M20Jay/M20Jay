@@ -100,7 +100,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | Step | Project | Stack | Status |
 |------|---------|-------|--------|
 | **Phase 3** | **LLM and agents** | | |
-| **3.1** | RAG v2 | pgvector · hybrid retrieval · RAGAS · Langfuse · FastAPI | ⏳ Planned |
+| **3.1** | RAG v2 | modular src/ structure · tests per component · pgvector · hybrid retrieval · RAGAS · Langfuse · FastAPI | ⏳ Planned |
 | **3.2** | LLM serving + guardrails | vLLM · evaluation harness · regression tests | ⏳ Planned |
 | **3.3** | Fine-tuning | LoRA · QLoRA · PEFT · model card | ⏳ Planned |
 | **3.4** | Agents + MCP | LangGraph · MCP · tool use · memory | ⏳ Planned |
