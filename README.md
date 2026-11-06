@@ -39,7 +39,6 @@ Tunajijengea sisi wenyewe. 🇰🇪
 <td width="50%" valign="top" align="center">
 
 ![Systems](https://img.shields.io/badge/Systems%20Built-12-4169E1?style=for-the-badge)
-![Live](https://img.shields.io/badge/Live%20on%20AWS-8-brightgreen?style=for-the-badge)
 ![Phase](https://img.shields.io/badge/Now-Phase%202-orange?style=for-the-badge)
 
 *"Data is only as powerful as the institution's willingness to act on it."*
@@ -52,35 +51,36 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 | Achievement | Detail |
 |-------------|--------|
-| 🌍 **Deforestation Risk Classifier** | GFW satellite API · Random Forest · SageMaker Training Jobs · S3 Parquet · East Africa · scipy KS + PSI drift monitoring · live API |
-| 🌍 **Environmental anomaly detection** | ARIMA RMSE 9.93 · PM2.5 spike 469 µg/m³ detected · 11,998 OpenAQ readings · live dashboard + API |
-| 🎬 **Movie Recommendation System** | Item-CF RMSE 0.9540 · P@10 69.7% · 943 users · 1,682 movies · CineAI Netflix-standard dashboard · live |
-| 🎯 **Real-time fraud detection** | 284,807 transactions · Random Forest · Kafka streaming · 22ms API response · live production API |
-| 💳 **Credit risk scoring + SHAP explainability** | XGBoost · SHAP waterfall per decision · audit-trail-friendly · live production API · ROC-AUC (0.703) being re-measured with leakage-free CV |
-| 📊 **Loan Portfolio at Scale** | 221,518 loans · BigQuery + dbt + Airbyte · 5-task Airflow DAG, fully automated · Looker Studio dashboard · live |
+| 🌍 **Deforestation Risk Classifier** | GFW satellite API · Random Forest · SageMaker Training Jobs · S3 Parquet · East Africa · scipy KS + PSI drift monitoring |
+| 🌍 **Environmental anomaly detection** | ARIMA RMSE 9.93 · PM2.5 spike 469 µg/m³ detected · 11,998 OpenAQ readings |
+| 🎬 **Movie Recommendation System** | Item-CF RMSE 0.9540 · P@10 69.7% · 943 users · 1,682 movies · CineAI Netflix-standard dashboard |
+| 🎯 **Real-time fraud detection** | 284,807 transactions · Random Forest · Kafka streaming · 22ms API response |
+| 💳 **Credit risk scoring + SHAP explainability** | XGBoost · SHAP waterfall per decision · audit-trail-friendly · ROC-AUC (0.703) being re-measured with leakage-free CV |
+| 📊 **Loan Portfolio at Scale** | 221,518 loans · BigQuery + dbt + Airbyte · 5-task Airflow DAG, fully automated · Looker Studio dashboard |
 | 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
+
 ---
 
-## 🗓️ 30-Week MLOps Programme
+## 🚀 Production ML Systems
 
-*Phase 1: 12 production systems, built, deployed, monitored and documented on AWS EC2 Frankfurt. Phases 2–7: what comes next. Real data. Real APIs.*
+*12 production ML systems on real data, from fraud and credit risk to air quality and satellite forest monitoring. Phase 2 is in progress: re-measuring the core models with leakage-free evaluation.*
 
 ![Progress](https://geps.dev/progress/40?successColor=4169E1) **Phase 1 complete — 12 systems shipped · Phase 2 in progress**
 
 | Week | Project | Stack | Status |
 |------|---------|-------|--------|
-| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Live API](https://martin-mlops.com/churn/docs) · [Repo](https://github.com/M20Jay/churn-prediction-pipeline) · 🔧 rigour re-run |
-| **02** | Real-Time Fraud Detection | Random Forest · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Live API](https://martin-mlops.com/fraud/docs) · [Repo](https://github.com/M20Jay/fraud-detection-pipeline) · 🔧 rigour re-run |
-| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/segmentation/docs) · [Repo](https://github.com/M20Jay/customer-segmentation) |
+| **01** | Churn Prediction Pipeline | XGBoost · FastAPI · Docker · PostgreSQL · Grafana | ✅ [Repo](https://github.com/M20Jay/churn-prediction-pipeline) · 🔧 rigour re-run |
+| **02** | Real-Time Fraud Detection | Random Forest · Kafka · Redis · FastAPI · Docker · Grafana | ✅ [Repo](https://github.com/M20Jay/fraud-detection-pipeline) · 🔧 rigour re-run |
+| **03** | Customer Segmentation | KMeans · PCA · MLflow · Evidently · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/customer-segmentation) |
 | **04** | RAG Document Search System *(evolving toward LangChain · FAISS · pgvector · RAGAS · Langfuse)* | LaBSE · ChromaDB · FastAPI · pypdf · Docker | ✅ [Repo](https://github.com/M20Jay/rag-unep-documents) |
-| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Live API](https://martin-mlops.com/credit/docs) · [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) · 🔧 rigour re-run |
-| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Dashboard](https://dashboard.martin-mlops.com) · [API](https://martin-mlops.com/airquality/docs) · [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
-| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Dashboard](https://recommendation.martin-mlops.com) · [API](https://martin-mlops.com/recommend/docs) · [Repo](https://github.com/M20Jay/recommendation-system) |
+| **05** | Credit Risk Scoring + Propensity + RFM | XGBoost · SHAP · ADASYN · DVC · RFM · FastAPI · PostgreSQL · Grafana · Docker | ✅ [Repo](https://github.com/M20Jay/credit-risk-scoring-pipeline) · 🔧 rigour re-run |
+| **06** | Environmental Anomaly Detection + Time Series 🌍 | ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/air-quality-anomaly-detection) |
+| **07** | Recommendation System | Item-CF · SVD · scikit-surprise · FastAPI · Streamlit · PostgreSQL · Docker | ✅ [Repo](https://github.com/M20Jay/recommendation-system) |
 | **08** | MLOps Automation | MLflow · DVC · Evidently AI · GitHub Actions · Prefect | ✅ Complete |
 | **09** | Apache Airflow — Pipeline Orchestration | Airflow · DAGs · Scheduling · Docker · LocalExecutor | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
-| **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ [Repo](https://github.com/M20Jay/airflow-mlops-pipeline) |
-| **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Live API](https://martin-mlops.com/deforestation/docs) · [Repo](https://github.com/M20Jay/week11-forest-capstone) |
+| **10** | AWS Deep Dive — Permanent Infrastructure | Elastic IP · Route 53 · Nginx · HTTPS · S3 · RDS | ✅ Complete |
+| **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/week11-forest-capstone) |
 | **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · Looker Studio | ✅ [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
 
 **Parked prototype:** Account Takeover / Behavioral Anomaly Detection → [account-takeover-detection](https://github.com/M20Jay/account-takeover-detection) · resumes after Phase 2.
@@ -122,9 +122,10 @@ Tunajijengea sisi wenyewe. 🇰🇪
 *Every system: runs from a clean clone · leakage-free evaluation · monitoring or tests · plain-language README.*
 
 ![Phase 1](https://img.shields.io/badge/Phase%201-12%20systems%20shipped-4169E1?style=flat)&nbsp;![Building](https://img.shields.io/badge/Currently%20Building-Phase%202-orange?style=flat)
+
 ---
 
-## 💼 Portfolio Projects
+## 💼 Featured Projects
 
 ### 📊 Project 12 — Loan Portfolio at Scale *(Week 12)*
 
@@ -156,7 +157,7 @@ Production deforestation risk classifier for East Africa using real satellite da
 - Countries covered: Kenya · Tanzania · Uganda · Ethiopia · DRC
 - Drift monitoring: scipy KS test + PSI (Population Stability Index)
 - Pipeline: GFW API → S3 Parquet → SageMaker Training Job → FastAPI → Grafana monitoring
-- 74.9ms API response time · live on AWS EC2 Frankfurt
+- 74.9ms API response time
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -166,29 +167,6 @@ Production deforestation risk classifier for East Africa using real satellite da
 ![Airflow DAG — All 6 tasks complete](https://raw.githubusercontent.com/M20Jay/week11-forest-capstone/main/outputs/airflow_dag_complete.png)
 
 > ✅ Complete · Week 11 · [Repository](https://github.com/M20Jay/week11-forest-capstone)
-
----
-### ⚙️ Project 9 — Apache Airflow ML Pipeline Orchestration *(Week 9)*
-**Apache Airflow · DAGs · LocalExecutor · Docker · AWS EC2 · Gmail SMTP**
-
-Production ML pipeline orchestration layer automating the air quality system built in Week 6. Two DAGs run every Monday at 5am — a sequential retraining pipeline and a parallel training pipeline where LSTM and ARIMA train simultaneously.
-
-**The problem solved:** A model trained once and never monitored is not a production system — it is a time bomb. Airflow ensures automatic weekly retraining on fresh OpenAQ data, catching seasonal drift before it degrades forecast accuracy.
-
-- Sequential DAG: `pull_data → retrain_model → evaluate_model`
-- Parallel DAG: `pull_data → [train_lstm + train_arima] → evaluate → notify`
-- Email alert fires within seconds of any task failure
-- Systemd service auto-restarts on server reboot
-- Upgraded from t3.small to t3.medium after real production OOM crash at 2am
-
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-<img src="https://github.com/M20Jay/airflow-mlops-pipeline/raw/main/assets/parallel_training_graph.png" width="65%" alt="Parallel DAG — LSTM and ARIMA training simultaneously"/>
-
-> ✅ Complete · Week 9 · 2 Production DAGs · Email Alerting Live · [Repository](https://github.com/M20Jay/airflow-mlops-pipeline)
 
 ---
 
