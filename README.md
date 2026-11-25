@@ -83,19 +83,19 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | **11** | Environmental Capstone 🌍 | GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker | ✅ [Repo](https://github.com/M20Jay/week11-forest-capstone) |
 | **12** | Loan Portfolio at Scale — Modern Data Stack | PySpark · BigQuery · BigQuery ML · Airbyte · dbt · CLV · Looker Studio | ✅ [Repo](https://github.com/M20Jay/loan-portfolio-analysis) |
 
-**Parked prototype:** Account Takeover / Behavioral Anomaly Detection → [account-takeover-detection](https://github.com/M20Jay/account-takeover-detection) · resumes after Phase 2.
+**Parked prototype:** Account Takeover / Behavioral Anomaly Detection → [account-takeover-detection](https://github.com/M20Jay/account-takeover-detection) · resumes in Phase 8 (2027 track).
 
 ### 🔧 Phase 2 — In progress
 
 | Step | Project | Stack | Status |
 |------|---------|-------|--------|
-| **2.1** | Evaluation rigour pass: churn, fraud, credit risk | StratifiedKFold · imblearn Pipeline · OOF thresholds · isotonic calibration · PR-AUC | 🔧 In progress |
-| **2.2** | Terraform + ECS reference architecture; Great Expectations on loan pipeline | Terraform · ECR · ECS Fargate · IAM · Secrets Manager · Great Expectations | ⏳ Planned |
+| **2.1** | Evaluation rigour pass: churn, fraud, credit risk | StratifiedKFold · imblearn Pipeline · OOF thresholds · isotonic calibration · PR-AUC · cost-based threshold | 🔧 In progress |
+| **2.2** | Cloud architecture reference build: Terraform + ECS, private networking, managed data; Great Expectations on loan pipeline | Terraform · VPC (private subnets) · ALB · ECR · ECS Fargate · RDS · S3 · IAM · Secrets Manager · multi-AZ and cost notes · architecture diagram · Great Expectations | ⏳ Planned |
 | **2.3** | Kubernetes + Helm | Kubernetes · Helm · probes · autoscaling | ⏳ Planned |
 | **2.4** | CI/CD with rollback; observability | GitHub Actions · Prometheus · Grafana · Evidently alerts | ⏳ Planned |
 
 <details>
-<summary><b>▶ Phases 3–7: what comes next (click to expand)</b></summary>
+<summary><b>▶ Phases 3–8: what comes next (click to expand)</b></summary>
 
 | Step | Project | Stack | Status |
 |------|---------|-------|--------|
@@ -104,7 +104,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | **3.2** | LLM serving + guardrails | vLLM · evaluation harness · regression tests | ⏳ Planned |
 | **3.3** | Fine-tuning | LoRA · QLoRA · PEFT · model card | ⏳ Planned |
 | **3.4** | Agents + MCP | LangGraph · MCP · tool use · memory | ⏳ Planned |
-| **3.5** | Second-cloud LLM service | Azure OpenAI / Bedrock | ⏳ Planned |
+| **3.5** | Second-cloud LLM service + Azure data basics | Azure OpenAI / Bedrock · Azure Data Factory or Fabric (overview) | ⏳ Planned |
 | **Phase 4** | **Applied science** | | |
 | **4.1** | SIR / SEIR epidemiology 🌍 | SciPy ODEs · R0 · scenarios · Prophet/ARIMA comparison · Bayesian parameter fitting (PyMC) · MLflow · Streamlit | ⏳ Planned |
 | **4.2** | Intelligent Supply Chain | Demand forecasting · supplier risk · anomaly detection · procurement optimiser | ⏳ Planned |
@@ -116,8 +116,14 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | **Phase 7** | **Capstone** | | |
 | **7.1–7.3** | Kiswahili RAG + agent system on Kubernetes 🌍 | AfriBERTa · LaBSE · pgvector · LangGraph · Kubernetes · monitoring · evaluation | ⏳ Planned |
 | **7.4–7.6** | Portfolio hardening, system design drills, final review | READMEs · diagrams · 10 worked system designs | ⏳ Planned |
+| **Phase 8** | **Fraud, identity and financial-crime AI (2027 track)** | | |
+| **8.1** | Agentic KYC review with guardrails | LangGraph · untrusted-input handling (OCR text) · hard guardrails · agent-vs-human evaluation · logging | ⏳ Planned |
+| **8.2** | Document forgery and deepfake detection; liveness | Computer vision · deep learning · evaluation on public datasets | ⏳ Planned |
+| **8.3** | Account takeover / behavioural anomaly detection (resumes the parked prototype) | Behavioural features · anomaly detection · cost-based thresholds | ⏳ Planned |
 
 </details>
+
+**Postgraduate (planned, 2027, subject to admission):** an online MS in Computer Science (AI or Machine Learning specialization), to add theory in machine learning, deep learning, computer vision and NLP.
 
 *Every system: runs from a clean clone · leakage-free evaluation · monitoring or tests · plain-language README.*
 
