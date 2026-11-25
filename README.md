@@ -1,19 +1,19 @@
 
 ![](https://img.shields.io/badge/ML%20Engineer-4169E1?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/Nairobi%2C%20Kenya%20🇰🇪-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/10%2B%20Years%20Analytics-4169E1?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/12%20Systems%20Shipped-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Building production ML for Africa's most urgent problems — fraud, climate, and language.
+### Fraud and credit-risk ML first, plus climate and Kiswahili AI. Built in Nairobi, for African data.
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-I am an ML Engineer based in Nairobi, Kenya with 10+ years of analytics experience — including 7 years delivering data science and advanced analytics to C-suite, and 4 years building production ML systems in Python: XGBoost, LightGBM, dbt, Airflow, Kafka, FastAPI — 12 systems shipped on AWS and GCP.
+I'm an ML engineer in Nairobi with 10+ years of analytics experience: 7 delivering data science to the C-suite, 4 building production ML systems in Python (XGBoost, dbt, Airflow, Kafka, FastAPI). 12 systems shipped on AWS and GCP.
 
-I don't just build models — I build the layer around them: fraud scores shaped for case management systems, credit risk outputs shaped for capital and pricing calculations, portfolio metrics shaped for provisioning and regulatory reporting. These are portfolio systems built on public data, not connected to a live bank. A model that can't be explained to a regulator, or doesn't plug into the system that has to act on it, isn't finished — it's a notebook wearing a production costume.
+I build the layer around the model: fraud scores shaped for case management, credit risk outputs shaped for capital and pricing, portfolio metrics shaped for provisioning and regulatory reporting. Public data, not a live bank, but built to the standard a regulator would ask for. A model that can't be explained to a regulator, or doesn't plug into the system that acts on it, isn't finished.
 
-My work spans fraud detection (284K transactions), credit risk scoring, loan portfolio analytics (221K loans · 955K payments), deforestation monitoring, air quality forecasting, and African language AI — each one built with the same discipline: right metric, leakage-free evaluation, real monitoring, and an honest answer to "what happens to this score after it's produced."
+Same discipline every time: the right metric, leakage-free evaluation, monitoring, and an honest answer to "what happens to this score after it's produced?"
 
-Phase 1 shipped: 12 production systems. Phase 2 onward (below): Terraform and Kubernetes, LLM and agent engineering, epidemiological modelling, and a Kiswahili RAG + agent capstone.
+Now building: cloud architecture, LLM and agent systems with evals and guardrails, and fraud and identity AI.
 
 Tunajijengea sisi wenyewe. 🇰🇪
 
