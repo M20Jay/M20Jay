@@ -47,17 +47,16 @@ Tunajijengea sisi wenyewe. 🇰🇪
 </tr>
 </table>
 
-## 🔥 Proven Results
+## 🔥 Selected Results
 
 | Achievement | Detail |
 |-------------|--------|
-| 🌍 **Deforestation Risk Classifier** | GFW satellite API · Random Forest · SageMaker Training Jobs · S3 Parquet · East Africa · scipy KS + PSI drift monitoring |
-| 🌍 **Environmental anomaly detection** | ARIMA RMSE 9.93 · PM2.5 spike 469 µg/m³ detected · 11,998 OpenAQ readings |
-| 🎬 **Movie Recommendation System** | Item-CF RMSE 0.9540 · P@10 69.7% · 943 users · 1,682 movies · CineAI Netflix-standard dashboard |
-| 🎯 **Real-time fraud detection** | 284,807 transactions · Random Forest · Kafka streaming · 22ms API response |
+| 🎯 **Real-time fraud detection** | 284,807 transactions · Random Forest · Kafka streaming · 22ms API response · leakage-free evaluation and cost-based threshold (Phase 2, in progress) |
 | 💳 **Credit risk scoring + SHAP explainability** | XGBoost · SHAP waterfall per decision · audit-trail-friendly · ROC-AUC (0.703) being re-measured with leakage-free CV |
 | 📊 **Loan Portfolio at Scale** | 221,518 loans · BigQuery + dbt + Airbyte · 5-task Airflow DAG, fully automated · Looker Studio dashboard |
-| 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP — A-rating from Ministry of Public Service |
+| 🌍 **Deforestation Risk Classifier** | GFW satellite API · Random Forest · SageMaker Training Jobs · S3 Parquet · East Africa · scipy KS + PSI drift monitoring |
+| 🌍 **Environmental anomaly detection** | ARIMA RMSE 9.93 µg/m³ (beat LSTM 19.46, Prophet 22.05) · PM2.5 spike 469 µg/m³ detected · 11,998 OpenAQ readings |
+| 📊 **Institutional M&E Architecture** | 50+ KPIs · Results-Based Management · World Bank KYEOP: A-rating from Ministry of Public Service |
 | 🏆 **Best Paper Award** | 22nd International ICIT · Beijing Institute of Technology · 2018 · 34 countries |
 
 ---
