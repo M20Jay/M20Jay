@@ -13,7 +13,7 @@ I build the layer around the model: fraud scores shaped for case management, cre
 
 Same discipline every time: the right metric, leakage-free evaluation, monitoring, and an honest answer to "what happens to this score after it's produced?"
 
-Now building: cloud architecture, LLM and agent systems with evals and guardrails, and fraud and identity AI.
+Now: hardening my fraud, churn and credit-risk models (leakage-free evaluation, calibration, cost-based thresholds). Next: cloud architecture, LLM and agent systems with evals and guardrails, then fraud and identity AI.
 
 Tunajijengea sisi wenyewe. 🇰🇪
 
