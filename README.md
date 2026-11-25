@@ -132,6 +132,29 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 ## 💼 Featured Projects
 
+### 🎯 Project 2 — Real-Time Fraud Detection *(Week 2)*
+**Random Forest · Kafka · Redis · FastAPI · Docker · Grafana**
+
+End-to-end fraud scoring on 284,807 real card transactions: Kafka streams the transactions, Redis caches, FastAPI returns a fraud score in 22ms, and Grafana monitors the service.
+
+**Phase 2 rigour pass (in progress):**
+- Leakage-free evaluation: stratified cross-validation with resampling inside each fold; out-of-fold PR-AUC 0.846
+- Calibration checked: isotonic and Platt scaling did not beat the raw scores (PR-AUC 0.831 and 0.836 vs 0.846), so the raw scores are kept
+- Next: a cost-based alert threshold, because a missed fraud costs far more than a false alarm
+
+*Outputs a fraud score designed to feed a case-management queue, not just a prediction.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+> ✅ Built · 🔧 Rigour re-run in progress · Week 2 · [Repository](https://github.com/M20Jay/fraud-detection-pipeline)
+
+---
+
 ### 📊 Project 12 — Loan Portfolio at Scale *(Week 12)*
 
 **PySpark · BigQuery · dbt · Airbyte · Airflow · Looker Studio**
