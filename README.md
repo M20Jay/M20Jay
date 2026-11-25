@@ -63,7 +63,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 ## 🚀 Production ML Systems
 
-*12 production ML systems on real data, from fraud and credit risk to air quality and satellite forest monitoring. Phase 2 is in progress: re-measuring the core models with leakage-free evaluation.*
+*12 end-to-end ML systems on real data, from fraud and credit risk to air quality and satellite forest monitoring. Phase 2 is in progress: re-measuring the core models with leakage-free evaluation.*
 
 ![Progress](https://geps.dev/progress/40?successColor=4169E1) **Phase 1 complete — 12 systems shipped · Phase 2 in progress**
 
@@ -136,7 +136,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 
 **PySpark · BigQuery · dbt · Airbyte · Airflow · Looker Studio**
 
-Production loan portfolio pipeline processing 221,518 loans with full weekly automation — Airbyte syncs data, dbt transforms it, a CLV model retrains, an A/B test recalculates, all orchestrated through a single Airflow DAG.
+End-to-end loan portfolio pipeline processing 221,518 loans with full weekly automation — Airbyte syncs data, dbt transforms it, a CLV model retrains, an A/B test recalculates, all orchestrated through a single Airflow DAG.
 
 - Data: 221,518 loans, 955,815 payments, ingested via Airbyte
 
@@ -157,7 +157,7 @@ Production loan portfolio pipeline processing 221,518 loans with full weekly aut
 ### 🌍 Project 11 — Deforestation Risk Classifier *(Week 11)*
 **GFW API · Random Forest · SageMaker Training Jobs · S3 Parquet · scipy drift · FastAPI · Docker · AWS**
 
-Production deforestation risk classifier for East Africa using real satellite data from the Global Forest Watch API. Ingested programmatically via authenticated POST requests — no manual downloads. SageMaker Training Jobs submitted via boto3, comparing managed cloud training against self-managed EC2 training.
+End-to-end deforestation risk classifier for East Africa using real satellite data from the Global Forest Watch API. Ingested programmatically via authenticated POST requests — no manual downloads. SageMaker Training Jobs submitted via boto3, comparing managed cloud training against self-managed EC2 training.
 
 - Countries covered: Kenya · Tanzania · Uganda · Ethiopia · DRC
 - Drift monitoring: scipy KS test + PSI (Population Stability Index)
@@ -178,12 +178,12 @@ Production deforestation risk classifier for East Africa using real satellite da
 ### 🌍 Project 6 — Environmental Anomaly Detection + Time Series *(Week 6)*
 **ARIMA · Prophet · LSTM (PyTorch) · Isolation Forest · Streamlit · FastAPI · Docker · AWS EC2**
 
-Production environmental monitoring pipeline trained on 11,998 real PM2.5 sensor readings from 5 Nairobi locations via OpenAQ. Answers two questions automatically for every hourly reading: What will PM2.5 be next? Is this reading dangerous?
+End-to-end environmental monitoring pipeline trained on 11,998 real PM2.5 sensor readings from 5 Nairobi locations via OpenAQ. Answers two questions automatically for every hourly reading: What will PM2.5 be next? Is this reading dangerous?
 
 **Key EDA findings:**
-- PM2.5 peaks at **4am every day** — night burning trapped in cold air
+- PM2.5 peaks at **4am every day** — likely night burning trapped in cold air (a hypothesis, not tested here)
 - **Friday** is consistently the worst day of the week
-- Maximum spike: **469 µg/m³** on 2024-02-18 at 4am — **93x the WHO annual safe limit**
+- Maximum spike: **469 µg/m³** on 2024-02-18 at 4am (one hourly reading), far above the WHO 24-hour guideline of 15 µg/m³
 - 1.8% of all readings exceed the dangerous US EPA threshold of 55 µg/m³
 
 | Model | RMSE | MAE | Type |
@@ -246,6 +246,13 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 ![LaBSE](https://img.shields.io/badge/LaBSE-4285F4?style=flat)&nbsp;
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6B48FF?style=flat)
 
+**🔧 Data Engineering**
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)&nbsp;
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)&nbsp;
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat&logo=airbyte&logoColor=white)&nbsp;
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)&nbsp;
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+
 **⚙️ Deployment and Infrastructure**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)&nbsp;
@@ -276,9 +283,10 @@ Credit risk scoring for loan applicants — answers three questions simultaneous
 
 | Area | Skills |
 |------|--------|
-| **Fintech ML** | Credit risk · fraud detection · CLV · RFM · propensity models · PAR · NIM · DPD · cohort analysis · 5 fintech domains |
+| **Fintech ML** | Credit risk · fraud detection · CLV · RFM · propensity models · PAR · NIM · DPD · cohort analysis |
 | **Machine Learning** | Fraud detection · churn · credit risk · segmentation · time series forecasting · anomaly detection · SHAP explainability · leakage-free cross-validation · calibration · threshold selection |
-| **Deep Learning** | LSTM (PyTorch) · sequence modelling · time series · OOP neural network architecture |
+| **Deep Learning** | LSTM (PyTorch) · sequence modelling · time series |
+| **Data Engineering** | Airflow orchestration · dbt · Airbyte ingestion · PySpark · BigQuery · Kafka streaming |
 | **MLOps** | End-to-end pipelines · Docker · MLflow · Evidently drift monitoring · pytest · DVC |
 | **Streaming** | Real-time scoring · Apache Kafka · Redis caching · sub-22ms latency |
 | **NLP & RAG** | Semantic search · LaBSE · ChromaDB · vector embeddings · multilingual · 109 languages |
