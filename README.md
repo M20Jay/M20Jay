@@ -90,10 +90,10 @@ Tunajijengea sisi wenyewe. 🇰🇪
 |------|---------|-------|--------|
 | **2.1** | Evaluation rigour pass: churn, fraud, credit risk | StratifiedKFold · imblearn Pipeline · OOF thresholds · isotonic calibration · PR-AUC · cost-based threshold · sealed test · drift · tests + CI · model card | 🔧 In progress |
 | **2.2** | Cloud architecture reference build: Terraform + ECS, private networking, managed data | Terraform · VPC (private subnets) · ALB · ECR · ECS Fargate · RDS · S3 · IAM · Secrets Manager · multi-AZ and cost notes · architecture diagram · teardown script | ⏳ Planned |
-| **2.3** | Data engineering core | SQL window functions · star schema + SCDs · dbt tests · Airflow · Great Expectations · lineage · data contracts · PySpark batch · Kafka streaming | ⏳ Planned |
+| **2.3** | Data engineering core | SQL window functions · star schema + SCDs · dbt tests · Airflow · Great Expectations · lineage · data contracts · PySpark batch · Snowflake and BigQuery warehouse targets (dbt on both) | ⏳ Planned |
 | **2.4** | Kubernetes on EKS + Helm | Terraform EKS · Helm · probes · HPA + KEDA · RBAC + network policies · break-and-recover drill | ⏳ Planned |
 | **2.5** | CI/CD with rollback; observability; governance | GitHub Actions · Prometheus · Grafana · SLOs · Evidently alerts · MLflow registry · model cards · audit trail · data provenance | ⏳ Planned |
-| **2.6** | Azure rebuild of the data pipeline | Data Factory or Fabric · Databricks or Synapse · Power BI · Terraform | ⏳ Planned |
+| **2.6** | Azure rebuild of the data pipeline | Data Factory or Fabric · Databricks · Power BI · Terraform | ⏳ Planned |
 
 <details>
 <summary><b>▶ Phases 3–8: what comes next (click to expand)</b></summary>
