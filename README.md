@@ -89,7 +89,7 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | Step | Project | Stack | Status |
 |------|---------|-------|--------|
 | **2.1** | Evaluation rigour pass: churn, fraud, credit risk | StratifiedKFold · imblearn Pipeline · OOF thresholds · isotonic calibration · PR-AUC · cost-based threshold · sealed test · drift · tests + CI · model card | 🔧 In progress |
-| **2.2** | Cloud architecture reference build: Terraform + ECS, private networking, managed data; Great Expectations on loan pipeline | Terraform · VPC (private subnets) · ALB · ECR · ECS Fargate · RDS · S3 · IAM · Secrets Manager · multi-AZ and cost notes · architecture diagram · teardown script | ⏳ Planned |
+| **2.2** | Cloud architecture reference build: Terraform + ECS, private networking, managed data | Terraform · VPC (private subnets) · ALB · ECR · ECS Fargate · RDS · S3 · IAM · Secrets Manager · multi-AZ and cost notes · architecture diagram · teardown script | ⏳ Planned |
 | **2.3** | Data engineering core | SQL window functions · star schema + SCDs · dbt tests · Airflow · Great Expectations · lineage · data contracts · PySpark batch · Kafka streaming | ⏳ Planned |
 | **2.4** | Kubernetes on EKS + Helm | Terraform EKS · Helm · probes · HPA + KEDA · RBAC + network policies · break-and-recover drill | ⏳ Planned |
 | **2.5** | CI/CD with rollback; observability; governance | GitHub Actions · Prometheus · Grafana · SLOs · Evidently alerts · MLflow registry · model cards · audit trail · data provenance | ⏳ Planned |
@@ -101,11 +101,13 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | Step | Project | Stack | Status |
 |------|---------|-------|--------|
 | **Phase 3** | **LLM and agents** | | |
+| **3.0** | Neural network foundations in PyTorch | training loop from scratch · CNN · transfer learning · Vision Transformer · error analysis · model card | ⏳ Planned |
 | **3.1** | RAG v2 | modular src/ structure · tests per component · pgvector · hybrid retrieval · RAGAS · Langfuse · FastAPI | ⏳ Planned |
 | **3.2** | LLM serving + guardrails | vLLM · evaluation harness · regression tests | ⏳ Planned |
 | **3.3** | Fine-tuning | LoRA · QLoRA · PEFT · model card | ⏳ Planned |
 | **3.4** | Agents + MCP | LangGraph · MCP · tool use · memory | ⏳ Planned |
 | **3.5** | Second-cloud LLM service | Azure OpenAI / Bedrock · same service on both clouds | ⏳ Planned |
+| **3.6** | Multimodal: image-text retrieval and a vision-language model feeding RAG v2 | CLIP-style embeddings · VLM · pgvector · evaluation | ⏳ Planned |
 | **Phase 4** | **Applied science** | | |
 | **4.1** | Experimentation | A/B test simulation · Bayesian A/B testing (Beta-Binomial, expected loss) · confounders · observational vs randomised | ⏳ Planned |
 | **4.2** | SIR / SEIR epidemiology 🌍 (short extension) | SciPy ODEs · R0 · scenarios · Prophet/ARIMA comparison · MLflow · Streamlit | ⏳ Planned |
@@ -113,16 +115,16 @@ Tunajijengea sisi wenyewe. 🇰🇪
 | **Phase 5** | **Data engineering depth** | | |
 | **5.1–5.5** | Feature stores, Spark tuning, streaming + data contracts at scale, governance, API design | Feast · PySpark · Kafka · lineage · versioned APIs | ⏳ Planned |
 | **Phase 6** | **Security and reliability** | | |
-| **6.1–6.6** | Security + IAM, model governance, inference optimisation, reliability + SLOs, time-series backtesting | least privilege · model cards · quantisation · load testing · rolling-origin backtests | ⏳ Planned |
+| **6.1–6.6** | Security + IAM, model governance, inference optimisation (ONNX export, quantisation, Triton vs FastAPI serving), reliability + SLOs, time-series backtesting | least privilege · model cards · ONNX · Triton · quantisation · load testing · rolling-origin backtests | ⏳ Planned |
 | **Phase 7** | **Capstone** | | |
 | **7.1–7.3** | Kiswahili RAG + agent system on Kubernetes 🌍 | AfriBERTa · LaBSE · pgvector · LangGraph · Kubernetes · monitoring · evaluation | ⏳ Planned |
 | **7.4–7.6** | Portfolio hardening, system design drills, final review | READMEs · diagrams · 10 worked system designs | ⏳ Planned |
 | **Phase 8** | **Fraud, identity and financial-crime AI (2027 track)** | | |
 | **8.1** | Account takeover / behavioural anomaly detection (resumes the parked prototype) | Behavioural features · cost-based allow / step-up / block · reason codes · latency budget | ⏳ Planned |
-| **8.2** | Document fraud (KYC) | OCR or Docling · field extraction · validation checks · tamper signals | ⏳ Planned |
-| **8.3** | Liveness and deepfake detection (image, video, voice) | Computer vision · deep learning · evaluation on generators unseen in training | ⏳ Planned |
+| **8.2** | Document fraud (KYC) | Classical OCR vs vision-language model vs hybrid · field-level accuracy · hallucination cases · validation checks · tamper signals | ⏳ Planned |
+| **8.3** | Liveness and deepfake detection (image, video, voice) | Presentation-attack and injection-attack tests · APCER/BPCER-style error rates · voice deepfake test · evaluation on generators unseen in training | ⏳ Planned |
 | **8.4** | Agentic KYC review with guardrails | LangGraph · untrusted-input handling (OCR text) · hard guardrails · agent-vs-human evaluation · logging | ⏳ Planned |
-| **8.5** | Identity-risk decision engine | Combines 8.1 to 8.4 · audit trail · human-review queue · one explained decision per request | ⏳ Planned |
+| **8.5** | Identity-risk decision engine | Layers document, face, liveness, account and transaction signals · stress-tests the whole chain · audit trail · human-review queue · one explained decision per request | ⏳ Planned |
 
 </details>
 
